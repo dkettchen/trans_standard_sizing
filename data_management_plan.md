@@ -1,0 +1,53 @@
+# Data Management Plan
+[last updated December 2025]
+
+Ren Zoller is in charge of all aspects of this project, including data management.
+
+## What kind of data are you generating
+- A set of questionnaire responses
+- A set of standard measurements to use to pattern draft garments for trans people
+- Software to clean and process the former dataset into the latter
+- Any supporting documentation for the project
+
+## How much data will you generate
+The survey responses will be determined by the number of respondants. We expect a few hundred to a few thousand if the survey goes especially viral. For reference, much more established gender diverse surveys get up to 50k responses which make for a single ~20MB csv file, so this one will get nowhere near that big.
+
+Standard measurements usually make a page-sized table per each set. There will be measurements for regular size, plus size, extra tall, and petit(e) for either transition direction.
+
+The software will be some code files organised in an appropriate folder structure.
+
+Supporting documentation will be a few text files in relevant formats.
+
+## What standards and methodologies will you use?
+For methodology, please see our methodology documents.
+
+## Is the data sensitive? How will this be managed?
+Any sensitive data, like age or medical information, will be collected as generically as possible and anonymised where not already anonymous before publishing. 
+
+No participant will be individually identifyable based on their published responses. 
+
+Participants will be asked to confirm their informed consent to participate before undertaking the survey.
+
+## Where will the data be stored?
+During the survey, the data will be held by the survey site used. (TBC)
+
+During processing and after the project concludes, it will be stored on Ren's computer and backed up to on github.
+
+The final data will be publicly available on github indefinitely. The published survey data and results will likely also be available on relevant other repository sites, and the resulting trans standard measurements will be shared across social media and Ren's website.
+
+## Will the data be valuable for future research?
+Any datasets on small minority groups like the trans community are rare and therefore invaluable.
+
+The survey's aim is to generate a dataset that is not only useful to this project's practical goal of producing trans standard sizing, but also hopefully to future research about trans people's relationship to standard sizing in their birthsex aisle pre-transition and in their target gender aisle post-transition. It may be able to lend insight into questions like:
+
+- How commonly do trans people actually experience fit issues due to being trans?
+- What fit issues are most common?
+- Does unconventional height for one's birthsex aggravate/alleviate common fit issues?
+- How does their relationship to standard sizing change as they transition?
+- How does bodytype (ex. plus size) influence that relationship?
+
+However due to the limited aims of this project, we did not go out of our way to try and make the dataset representative of the entire trans community beyond what is needed for the project, so it should not be assumed to be representative of any aspect outside of those relevant to the scope of the project.
+
+    Ex. Race & country of origin are assumed to not impact human body proportions (within the same bodytype/height/sex/etc category), so this project does not collect that demographic data or concern itself with whether there is a bias towards any specific geographical/ethnic group, like say a likely bias towards respondants from the english-speaking world, as the project/survey is in english.
+
+    Ex. The project is meant to help trans people who are post-transition, trying to be read as the correct gender, and struggling to find appropriately fitting target gender clothes off-the-rack. Not all trans people are in this position and those less affected by this specific circumstance may feel less inclined to participate, and, even if they do, their habits will be less well-explored by the questions of the survey.
