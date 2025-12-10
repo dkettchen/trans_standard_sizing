@@ -23,20 +23,20 @@ This would not only be useful to trans people and their loved ones making them c
 
 ### To determine what that standard should cater to, these are our guiding principles:
 
-#### Being trans is a temporal phenomenon
+#### 1) Being trans is a temporal phenomenon
 - **Trans people go through different phases over time**, where they will have different needs, priorities, circumstances, and anatomy. No single standard will be able to cater to all of these stages and not all of them struggle with this particular problem (yet) in the first place.
 - **Transition is a temporary process.** (Ideally) most of trans people’s (out) lives will be spent in their end-state, not some inbetween stage.
 
-#### Sustainable fashion
+#### 2) Sustainable fashion
 - You should **invest in clothes that will last you for a long time**, not in clothes highly customised to a temporary body and circumstance that won’t fit you anymore in a few years.
 - Your clothes should (ideally) be able to fit other people (of your bodytype category) so they **can be reused by others** (i.e. sold/donated as second hand) when you’re not using them yourself anymore.
 
-#### Passing-safety
+#### 3) Passing-safety
 - Once misgendering as one’s birthsex is avoidable, **not getting misgendered is the healthiest option** for trans people’s wellbeing.
 - **Gendered fashion helps with correct gendering** by constructing clear(er) gendered shape language with clothes.
 
 ####
-Trans standard sizing should look best on people who are (as) **physically post-transition** (as possible) and actively **trying not to get misgendered** as their birthsex.
+Trans standard sizing should look best on people who are (as) **physically post-transition** (as possible) and **actively trying not to get misgendered** as their birthsex.
 
 At that point their body’s shapes should no longer change (more than anyone else’s), and they will be most in need of appropriately fitting target gender fashion.
 
@@ -68,7 +68,7 @@ Men’s specific resources are highly limited (men only wear business pants and 
 
 I know I’m by far not the only trans person with this problem. So many of us (transmasc or transfemme) struggle to find clothing in the right size and shape, and I know notably a lot of transmascs are put off by the perceived lack of options among men’s fashion.
 
-I want to make fashion more accessible and fun to us again (without every last one of us having to essentially become a fully-qualified tailor about it).
+I want to make fashion more accessible and fun to us again (*without* every last one of us having to essentially become a fully-qualified tailor about it).
 This research project will form a core part of being able to do that.
 
 
@@ -85,3 +85,15 @@ TODO: scott says we may be able to ask for TfGM’s support for my project too! 
 TODO contact fashion dept
 	all 23 of them have ignored me :c
 -->
+
+## What will the project entail?
+
+First we will run a survey, asking relevant trans people for their measurements and some additional info (on their transition state, bodytype, relationship to standard sizing pre- and post-transition).
+
+That dataset will then be used to determine trans standard measurements for each size category (regular, plus size, extra tall, petit(e)). 
+
+The resulting trans standard sizing charts will then be publicly available knowledge for anyone, including industry, to use to make sewing patterns and garments for trans people.
+
+Finally, I will make sample garments as a proof of concept to demonstrate the results of the project at any fashion, tech, and lgbt+ event that will have me. 
+
+> These will include garments I'll pattern-draft, test on my fit models, and sew myself (to demonstrate DIY/tailor use case), and (hopefully) some garments commissioned from industry manufacturers (to demonstrate industry use case).
