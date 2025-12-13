@@ -1,16 +1,19 @@
-## Data policy/Consent form
+## Consent form
 
-By participating in this survey, you consent to your anonymous responses being published and used for this research project and any potential future research projects looking to reuse this dataset.
+I confirm that I have read the Participation Information Sheet.
 
-Any sensitive data, like age or medical information, will be collected as generically as possible and anonymised where not already anonymous before publishing.
+I understand that my participation is voluntary and will not affect my rights.
 
-No participant will be individually identifyable based on their published responses. 
+I understand and agree that the information collected in this survey will be published unless otherwise specified.
 
-<!-- TODO what survey site will we be using?
-TODO how does survey site store data while survey is running? -->
+I give permission for a fully anonymised version of the data I provide to be published online for Open Access so that it can be used for future research and learning. 
 
-After the survey concludes the project’s data, including the anonymised, raw survey responses, will be stored and available in a [public repository on my github](https://github.com/dkettchen/trans_standard_sizing).
+[] I give my informed consent to participate in this survey.
 
-Once the data has been processed into trans standard measurements, they will be published on that repo, on socials, and sent out to anyone who has opted into our mailing list.
+## Sign up to our mailing list(s):
+
+[] I would like to be sent the results of this project.
+[] I would like to get updates about this project.
+
 <!-- TODO figure out data stuff around mailing list -->
 

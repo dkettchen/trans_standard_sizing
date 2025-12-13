@@ -1,3 +1,10 @@
+# Before starting the survey, make sure you have:
+- a measuring tape, or some other means of taking your measurements (ex. string and a ruler)
+- some time (TODO estimate)
+- (optionally) someone to help you take your measurements
+
+# Questionnaire
+
 **Please confirm that you fit the requirements to participate in this survey:**
 - you are trans
 - you are over 18
@@ -175,3 +182,12 @@ This is to be able to reidentify the measurements of any of my friends & acquain
 - Down the line I’ll also need some models for events and photoshoots that can be based elsewhere (ex. London friends) and that I want to include a diverse/representative range of looks beyond just fit (explicitly inviting any friends who are f.e. POC, 40+, etc).
 - If we’ve not been in touch for a while and/or I don’t have you on any socials, feel free to message me on insta or discord or something (I’m @dkettchen on everything) or email me at dkettchen@gmail.com - notably if you’d fit the pattern testing criteria above! 
 
+# End page
+Thank you for participating. :)
+
+Feel free to share the survey online, with friends, and/or in your local community spaces:
+<!-- [links to shareable posts on various social media platforms & link to survey directy] -->
+
+<!-- Sign up to our mailing list if you haven't yet and want to be sent the results of this project (ie the Trans Standard Measurements chart) when it's done. -->
+
+<!-- You can also follow me on socials or linkedin for any updates after that (ie when I make sample garments & go to events to present the project).  -->
