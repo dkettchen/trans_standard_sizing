@@ -1,0 +1,1 @@
+Japan and Korean shirt by neck source: [14](https://web.archive.org/web/20120516161732/http://www.korea4expats.com/article-men's_clothing_size_conversion_chart.html)
