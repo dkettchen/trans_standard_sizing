@@ -1,4 +1,5 @@
-# The Trans Standard Sizes Project
+## The Trans Standard Sizes Project
+<!-- project description -->
 
 Fashion industry uses a set of standard measurements to “grade” their sewing patterns for different sizes. This way most people are able to go to a store and find clothes that roughly fit them.
 
@@ -13,45 +14,48 @@ If we had a set of standard measurements for trans people, one could create mult
 This would not only be useful to trans people and their loved ones making them clothes at home, but also to anyone in fashion industry/clothing manufacturing who has trans clients.
 
 > Ex. I need high-vis at work, but don’t fit standard-issue. Ill-fitting PPE is not regulation, so we’re looking into getting our manufacturer to make me custom high-vis, which they’ll need to bring me in for to take my measurements.
-> If I had a handy chart of trans standard sizes, I could just send them that, go “this is my size, just make it to these measurements” and save them the extra effort.
+If I had a handy chart of trans standard sizes, I could just send them that, go “this is my size, just make it to these measurements” and save them the extra effort. 
+It would also enable them to make a graded trans pattern once and have it on file to reuse for any repeat or new trans customers.
 
-## Goal of the project:
+### Goal of the project
 
-### The goal of this project is to produce standard sizing for trans people who struggle to find clothes off-the-rack post-transition, that will fit those trans people as well as clothes from their birthsex’s aisle fit them pre-transition.
+The goal of this project is to produce standard sizing for trans people who struggle to find clothes off-the-rack post-transition, that will fit those trans people as well as clothes from their birthsex’s aisle fit them pre-transition.
 
-> (For better or for worse, my apologies to anyone who was frustrated with standard sizing before already. *I* did fit them pre-transition, and this project is ultimately happening out of pure self-interest.)
+#### Our guiding principles for this standard are as follows:
+1) Being trans is a temporal phenomenon
+    - Trans people go through different phases over time, where they have different needs, priorities, circumstances, and anatomy. No single standard can cater to all of them and not all of them have this issue (yet) to begin with.
+    - Transition is temporary. (Ideally) most trans people's (out) lives will be spent in their end-state, not an inbetween stage.
 
-### To determine what that standard should cater to, these are our guiding principles:
+2) Sustainable fashion
+    - You should invest in clothes that will last you a long time, not in clothes highly customised to a temporary body and circumstance that won't fit you in a few years.
+    - Your clothes should fit other people (if possible) so you can sell/donate them as second-hand once you're not using them anymore.
 
-#### 1) Being trans is a temporal phenomenon
-- **Trans people go through different phases over time**, where they will have different needs, priorities, circumstances, and anatomy. No single standard will be able to cater to all of these stages and not all of them struggle with this particular problem (yet) in the first place.
-- **Transition is a temporary process.** (Ideally) most of trans people’s (out) lives will be spent in their end-state, not some inbetween stage.
+3) Passing safety
+    - Once misgendering as one's birthsex is avoidable, not getting misgendered is the healthiest option for trans people's wellbeing.
+    - Gendered fashion helps with correct gendering by constructing clear(er) gendered shape language with clothes.
 
-#### 2) Sustainable fashion
-- You should **invest in clothes that will last you for a long time**, not in clothes highly customised to a temporary body and circumstance that won’t fit you anymore in a few years.
-- Your clothes should (ideally) be able to fit other people (of your bodytype category) so they **can be reused by others** (i.e. sold/donated as second hand) when you’re not using them yourself anymore.
+#### This means:
 
-#### 3) Passing-safety
-- Once misgendering as one’s birthsex is avoidable, **not getting misgendered is the healthiest option** for trans people’s wellbeing.
-- **Gendered fashion helps with correct gendering** by constructing clear(er) gendered shape language with clothes.
+- Trans standard sizing should look best on people who are (as) physically post-transition (as possible) and actively trying not to get misgendered as their birthsex. Their body won't change (more than anyone else's) anymore and they are most in need of appropriately fitting target gender fashion.
 
-####
-Trans standard sizing should look best on people who are (as) **physically post-transition** (as possible) and **actively trying not to get misgendered** as their birthsex.
+- Therefore measurements should reflect the medical interventions people of the relevant transition direction usually get.
+    > Ex. Most transmascs (eventually) get top surgery and if they (voluntarily) forgo it it's usually because they only had a small amount of breast tissue to begin with
+    <br>-> transmasc sizing should suppose flat(ter) chests, same as cis-male fashion.
 
-At that point their body’s shapes should no longer change (more than anyone else’s), and they will be most in need of appropriately fitting target gender fashion.
+- Most of our common fit issues arise from our bones from first puberty, so these garments should also fit better than cis-sized options on:
+    - people pre-transition already
+    - people on lower doses of HRT
+    - relevant crossdressing cis people (ex. crossplayers)
 
-This means the measurements should **reflect the medical interventions most trans people of their direction get**.
-> Ex. The vast majority of transmascs (eventually) get top surgery, and those who (voluntarily) forgo it tend to do so because they only had a very small amount of breast tissue in the first place, so the transmasc standard should assume flat(ter) chests, same as cis-male fashion.
+- The designs made from these measurements should match men's and women's fashion respectively to give their wearer the best shot at not being misgendered as their birthsex.
+    > Ex. Suitwear for transfemmes should strictly adhere to women’s fashion shape language to assure it clearly reads as women’s suitwear and does not get them misgendered as men.
 
-As most of our common fit issues arise from our bones as shaped by first puberty, these garments should also already fit better than cis-sized options on people pre-transition, on people on lower doses of HRT, and on relevant crossdressing cis people (ex. crossplayers).
-
-The designs made from these measurements should **conform to the shape language and garment types typical for men’s and women’s fashion** respectively to give their wearer the best shot at not being misgendered as their birthsex.
-> Ex. When drafting suitwear for transfemmes, one should strictly adhere to women’s fashion shape language to assure it clearly reads as women’s suitwear and does not get them misgendered as men.
-
-This means the measurements should **reflect the measurements needed to draft those garments**. 
-> Ex. Women’s fashion needs more intricate chest measurements, so transfemme measurements should include those.
+- So the measurements should be the ones needed to draft that.
+    > Ex. Women’s fashion needs more intricate chest measurements, so transfemme measurements should include those.
 
 ## Who is running this project?
+<!-- about me -->
+
 Hi! My name is Ren Zoller (@dkettchen). I’m a gender non-conforming trans man in my late 20s based in Manchester, UK. 
 
 I was a femme-presenting nonbinary for about a decade and only started successfully being able to pass as male as recently as 2024 (5+ years into medical transition). 
@@ -72,28 +76,22 @@ I want to make fashion more accessible and fun to us again (*without* every last
 This research project will form a core part of being able to do that.
 
 
-In my day job I work as a data engineer at Metrolink, and I am a degree apprentice in data analysis at Manchester Metropolitan University.
+In my day job I work as a data engineer at Metrolink, and am a degree apprentice in data analysis at Manchester Metropolitan University.
 
 This project will be my entry to MMU’s [Making Great Community Incubator 2026](https://rise.mmu.ac.uk/activity/making-great-community-incubator-2026/) in hopes of securing some mentoring and funding for making sample garments from the final measurements to tour the local fashion, tech, and LGBT+ events with and raise awareness about the project.
 
-<!-- 
-TODO: reach out to lgbt charities to also ask for support so I can put their name on the thingggg (and as I’ll be asking them to signpost this survey anyway)
-TODO: scott says we may be able to ask for TfGM’s support for my project too! bc of inclusive PPE! (lmao at Darren being like it’s not within your employer’s scope, meanwhile my employer-)
--if so ask for funding to have supplier make some sample garments based on trans standard sizes for me/other trans employees (who are then also invited to come along & model their PPE if we get into fashion week/similar)
--also possibly ask sophie if national rail wants in on this (& if she wants some of the sample PPE)
-	-also might just be able to work w the supplier directly to get sample garments made
-TODO contact fashion dept
-	all 23 of them have ignored me :c
--->
-
 ## What will the project entail?
 
-First we will run a survey, asking relevant trans people for their measurements and some additional info (on their transition state, bodytype, relationship to standard sizing pre- and post-transition).
+1) a survey asking relevant trans people to submit their measurements and answer some questions on their body (bodytype, transition state, etc) and relationship to standard sizing pre- and post-transition
 
-That dataset will then be used to determine trans standard measurements for each size category (regular, plus size, extra tall, petit(e)). 
+2) data processing to extract trans standard measurements and other insights from that dataset
 
-The resulting trans standard sizing charts will then be publicly available knowledge for anyone, including industry, to use to make sewing patterns and garments for trans people.
+3) producing sample garments using these measurements as proof of concept to present the project at fashion/tech/lgbt+ events
 
-Finally, I will make sample garments as a proof of concept to demonstrate the results of the project at any fashion, tech, and lgbt+ event that will have me. 
+    - Some garments will be drafted and sewn by me, but I also hope to have some made by industry manufacturers to demonstrate industry use (ex. PPE).
 
-> These will include garments I'll pattern-draft, test on my fit models, and sew myself (to demonstrate DIY/tailor use case), and (hopefully) some garments commissioned from industry manufacturers (to demonstrate industry use case).
+    - This process will be considered an application of the results of this project more than an actual part of the project, so I will not be including any drafting instructions or patterns in the published project data.
+
+4) writing up an academic report/paper about the project's findings to be peer reviewed and published in relevant academic/industry/community outlets
+
+    - This will help get the project taken seriously by and enable it to be useful to both academia and the fashion industry, not just individuals in the trans community and its allies.

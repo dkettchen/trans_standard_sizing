@@ -25,6 +25,7 @@
 |  <div style="width:40vw">transmasc</div>	| <div style="width:40vw">transfemme</div> | 
 |-|-|
 | **Have you had top surgery** (double masectomy via double incision or keyhole and masc chest reconstruction) **or a radical chest reduction** (removing the vast majority of your breast tissue without severing the tubes)? - y/n | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? - y/n | 
+| **Have you had a hysterectomy?** - y/n |  |
 | **Are you generally working with more-than-naturally-available-to-you crotch-volume either via (external) bottom surgery or habitual packing?** - y/n | **Are you generally working with crotch-volume similar to that of cis women either via bottom surgery or habitual (successful) tucking?** - y/n | 
 | **Have you had any surgery that changed any of your other torso measurements?** (ex. surgical lipo redistribution) - y/n | **Have you had any surgery that changed any of your other torso measurements?** (ex. butt augmentation) - y/n | 
 | **Are you on a full/standard dose of testosterone?** - y/n | **Are you on a full/standard dose of estrogen AND either on T-blockers or have had surgery that removes the testes?** - y/n | 
@@ -83,9 +84,14 @@ base measurements everyone will need to fill out
 - rise to natural waist
 
 <!-- table -->
-|  <div style="width:20vw">transmasc (top surgery)</div>	| <div style="width:35vw">transmasc (no top surgery)</div>	| <div style="width:25vw">transfemme</div> | 
+|  <div style="width:25vw">transmasc (top surgery)</div>	| <div style="width:25vw">transmasc (no top surgery)</div>	| <div style="width:25vw">transfemme</div> | 
 |-|-|-|
-| chest measurement | bust measurement (optional, can be done over binder Idc) & underbust measurement | a variety of chest measurements for bra purposes (TODO look up)|
+| chest measurement | underbust measurement | underbust measurement |
+|  | (optional) bust measurement (without binder) | bust measurement |
+| (optional) nipple distance | (optional) nipple distance (without binder) | nipple distance |
+| (optional) scar type (double incision, reduction, key hole) | (optional) bust measurement (with binder) | any other chest measurements for bra purposes (TODO look up) |
+| (optional) measurements for scar placement if anyone wants to design scar-show-off garments based on average | | |
+
 
 ### You will now be asked some questions about your relationship to standard sizing/off-the-rack fashion pre- and post-transition.
 

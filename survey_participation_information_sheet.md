@@ -1,10 +1,14 @@
 # Participation Information Sheet
 
-## The trans standard sizing Project
+## The Trans Standard Sizing Project
 <!-- project description -->
+
+Copy from [README](README.md/#the-trans-standard-sizes-project).
 
 ## Who is running this project?
 <!-- about me -->
+
+Copy from [README](README.md/#who-is-running-this-project).
 
 ## Who is invited to participate?
 <!-- participant requirements -->
@@ -32,7 +36,7 @@ You are invited to take part in this survey if you:
 No, participation is voluntary and you can quit out of the survey at any point without submitting your responses.
 
 ## What will I be asked to do?
-Fill out a survey, part of which will include taking your measurements.
+Fill out a survey, part of which will involve taking your measurements.
 
 ## What information about me will you collect and why?
 <!-- explain what survey will ask about and reasons for each -->
@@ -47,8 +51,7 @@ The survey will ask for:
 - (optionally) Your suggestions for garments you'd like to see available in trans sizing. This will help me and others know which patterns to prioritise making.
 - (optionally) If you know me in person and you're willing to be a fit model for my own pattern testing and/or to model finished clothes at events/photoshoots down the line, your first name, so I can reidentify your measurements and we won't have to retake them later. *This will be not be part of the published data set, this is just for my own reference.*
 
-The questions on your body and relationship to standard sizing will also help provide context and enable crossreferencing of your responses for data analysis.
-> ex. What impact does your category have on your relationship to standard sizing and fit issues you may experience?
+The questions on your body and relationship to standard sizing will also help provide context and enable crossreferencing of your responses for data analysis. (ex. What impact does your category have on your relationship to standard sizing and fit issues you may experience?)
 
 This data is collected in the public interest, as this project aims to benefit the global trans and gender diverse community, and make its data publicly available (ex. for further research).
 
@@ -57,7 +60,7 @@ This data is collected in the public interest, as this project aims to benefit t
 
 The survey responses will be anonymised where not already anonymous. No individual respondant will be able to be identified based on their published data.
 
-The anonymous responses will then be published on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), where they will remain publicly available indefinitely for anyone who may find them useful.
+The anonymous responses will then be published on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), where they will remain publicly available indefinitely for anyone who may find them useful. They may also be added to other Open Access repositories down the line where researchers can find them more easily.
 
 As the responses will be anonymous and published for open access, we won't be able to delete or update your data after the fact.
 
@@ -74,7 +77,7 @@ I will also do some statistical data analysis to draw basic insights from the re
 The resulting trans standard measurements will be published for anyone to use. 
 They will be available on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), [my website](https://www.dkettchen.com) and socials (@dkettchen), and they will be sent to anyone who signed up to [the project's mailing list]().
 
-The project's data, including the raw, anonymised survey responses, any code written for it, documentation, and the final results, will be openly available on the github repo, and possibly added to academic repositories down the line as well.
+The project's data, including the raw, anonymised survey responses, any code written for it, documentation, and the final results, will be openly available on the github repo, and possibly added to other Open Access repositories down the line as well.
 
 I will make sample garments and present the project at relevant tech/fashion/lgbt+ events after the survey and data processing part of the project have concluded.
 
