@@ -24,7 +24,7 @@
 
 |  <div style="width:40vw">transmasc</div>	| <div style="width:40vw">transfemme</div> | 
 |-|-|
-| **Have you had top surgery** (double masectomy via double incision or keyhole and masc chest reconstruction) **or a radical chest reduction** (removing the vast majority of your breast tissue without severing the tubes)? - y/n | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? - y/n | 
+| **Have you had top surgery** (double mastectomy via double incision, keyhole/periareolar, or a radical reduction)? - y/n (* this had to be moved to measurements section instead due to google forms' conditional logic limitations) | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? - y/n | 
 | **Have you had a hysterectomy?** - y/n |  |
 | **Are you generally working with more-than-naturally-available-to-you crotch-volume either via (external) bottom surgery or habitual packing?** - y/n | **Are you generally working with crotch-volume similar to that of cis women either via bottom surgery or habitual (successful) tucking?** - y/n | 
 | **Have you had any surgery that changed any of your other torso measurements?** (ex. surgical lipo redistribution) - y/n | **Have you had any surgery that changed any of your other torso measurements?** (ex. butt augmentation) - y/n | 
@@ -47,6 +47,11 @@
 - 5-10 years
 - 10+ years
 
+<!-- putting this here due to google forms conditional logic limitations rip -->
+|  <div style="width:40vw">transmasc</div>	| <div style="width:40vw">transfemme</div> | 
+|-|-|
+| **Would you consider yourself very muscular to the point that it may cause fit issues notably in tailored/non-stretch garments like suitwear?** (ex. like it can for say professional athletes or bodybuilders) - y/n	| | 
+
 **What is your age group?**
 - 18-29
 - 30-39
@@ -68,6 +73,18 @@ Make sure you have a measuring tape (or similar) to hand, and maybe a loved one 
 **Actual measurements:**
 <!-- (TODO look up which measurements we need for each direction & instructions for them) -->
 
+<!-- chest measurements first (at least for transmascs) due to branching google form logic for top surgery/no top surgery -->
+|  <div style="width:25vw">transmasc (top surgery)</div>	| <div style="width:25vw">transmasc (no top surgery)</div>	| <div style="width:25vw">transfemme</div> | 
+|-|-|-|
+| chest measurement | underbust measurement | underbust measurement |
+|  | (optional) bust measurement (without binder) | bust measurement |
+| (optional) nipple distance | (optional) nipple distance (without binder) | nipple distance |
+| (optional) distance from clavicle to ends and middle of scars | (optional) bust measurement (with binder) | any other chest measurements for bra purposes (TODO look up) |
+| (optional) distance between ends and middle points of scars on one side and the other (like nipple distance) -> so we can triangulate scar point positions | | |
+<!-- 
+scar measurements are only relevant to ppl who got double incision (or reduction w similar scarring), bc periareolar/keyhole doesn't leave any visible scarring
+-->
+
 base measurements everyone will need to fill out
 - height
 - shoulder height (or like collar bone or smth) (TODO look up)
@@ -83,31 +100,27 @@ base measurements everyone will need to fill out
     - both outseams for both directions so we can later compare to cis measurements better
 - rise to natural waist
 
-<!-- table -->
-|  <div style="width:25vw">transmasc (top surgery)</div>	| <div style="width:25vw">transmasc (no top surgery)</div>	| <div style="width:25vw">transfemme</div> | 
-|-|-|-|
-| chest measurement | underbust measurement | underbust measurement |
-|  | (optional) bust measurement (without binder) | bust measurement |
-| (optional) nipple distance | (optional) nipple distance (without binder) | nipple distance |
-| (optional) scar type (double incision, reduction, key hole) | (optional) bust measurement (with binder) | any other chest measurements for bra purposes (TODO look up) |
-| (optional) measurements for scar placement if anyone wants to design scar-show-off garments based on average | | |
+
 
 
 ### You will now be asked some questions about your relationship to standard sizing/off-the-rack fashion pre- and post-transition.
 
-**What size(s) did you wear/fit you when buying clothes in your birthsex’s aisle pre-transition?** 
-(select up to 3)
-
-<!-- TODO look up sizing systems & find their corresponding standard measurements if possible -->
-- [sizing system] [size]
-- [sizing system] [size] (optional)
-- [sizing system] [size] (optional)
-    <!-- - there will be an option to input custom sizing system & size if it’s not one of the options available
-        - should also include existing sizing systems w extreme sizes I may have omitted
-        - -> these will include special sizes where at all possible (ie plenty of XLs)
-        - include pants sizing bc I know that can be weird w the two measurements -->
-- I never shopped in my birthsex’s aisle pre-transition/I never shopped in adult sizes pre-transition/I never wore store-bought clothes pre-transition
+**Did you buy clothes in your birthsex’s aisle pre-transition and if so do you remember your size(s)?**
+- Yes
+- Pre-transition I never shopped in my birthsex’s aisle/never shopped in adult sizes/never wore store-bought clothes
 - I don’t know/remember my size pre-transition
+
+    **What size(s) did you wear/fit you when buying clothes in your birthsex’s aisle pre-transition?** 
+    (select up to 3)
+
+    <!-- TODO look up sizing systems & find their corresponding standard measurements if possible -->
+    - [sizing system] [size]
+    - [sizing system] [size] (optional)
+    - [sizing system] [size] (optional)
+        <!-- - there will be an option to input custom sizing system & size if it’s not one of the options available
+            - should also include existing sizing systems w extreme sizes I may have omitted
+            - -> these will include special sizes where at all possible (ie plenty of XLs)
+            - include pants sizing bc I know that can be weird w the two measurements -->
 
 **Did you pre-transition and/or do you currently consider yourself any of the following “special” categories?**
 (F.e. I would consider myself short by cis male standards, but I am very much average height for a transmasc/afab person)
@@ -118,9 +131,6 @@ base measurements everyone will need to fill out
 | extra tall   | l| l| l|
 | extra short/small/petit(e) | l| l| l|
 
-|  <div style="width:40vw">transmasc</div>	| <div style="width:40vw">transfemme</div> | 
-|-|-|
-| **Would you consider yourself very muscular to the point that it may cause fit issues notably in tailored/non-stretch garments like suitwear?** (ex. like it can for say professional athletes or bodybuilders) - y/n	| | 
 
 **How well did standard sizing (in your birthsex’s aisle) fit you pre-transition (in terms of physical body fit, not style/gender expression)?**
 - very well, I could easily find clothes off-the-rack that fit me in most shops
@@ -156,10 +166,11 @@ base measurements everyone will need to fill out
 | pant crotch fit | | |
 | leg circumference | | |
 | leg length | | |		
-anything else: <!-- [write-in box with limited characters] -->
+Any other fit issues: <!-- [write-in box with limited characters] -->
 
 ### Some final (optional) questions
 
+####
 **(optional) While I have you here: I will be using these measurements to make sewing patterns for people to use, so if you can think of any types of clothes you can never seem to find in your size due to trans-related fit issues but would be particularly useful or just nice to have, please list them here**
 [enter up to 3]
 
@@ -171,29 +182,40 @@ anything else: <!-- [write-in box with limited characters] -->
 
 -> Like what’s your craziest, not-actually-that-crazy fashion wish that cis sizes are currently standing in the way of?
 
-**(optional) Do you know me in person?** [y/n/unsure]
+####
+**Fit models**
+***(If you don't know me in person, please skip this page)***
 
-This is to be able to reidentify the measurements of any of my friends & acquaintances that I may be pattern testing on/making sample garments for, so we don’t have to retake their measurements later. 
+I will need some people to pattern test on once we have these trans standard measurements, as well as people to model sample garments at events and photoshoots down the line. 
 
-- ***This will not be part of the final published data set, this is just for my own reference.***
-- “Knowing me in person” includes people who have been in GI/Spectra/etc online groups with me during the pandemic even if they have not met me “in person”
-- If you don't know me, please do not be a parasocial weirdo who'd lie on this question, I block any strangers who message me.
+If you know me in person, are based in the UK, and would potentially be up for being one of said fit models, please put your first name in the field below. This is so we can reidentify your measurements later so we won't have to retake them to figure out your size.
+    - ***This will not be part of the final published data set, this is just for my own reference.***
+    - "Knowing me in person" includes people I was in online support groups with during the pandemic even if they haven't met me "in person".
+    - Putting your name here doesn't guarantee or obligate you to be a fit model (I will only need a handful of people at the end of the day, and you can change your mind at any point)
 
-<!-- only appears if you've selected y on previous question -->
-**(optional) If so, if you are 1) UK-based and 2) willing to be one of my fit models, please enter your first name here.** (no worries if not)
-[field to enter a name]
+I'd be particularly interested in:
+    - anyone based in Greater Manchester/the North West for pattern testing to make meeting up easier
+    - anyone of our "special" size categories for pattern testing, regardless of location, as I want to make sure I get those right and can't fit them on myself
+    - people of a diverse/representative range of looks beyond just fit, regardless of location, for modelling the final samples (explicitly inviting any friends who are f.e. PoC, 40+, etc)
+    - people who work in a job where they need work wear (ex. high vis, scrubs, etc) we may be able to commission from a manufacturer, and pitch to their employer to fund so they can actually use them for work after showing them off at events (as it'd be cool to have the actual people in those jobs model the work wear samples)
 
-- Note: Even if you volunteer as a fit model here, that does not guarantee you'll be used as one. (It's nothing personal, I just know a lot of people and will ultimately only need a handful for this.) On the flip-side this also means there's no obligation to be a fit model even if you put your name here and change your mind later!
-- For pattern testing I’m particularly interested in fitting on anyone Manchester/North West based (to make meeting up easier) and anyone in our “special” size categories regardless of location (as I wanna get those right and can’t fit them on myself).
-- Down the line I’ll also need some models for events and photoshoots that can be based elsewhere (ex. London friends) and that I want to include a diverse/representative range of looks beyond just fit (explicitly inviting any friends who are f.e. POC, 40+, etc).
-- If we’ve not been in touch for a while and/or I don’t have you on any socials, feel free to message me on insta or discord or something (I’m @dkettchen on everything) or email me at dkettchen@gmail.com - notably if you’d fit the pattern testing criteria above! 
+**If you're interested in being a fit model, please enter your first name here:**
+*(you must know me in person and be based in the UK)*
+[field to put in name]
+
+If we've not been in touch for a while, feel free to message me on insta, discord, or similar (@dkettchen) or email me at dkettchen@gmail.com, notably if you'd fit the pattern testing criteria above.
+
+####
+If you would like **to sign up to our mailing list** to be sent the results of the project (the trans standard measurements chart) when it's done, **please enter your email address here**:
+(optional)
+
+***This will not be part of the final published data set and will be deleted after the results have been sent out.*** By entering your email, you consent to it being used for the mailing list as described above (and only that).
+
 
 # End page
 Thank you for participating. :)
 
 Feel free to share the survey online, with friends, and/or in your local community spaces:
 <!-- [links to shareable posts on various social media platforms & link to survey directy] -->
-
-<!-- Sign up to our mailing list if you haven't yet and want to be sent the results of this project (ie the Trans Standard Measurements chart) when it's done. -->
 
 <!-- You can also follow me on socials or linkedin for any updates after that (ie when I make sample garments & go to events to present the project).  -->

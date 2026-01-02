@@ -1,20 +1,23 @@
 # Consent form
 
-I confirm that I have read the Participation Information Sheet.
+**Please confirm:**
 
-I understand that my participation is voluntary and will not affect my rights.
+[] I have read the participation information above and consent to my data being used and anonymously published as described.
 
-I understand and agree that the information collected in this survey will be published unless otherwise specified.
 
-I give permission for a fully anonymised version of the data I provide to be published for Open Access so that it can be used for future research and learning. 
+**Please confirm that you fit the requirements to participate in this survey:**
+- You are trans
+- You are over 18
+- You have been on HRT for at least 3 years
+- You have not had your entire first puberty replaced
 
-[] I give my informed consent to participate in this survey.
+[] I confirm, now take me to the survey!
 
-## Sign up to our mailing list(s):
+<!-- ## Sign up to our mailing list(s):
 
 [] I would like to be sent the results of this project.
 
-[] I would like to get updates about this project.
+[] I would like to get updates about this project. -->
 
 <!-- TODO figure out data stuff around mailing list -->
 

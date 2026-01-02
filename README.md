@@ -43,7 +43,7 @@ The goal of this project is to produce standard sizing for trans people who stru
     <br>-> transmasc sizing should suppose flat(ter) chests, same as cis-male fashion.
 
 - Most of our common fit issues arise from our bones from first puberty, so these garments should also fit better than cis-sized options on:
-    - people pre-transition already
+    - people pre- and early-transition already
     - people on lower doses of HRT
     - relevant crossdressing cis people (ex. crossplayers)
 

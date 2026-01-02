@@ -29,9 +29,11 @@ No participant will be individually identifyable based on their published respon
 Participants will be asked to confirm their informed consent to participate before undertaking the survey.
 
 ## Where will the data be stored?
-During the survey, the data will be held by the survey site used. (TBC)
+The active survey is hosted on google forms.
 
-During processing and after the project concludes, it will be stored on Ren's computer and backed up to on [this repository on github](https://github.com/dkettchen/trans_standard_sizing).
+After the survey concludes, I will anonymise the response data and back it up to [a repository on github](https://github.com/dkettchen/trans_standard_sizing), where all other project data (ie code etc) will also be stored. 
+
+A copy of the non-anonymous parts like email addresses for the mailing list and first names of fit models will be held on my computer. The mailing list data will be deleted after the project results have been sent out.
 
 The final data will be publicly available on [github](https://github.com/dkettchen/trans_standard_sizing) indefinitely. The published survey data and results will likely also be available on relevant other repository sites, and the resulting trans standard measurements will be shared across social media, our mailing list and [Ren's website](https://www.dkettchen.com).
 

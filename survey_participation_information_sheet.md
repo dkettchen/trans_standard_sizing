@@ -1,14 +1,38 @@
 # Participation Information Sheet
 
 ## The Trans Standard Sizing Project
-<!-- project description -->
+<!-- project description / abstract -->
 
-Copy from [README](README.md/#the-trans-standard-sizes-project).
+Most trans people struggle to find clothes off-the-rack that fit them, because the standard measurements fashion industry uses are made to cis people's proportions. 
+
+If we had standard measurements for trans people, we could draft multi-size sewing patterns to make garments that will fit the average trans person as well as what cis people can buy at the store.
+
+This would not only be useful to trans people and their loved ones making clothes at home, but also to anyone in fashion industry/clothing manufacturing with trans clients.
+
+The goal of this project is to produce standard sizing for trans people who struggle to find clothes off-the-rack post-transition that will fit those trans people as well as clothes from their birthsex's aisle did pre-transition.
+
+Trans-sized garments should cater to trans people's typical, physical end-state and give the wearer their best shot at not being misgendered as their birthsex.
+
+As most trans fit issues are caused by first-puberty bones, they should also fit better than cis-sized options on: people pre-/early-transition already, people on lower-dose HRT, and relevant crossdressing cis people (ex. crossplayers)
+
+This survey will form the base data set to determine these trans standard measurements.
 
 ## Who is running this project?
 <!-- about me -->
 
-Copy from [README](README.md/#who-is-running-this-project).
+Hi! My name is Ren Zoller (@dkettchen). I’m a gender non-conforming trans man in my late 20s based in Manchester, UK. 
+
+After being a femme-presenting nonbinary for a decade, I finally started being able to successfully pass as male in 2024, and had to seriously engage with men's fashion for the first time in my life.
+
+Having had no problems buying clothes I wanted off-the-rack most of my life, switching to men's fashion exclusively has been a very frustrating (albeit worthwhile due to no more misgendering) process:
+
+Men's fashion follows different rules and shape language than women's, including a completely different waistline, so most of my previous garments are useless to it. 
+I don’t fit standard men’s sizes, so I can’t just go to the store and buy new items that fit me.
+And even sewing my own clothes, most sewing resources only cover women's fashion. 
+
+I know I'm not the only trans person with this problem, so I want to make fashion more accessible and fun for us again with this project and beyond. 
+
+In my day job I am a data engineer at Metrolink, and a degree apprentice in data analysis at Manchester Metropolitan University.
 
 ## Who is invited to participate?
 <!-- participant requirements -->
@@ -22,52 +46,49 @@ You are invited to take part in this survey if you:
     > as that would prevent your bones from growing into the wrong hormones and causing these fit issues in the first place
 
 ### Clarifications:
-- While people who closely fit cis standard sizes pre-transition will be most interesting for checking that our trans sizes end up equivalent, I want to encourage anyone who qualifies by the above criteria to take part as we're trying to capture the full range trans people's measurements can take.
+
+- We're trying to capture the full range of relevant trans people's measurements can take, so even if you didn't fit standard sizes pre-transition or if you struggle less to fit them now, you are still invited to participate if you fit the criteria above
 - I also particularly want to encourage plus sized people to take part, as I hope to also extract trans plus sizes from this data set!
-- This project is label agnostic - I don't care what you identify as or what pronouns you use. Nonbinary users can participate as long as they fit the above criteria.
-- Can participate but will be asked to mark that specific so we're aware of it when analysing the data later:
-    - People on low-dose/other non-standard/custom HRT
-    - People who were on HRT for the entire past 3 years, but changed their dose during that time
+- This project is label agnostic. I don't care what you identify as or what pronouns you use, as long as you fit the above criteria, you can participate.
+- The following groups can participate but will be asked to mark this specific in the survey:
+    - Anyone on low-dose/other non-standard HRT
+    - Anyone who's been on HRT for 3+ years but changed their dose in the last 3 years
     - Transmascs who haven't had top surgery
-    - Transfemmes who have had mammoplasty
-    - People who had surgery that would've changed other torso measurements (ex. transfemmes who had their butt augmented, ex. transmascs who had fat surgically moved from one place to another)
+    - Transfemmes who've had mammoplasty
+    - Anyone who's had surgery that changed other torso measurements (ex. transfemme butt augmentation)
 
 ## Do I have to take part?
 No, participation is voluntary and you can quit out of the survey at any point without submitting your responses.
 
 ## What will I be asked to do?
-Fill out a survey, part of which will involve taking your measurements.
+Fill out a survey, part of which will involve taking your measurements. You may want to set some time aside for it and ask a friend or loved one to help you with the measuring.
 
 ## What information about me will you collect and why?
 <!-- explain what survey will ask about and reasons for each -->
 
-The survey will ask for:
-- Your transition direction based on birthsex (transmasc/transfemme), as this is the only gender metric we will be grouping respondants by. (Again, this project is label agnostic.)
-- Generic information about your physical body, including age and some info about your medical transition state (ex. types of (torso) surgeries you've had, if any), as these things impact your measurements.
-- Your measurements. We will use everyone's measurements to calculate our trans standard measurements later.
-- Generic information about your bodytype. This will help us categorise people with similar pattern drafting considerations and enable us to extract trans sizing not just for "regular" sizes but also "special" size categories like plus size, extra tall, and petit(e).
-- What size(s) you wore and how well you fit them pre-transition, if known. This will help us make sure that trans standard sizing will fit people as well as cis standard sizing did pre-transition.
-- How your relationship to standard sizing has changed with changing aisles and what fit issues you commonly encounter now. This will help us illustrate and back up with statistical data that this is a common issue among our community, as well as inform pattern drafting to alleviate those fit issues.
-- (optionally) Your suggestions for garments you'd like to see available in trans sizing. This will help me and others know which patterns to prioritise making.
-- (optionally) If you know me in person and you're willing to be a fit model for my own pattern testing and/or to model finished clothes at events/photoshoots down the line, your first name, so I can reidentify your measurements and we won't have to retake them later. *This will be not be part of the published data set, this is just for my own reference.*
+- Your transition direction based on birthsex (transmasc/transfemme), as this project is label agnostic and that will be our only gender metric to group respondants by.
+- Generic info about your physical body, including age, medical transition state, and bodytype, as this will provide valuable context for your measurements and responses.
+- Your measurements. We will use everyone's measurements to extract trans standard sizes later.
+- Your relationship to standard sizing, pre-transition and now, including pre-transition sizes if known, how well they fit you, how that relationship has changed since, and common fit issues you experience now if any.
+This will help us make sure our trans sizing ends up equivalent, and provide valuable insights and stats on trans people's relationship to (cis) standard sizing.
+- (Optionally) If you know me in person and are interested in helping out as a fit model: your first name to be able to reidentify your measurements later.
+- (Optionally) Your email address if you'd like to sign up to our mailing list.
 
-The questions on your body and relationship to standard sizing will also help provide context and enable crossreferencing of your responses for data analysis. (ex. What impact does your category have on your relationship to standard sizing and fit issues you may experience?)
-
-This data is collected in the public interest, as this project aims to benefit the global trans and gender diverse community, and make its data publicly available (ex. for further research).
+This data is collected in the public interest, as this project aims to benefit the global trans and gender diverse community, and make its anonymised data publicly available.
 
 ## What will happen to my information after the survey?
 <!-- explain data stuff incl github, publishing, anonymity & that we won't be able to delete/update it-->
 
-The survey responses will be anonymised where not already anonymous. No individual respondant will be able to be identified based on their published data.
+The responses will be anonymised where not already anonymous and then published on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), where they will remain publicly available indefinitely for anyone who may find them useful. They may also be added to other Open Access Research repositories down the line.
 
-The anonymous responses will then be published on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), where they will remain publicly available indefinitely for anyone who may find them useful. They may also be added to other Open Access repositories down the line where researchers can find them more easily.
+The responses will be anonymous and published for open access, so your data won't be able to be deleted or updated after the fact.
 
-As the responses will be anonymous and published for open access, we won't be able to delete or update your data after the fact.
+The removed first names and email addresses will only be retained by me and deleted after fulfilling their respective purposes (locating the final fit models' measurements and sending out the project's results to people respectively).
 
 ## How will you use my information?
 <!-- explain abt data processing? -->
 
-I will clean the data and use the collected measurements and context data to extract trans standard measurements for "regular" sizing as well as our "special" categories (ex. plus size, etc).
+I will clean the data and use the collected measurements and context data to extract trans standard measurements for "regular" sizing as well as our "special" categories (ex. plus size, extra tall, extra short/petit(e), etc).
 
 I will also do some statistical data analysis to draw basic insights from the responses. (ex. Just how common are these trans fit issues? ex. Does unusual height alleviate/aggravate certain fit issues? etc)
 
@@ -75,10 +96,6 @@ I will also do some statistical data analysis to draw basic insights from the re
 <!-- explain abt open publishing, mailing list, possible paper -->
 
 The resulting trans standard measurements will be published for anyone to use. 
-They will be available on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), [my website](https://www.dkettchen.com) and socials (@dkettchen), and they will be sent to anyone who signed up to [the project's mailing list]().
+They will be available on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), [my website](https://www.dkettchen.com) and socials (@dkettchen), and they will be sent to anyone who provided their email address.
 
-The project's data, including the raw, anonymised survey responses, any code written for it, documentation, and the final results, will be openly available on the github repo, and possibly added to other Open Access repositories down the line as well.
-
-I will make sample garments and present the project at relevant tech/fashion/lgbt+ events after the survey and data processing part of the project have concluded.
-
-After the project I also plan on writing a paper about it to be published in relevant academic/industry/community outlets.
+After the survey and data processing have concluded, I plan on making sample garments to present the project at relevant fashion/lgbt+/tech events and writing a paper about it to be published in relevant academic/industry/community outlets.
