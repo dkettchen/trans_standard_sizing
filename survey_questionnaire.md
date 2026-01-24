@@ -17,12 +17,14 @@
 - You have not had your entire first puberty replaced
 - You are generally of typical proportions and have at least one arm and leg to measure
 
+- You have the time and means (and help where applicable) to take your measurements right now
+
 ⬜ I confirm, now take me to the survey!
 
 ## **First you will be asked some specifics about yourself/your body.**
 
 ### **What is your transition direction (based on birthsex)?** 📌 
-(as we’ll need to check for different things for each) 
+(as we'll need to check for different things for each) 
 
 |  <div style="width:40vw">⚪ Transmasc (afab trans people, FtM, FtX)</div>	| <div style="width:40vw">⚪ Transfemme (amab trans people, MtF, MtX)</div> | 
 |-|-|
@@ -85,9 +87,13 @@ You should **wear the undergarments you usually wear** under clothes to take the
 If you habitually **tuck/pack/bind**, please make sure you do so before you take the measurements. 
 
 ### **Height** 📌
+(this can be taken lying down if you can't stand)
+
 ![](questionnaire_images\coed_measurements\height.png)
 
 ### **Nape of the neck to floor** 📌
+(this can be taken lying down if you can't stand)
+
 ![](questionnaire_images\coed_measurements\nape_to_floor.png)
 
 ### **Head circumference** 📌
@@ -379,7 +385,7 @@ Where you can feel the ankle bone.
 ![](questionnaire_images\coed_measurements\ankle.png)
 
 ### **Foot entry circumference** 📌
-Around the heel and top of your fit to measure the thickest part of your foot (for getting through leg holes). 
+Around the heel and top of your foot to measure the thickest part of your foot (for getting through leg holes). 
 
 ![](questionnaire_images\coed_measurements\foot_entry.png)
 
@@ -395,11 +401,11 @@ From your ankle bone down to the floor (so we can gage ankle length for pants an
 
 ## **You will now be asked some questions about your relationship to standard sizing/off-the-rack fashion pre- and post-transition.**
 
-### **Did you buy clothes in your birthsex’s aisle pre-transition and if so do you remember your size(s)?** 📌 
+### **Did you buy clothes in your birthsex's aisle pre-transition and if so do you remember your size(s)?** 📌 
 
-| ⚪ Yes | ⚪ I never shopped in my birthsex's aisle/adult sizes/clothing stores pre-transition <br> ⚪ I don’t know/remember my size pre-transition |
+| ⚪ Yes | ⚪ I never shopped in my birthsex's aisle/adult sizes/clothing stores pre-transition <br> ⚪ I don't know/remember my size pre-transition |
 |-|-|
-| **What size(s) did you wear/fit you best when buying clothes in your birthsex’s aisle pre-transition?** <br> (Enter 1 to 3 sizes) | |
+| **What size(s) did you wear/fit you best when buying clothes in your birthsex's aisle pre-transition?** <br> (Enter 1 to 3 sizes) | |
 | **1) Select a sizing system** 📌 <br> Notes: <br> - Some regions share sizing systems with other regions. If you believe your sizing system is the same as one listed here even if it's not named after your region, feel free to select it anyway. <br> - If you're unsure, can't find your sizing system, or were using a different system of one of these regions (as some have multiple), select "A sizing system not listed here" and enter it below. | |
 | [drop down] <br> 1. International letter sizes (XXS, XS, S, M, L, XL, XXL, 3XL, 4XL, etc) <br> 2. Japanese letter sizes (S, M, L, LL, etc) <br> 3. Mexican letter sizes (XCH, CH, M, G, XG, etc) <br> 4. EU (32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, etc) <br> 5. UK (2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, etc) <br> 6. US (00, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, etc) <br> 7. Japan (5, 7, 9, 11, 13, etc) <br> 8. Korea (80, 85, 90, 95, 100, etc) <br> 9. China (150/76A, 155/80A, 160/84A, 165/88A, etc (women's) or 165/76A, 170/80A, 175/84A, 180/88A, etc (men's)) <br> 10. A sizing system not listed here | |
 | **1) If you selected "A sizing system not listed here" enter its name or a description here:** <br> (Ex. "Germany", "Russia", "EN 13402 Size designation of clothes", "US pant sizes", etc) | |
@@ -425,13 +431,13 @@ Ex. I would consider myself short compared to cis men but am very much average h
 | Extra tall | ⬜ | ⬜ |
 | Extra short/small/petit(e) | ⬜ | ⬜ |
 
-### **How well did standard sizing (in your birthsex’s aisle) fit you pre-transition (in terms of physical body fit, not style/gender expression)?** 📌
+### **How well did standard sizing (in your birthsex's aisle) fit you pre-transition (in terms of physical body fit, not style/gender expression)?** 📌
 ⚪ Very well, I could easily find clothes off-the-rack that fit me in most shops
 <br>⚪ Somewhat well, I could usually find clothes off-the-rack, but experienced certain fit issues (ex. wrong length, ex. wrong circumference, etc)
 <br>⚪ Poorly, so I had to use specialist shops/sections (plus size, extra tall, etc), but could easily find clothes there
 <br>⚪ Poorly, so I had to use specialist shops/sections (plus size, extra tall, etc), but still experienced certain fit issues there (ex. wrong length, ex. wrong circumference, etc)
-<br>⚪ Very poorly, I’ve never had properly fitting clothes/I needed custom tailoring to have any clothes that fit correctly
-<br>⚪ Not applicable (ex. I didn’t shop in birthsex aisle, I only wore homemade clothes, etc)
+<br>⚪ Very poorly, I've never had properly fitting clothes/I needed custom tailoring to have any clothes that fit correctly
+<br>⚪ Not applicable (ex. I didn't shop in birthsex aisle, I only wore homemade clothes, etc)
 
 ### **How has medical transition and shopping in the other aisle changed your relationship to standard sizing (in terms of physical body fit, not style/gender expression)?** 📌
 ⚪ For the better, I can find clothes off-the-rack that fit me properly more easily than before for most garment types
@@ -439,7 +445,7 @@ Ex. I would consider myself short compared to cis men but am very much average h
 <br>⚪ For the worse, it has become much harder to find clothes off-the-rack that fit me properly for most garment types
 <br>⚪ Not applicable (ex. I still exclusively shop in my birthsex aisle, I don't adhere to other aisle's way of styling when I shop there (ex. transmascs wearing men's aisle pants on natural waist), I don't shop off-the-rack, etc)
 
-### **What are your most common fit issues with standard sizing (in your target gender’s/opposite of birthsex’s aisle)?**
+### **What are your most common fit issues with standard sizing (in your target gender's/opposite of birthsex's aisle)?**
 Clothing in this aspect is: (select any aspects that apply)
 
 | | too much / big / wide / loose / long | too little / small / narrow / tight / short |
@@ -461,16 +467,17 @@ Clothing in this aspect is: (select any aspects that apply)
 
 ## Optional questions
 
-### **While I have you here: If you can think of any types of clothes you can never seem to find in your size due to trans-related fit issues but would be particularly useful or just nice to have, please list them here so me and other pattern-makers and fashion people can know what to prioritise making/patterning: (Enter up to 3)** 
+### **While I have you here: If you can think of any types of clothes you can never seem to find in your size due to trans-related fit issues but would be particularly useful or just nice to have, please list them here so me and other pattern-makers/fashion people can know what to prioritise making/patterning: (Enter up to 3)** 
 (optional)
 
 - Please keep suggestions short (ex. “trousers”, ex. “button-up shirt”, ex. “bra”)
 - You can specify basic styles if you want (ex. “a cute oversized sweater”, ex. “a double-breasted suit”, ex. “a lolita dress”, ex. “a bomber jacket”)
+- To avoid confusion: the word "pants" will be counted as trousers unless otherwise specified
 - Suggestions can include work wear/uniforms (ex. "scrubs for work", ex. "high vis for work")
 - Please stick to regular clothes (ex. something the average cis person can just find at a store, ex. what you might wear in your everyday/to a wedding/to chill at home/to the office/to a date/to pride/to subculture events/etc)
-- Anything else (ex. shoes/hats/accessories, trans-specialist underwear, fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
+- Anything else or supplementary (ex. shoes/hats/accessories, trans-specialist underwear (= intended for anatomy not shared with cis people of opposite birthsex), fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
 
--> Like what’s your craziest, not-actually-that-crazy fashion wish that cis sizes are currently standing in the way of?
+-> Like what's your craziest, not-actually-that-crazy fashion wish that cis sizes are currently standing in the way of?
 
 ### Suggestions 1
 (optional)
@@ -491,7 +498,7 @@ I will need some people to pattern test on once we have these trans standard mea
 If you know me in person, are based in the UK, and would potentially be up for volunteering as one of said fit models, please put your first name in the field below. This is so we can reidentify your measurements later so we won't have to retake them to figure out your size.
 
 - ***This will not be part of the final published data set, this is just for my own reference.***
-- "Knowing me in person" includes people I was in online support groups with during the pandemic even if they haven't met me "in person".
+- "Knowing me in person" includes people I was in online support groups with during the pandemic even if they haven't met me "in person", and any acquaintances from my current in person meetup groups here in Manchester, even if they don't know me super well.
 - Putting your name here doesn't guarantee or obligate you to be a fit model (I will only need a handful of people at the end of the day, and you can change your mind at any point)
 
 I'd be particularly interested in:
@@ -506,7 +513,7 @@ If we've not been in touch for a while, feel free to message me on insta, discor
 ### **If you're interested in helping out as a fit model, please enter your first name here:**
 *(you must know me in person and be based in the UK)*
 
-## Following the project
+## Following & sharing the project
 
 **More info and updates about the project**
 
@@ -517,5 +524,11 @@ The final measurements charts and insights from the survey will also be publishe
 I will likely post updates beyond the final measurements and insights themselves on socials too (ex. making sample garments, going to events to present the project, and any future fashion endeavours enabled by this project).
 
 Note: Only the github repo is dedicated to this project exclusively, the rest are just my regular accounts, so follow at your own risk of whatever other shenanigans I'm up to on there 😅
+
+**Feel free to share this survey!**
+
+Here is the direct link to the survey: https://tinyurl.com/Trans-Standard-Sizing
+
+You can also simply share the posts I made on socials if you prefer: [coming soon - if you found it through one of them and got here before I was able to add them, just share that one for now lol]
 
 ##

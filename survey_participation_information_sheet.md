@@ -22,7 +22,7 @@ This survey will form the base data set to determine these trans standard measur
 
 Hi! My name is Ren Zoller (@dkettchen). I’m a gender non-conforming trans man in my late 20s based in Manchester, UK.
 
-After being a femme-presenting nonbinary for a decade, I finally became able to successfully pass as male in 2024, 5+ years into medical transition, and had to seriously engage with men's fashion for the first time in my life.
+After being a femme-presenting nonbinary for a decade, I finally became able to successfully pass as male in 2024 (5+ years into medical transition), and had to seriously engage with men's fashion for the first time in my life.
 
 Having had no problems buying clothes I wanted off-the-rack most of my life, switching to men's fashion exclusively has been a very frustrating (albeit worthwhile due to no more misgendering) process:
 
@@ -43,7 +43,7 @@ You are invited to take part in this survey if you:
 - **are at least 18 years old**
 - **have been on HRT for at least the last 3 years** (as meat changes (muscle/fat redistribution & transfemme breast growth) take ca 3-5 years to finalise)
 - **have not had your first puberty fully replaced** (as that would prevent your bones from growing into the wrong hormones and causing these fit issues in the first place)
-- **are generally of typical proportions and have at least one arm and leg to measure** (as bodytypes more atypical/rare than that will not be useful to our standard sizing goals and/or won't be able to provide all the measurements)
+- **are generally of typical proportions and have at least one arm and leg to measure** (as extremely unusual/rare bodytypes will not be useful to our standard sizing goals and/or won't be able to provide all the measurements)
 
 ### Clarifications:
 
@@ -61,7 +61,7 @@ You are invited to take part in this survey if you:
 No, participation is voluntary and you can quit out of the survey at any point without submitting your responses.
 
 ## What will I be asked to do?
-Fill out a survey, part of which will involve taking your measurements. You may want to set some time aside for it and ask a friend or loved one to help you with the measuring. 
+Fill out a survey, part of which will involve taking your measurements. You may want to **set some time aside for it and ask a friend or loved one to help you with the measuring.** 
 
 It will be helpful if you can stand for at least 4 of the measurements (inseam and outseam), but I will provide an alternative way for measuring those in case any respondants can't stand at all.
 
@@ -83,7 +83,7 @@ The responses will be anonymised where not already anonymous and then published 
 
 The responses will be anonymous and published for open access, so your data won't be able to be deleted or updated after the fact.
 
-The removed first names will only be retained by me and deleted after fulfilling their purpose of locating the final fit models' measurements.
+The fit model names will only be retained by me and deleted after fulfilling their purpose of locating the final fit models' measurements.
 
 ## How will you use my information?
 <!-- explain abt data processing? -->
@@ -96,6 +96,6 @@ I will also do some statistical data analysis to draw basic insights from the re
 <!-- explain abt open publishing, mailing list, possible paper -->
 
 The resulting trans standard measurements will be published for anyone to use.
-They will be available on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), [my website](https://www.dkettchen.com) and socials (@dkettchen).
+They will be available on [the project's github repository](https://github.com/dkettchen/trans_standard_sizing), [my website](https://www.dkettchen.com) and socials (@dkettchen) and free to be shared and reposted as much as people like.
 
 After the survey and data processing have concluded, I plan on making sample garments to present the project at relevant fashion/lgbt+/tech events and writing a paper about it to be published in relevant academic/industry/community outlets.
