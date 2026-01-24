@@ -23,23 +23,23 @@
 
 ## **First you will be asked some specifics about yourself/your body.**
 
-### **What is your transition direction (based on birthsex)?** 📌 
-(as we'll need to check for different things for each) 
+### **What is your transition direction (based on birth sex)?** 📌 
+(as we will need to check about different things for each) 
 
 |  <div style="width:40vw">⚪ Transmasc (afab trans people, FtM, FtX)</div>	| <div style="width:40vw">⚪ Transfemme (amab trans people, MtF, MtX)</div> | 
 |-|-|
-| (I will ask you about top surgery later before we take your measurements instead of here as that makes it easier to organise the questionnaire. Please answer the remaining questions about your body for now! ✌) | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? 📌 <br>⚪ Yes <br> ⚪ No |
+| (You will be asked about top surgery later. Please answer the remaining questions about your body for now! ✌) | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? 📌 <br>⚪ Yes <br> ⚪ No |
 | | **Have you had any amount of breast tissue removed** (breast reduction surgery, or any form of mastectomy)? 📌 <br>⚪ Yes <br> ⚪ No |
-| **Are you generally working with more-than-naturally-available-to-you crotch-volume either via (external) bottom surgery or habitual packing?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you generally working with crotch-volume similar to that of cis women either via bottom surgery or habitual (successful) tucking?** 📌 <br>⚪ Yes <br> ⚪ No |
+| **Are you generally working with increased crotch volume (i.e. more than lower growth) either via bottom surgery or habitual packing?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you generally working with crotch volume similar to that of cis women either via bottom surgery or habitual (successful) tucking?** 📌 <br>⚪ Yes <br> ⚪ No |
 | **Have you had a hysterectomy?** 📌 <br>⚪ Yes <br> ⚪ No | |
 | **Have you had any surgery that changed any of your other torso measurements?** 📌 <br>(ex. lipo) <br>⚪ Yes <br> ⚪ No | **Have you had any surgery that changed any of your other torso measurements?** 📌 <br>(ex. butt augmentation) <br>⚪ Yes <br> ⚪ No |
-| **Are you on a full/standard dose of testosterone?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you on a full/standard dose of estrogen AND either on T-blockers or have had surgery that removes the testes?** 📌 <br>⚪ Yes <br> ⚪ No |
+| **Are you on a full/standard dose of testosterone?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you on a full/standard dose of estrogen AND either on T-blockers or have had surgery to remove the testes?** 📌 <br>⚪ Yes <br> ⚪ No |
 | ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low-dose T (ex. half-dose) / <br>⬜ Anything else | ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low dose estrogen / <br>⬜ Neither T-blockers nor surgery / <br>⬜ Anything else |
 | | **Are you on progesterone?** 📌 <br>⚪ Yes <br> ⚪ No |
 | **Have you been on your current HRT dose consistently for the entirety of the past 3 years?** 📌 <br>⚪ Yes <br> ⚪ No | **Have you been on your current HRT dose/mix consistently for the entirety of the past 3 years?** 📌 <br>⚪ Yes <br> ⚪ No |
 | ↓ If yes skip / **If you changed dose in the past 3 years, how long have you been on your current dose?** 📌 <br>⚪ <1 year <br> ⚪ 1-2 years <br> ⚪ >2 years | ↓ If yes skip / **If you changed dose/mix in the past 3 years, how long have you been on your current dose/mix?** 📌 <br>⚪ <1 year <br> ⚪ 1-2 years <br> ⚪ >2 years |
-| **How long have you been on HRT?** 📌 (any dose, without major breaks) <br>⚪ 3-5 years <br> ⚪ 5-10 years <br> ⚪ 10+ years | **How long have you been on HRT?** 📌 (any dose/mix, without major breaks) <br>⚪ 3-5 years <br> ⚪ 5-10 years <br> ⚪ 10+ years |
-| **Would you consider yourself very muscular?** 📌 <br>(to the point that it may cause fit issues notably in tailored/non-stretch garments like suitwear like it can for say professional athletes or bodybuilders) <br>⚪ Yes <br> ⚪ No | |
+| **How long have you been on HRT?** 📌 (any dose, without major breaks (ex. several months or more)) <br>⚪ 3-5 years <br> ⚪ 5-10 years <br> ⚪ 10+ years | **How long have you been on HRT?** 📌 (any dose/mix, without major breaks (ex. several months or more)) <br>⚪ 3-5 years <br> ⚪ 5-10 years <br> ⚪ 10+ years |
+| **Would you consider yourself very muscular?** 📌 <br>(to the point that it may cause fit issues, notably in tailored/non-stretch garments like suitwear, as it can for say professional athletes or bodybuilders) <br>⚪ Yes <br> ⚪ No | |
 ## <!-- age group -->
 ### **What is your age group?** 📌 
 ⚪ 18-29 <br> ⚪ 30-39 <br> ⚪ 40-49 <br> ⚪ 50-59 <br> ⚪ 60-69 <br> ⚪ 70+
@@ -61,14 +61,14 @@ You will need:
 
 |  <div style="width:25vw">Transmasc ⚪ Yes</div> |  <div style="width:25vw">Transmasc ⚪ No</div> | <div style="width:25vw">Transfemme</div> | 
 |-|-|-|
-| **Chest circumference** 📌 <br>The widest part of your chest ![](questionnaire_images\transmasc_measurements\transmasc_chest_circumference.png) | All chest measurements in this section and beyond, other than the underbust measurement, are optional for you, please do not feel obliged if you struggle or do not feel comfortable with any of them. | These will include a bunch of intricate bust measurements used for drafting bras and determining bra size using tools like [ABraThatFits' bra size calculator](https://www.abrathatfits.org/calculator.php). <br><br> Please take these measurements without a bra on if possible. If that is not possible, please wear a well-fitting, non-padded bra or bralette. <br><br> For any single-boob measurements, please measure on the same boob for all of them. If you're very asymmetrical, you can measure both sides and put in the average if you prefer. <br><br> If you've had one boob removed or reduced for say cancer reasons, use the other one. <br><br> If you've had both boobs fully removed for androgynous or cancer reasons, feel free to leave out the optional bra-specific measurements entirely. |
-| **Front chest** <br> (optional) <br><br> The front "half" of your chest measurement (to where your side seams will be). ![](questionnaire_images\transmasc_measurements\transmasc_front_chest.png) | **Underbust circumference** 📌 <br> Circumference of your ribcage under your bust <br><br> (this can be taken while wearing a binder or shirt if needed) ![](questionnaire_images\transmasc_measurements\transmasc_underbust.png) | **Underbust circumference** (loose) 📌 <br> Circumference of your ribcage under your boobs. Loose enough that the measuring tape doesn't cut into your skin. <br><br> You may want to mark this with some string. ![](questionnaire_images\transfemme_measurements\transfemme_underbust.png) |
+| **Chest circumference** 📌 <br>The widest part of your chest ![](questionnaire_images\transmasc_measurements\transmasc_chest_circumference.png) | All chest measurements in this section and beyond, other than the underbust measurement, are optional for you, please do not feel obliged if you struggle or do not feel comfortable with any of them. | These will include a bunch of intricate bust measurements used for drafting bras and determining bra size using tools like [ABraThatFits' bra size calculator](https://www.abrathatfits.org/calculator.php). <br><br> Please take these measurements without a bra on if possible. If that is not possible, please wear a well-fitting, non-padded bra or bralette. <br><br> For any single-boob measurements, please measure on the same boob for all of them. If you are very asymmetrical, you can measure both sides and put in the average if you prefer. <br><br> If you have had one boob removed or reduced for say cancer reasons, use the other one. <br><br> If you have had both boobs fully removed for androgynous or cancer reasons, feel free to leave out the optional bra-specific measurements entirely. |
+| **Front chest** <br> (optional) <br><br> The front "half" of your chest measurement from side to side (to where your side seams will be). ![](questionnaire_images\transmasc_measurements\transmasc_front_chest.png) | **Underbust circumference** 📌 <br> Circumference of your ribcage under your bust <br><br> (this can be taken while wearing a binder or shirt if needed) ![](questionnaire_images\transmasc_measurements\transmasc_underbust.png) | **Underbust circumference** (loose) 📌 <br> Circumference of your ribcage under your boobs. Loose enough that the measuring tape doesn't cut into your skin. <br><br> You may want to mark this with some string. ![](questionnaire_images\transfemme_measurements\transfemme_underbust.png) |
 | **Underbust circumference** <br>(optional, only recommended if you have notable chest volume (from fat, leftover breast tissue, and/or muscle) <br><br> Most of men's fashion doesn't use this but I want to make sure we have all measurements people could possibly need for their pattern drafting) <br><br> Measure under chest volume (ex. under pecs) ![](questionnaire_images\transmasc_measurements\transmasc_top_surgery_underbust.png) | **Bust circumference** (without binder) <br> (optional) <br><br> The biggest circumference of your chest <br><br> (this can be taken while wearing a shirt or non-compressing bra, just no binder (including compressing sports bras) please) ![](questionnaire_images\transmasc_measurements\transmasc_bust_without_binder.png) | **Underbust circumference** (snug) <br> Same measurement but the tape should cut in a little but feel as snug as you want a bra to feel. |
-| **(Double incision or anchor) scar measurements** <br> (optional) <br><br> We're asking for scar measurements in case anyone wants to design clothes that show them off using the measurements from this project! <br><br> (If you had keyhole/periareolar surgery or other surgery that didn't leave you with the long horizontal-ish scars under your pectoral area you can skip these and continue to the next page) <br><br> If your scars look similar to any of these shapes, please consider measuring them! <br>![](questionnaire_images\transmasc_measurements\transmasc_scars.png) | **Bust circumference** (with binder)<br> (optional) <br><br> The biggest circumference of your chest (squished edition) <br><br> (this can be taken while wearing either a binder or a compressing sports bra if you're small-chested enough for that to have a similar effect as a binder (usually up to a B or C cup)) ![](questionnaire_images\transmasc_measurements\transmasc_bust_with_binder.png) | **Underbust circumference** (tight) <br> Same measurement but as tight as possible. |
-| **Distance from clavicle to inner end of the scar** <br> From the centerpoint of your collarbones to the inner-most end of your scars. <br><br> If your scars meet in the middle just measure down to that middle point. ![](questionnaire_images\transmasc_measurements\scar_measurement_1.png) | **Front bust** (with binder) <br> (optional) <br><br> The front "half" of your bust measurement (to where your side seams will be).<br><br> (Please only fill this in if you also filled in the previous measurement.) ![](questionnaire_images\transmasc_measurements\transmasc_front_bust_with_binder.png) | **Strap length to underbust** (front) <br> From the middle of your shoulder to your underbust line along the outside of your boob. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_front.png) |
+| **(Double incision or anchor) scar measurements** <br> (optional) <br><br> We are asking for scar measurements in case anyone wants to design clothes that show them off using the measurements from this project! <br><br> (If you had keyhole/periareolar surgery or other surgery that didn't leave you with the long horizontal-ish scars under your pectoral area you can skip these and continue to the next page) <br><br> If your scars look similar to any of these shapes, please consider measuring them! <br>![](questionnaire_images\transmasc_measurements\transmasc_scars.png) | **Bust circumference** (with binder)<br> (optional) <br><br> The biggest circumference of your chest (squished edition) <br><br> (this can be taken while wearing either a binder or a compressing sports bra if you are small-chested enough for that to have a similar effect as a binder (usually up to a B or C cup)) ![](questionnaire_images\transmasc_measurements\transmasc_bust_with_binder.png) | **Underbust circumference** (tight) <br> Same measurement but as tight as possible. |
+| **Distance from clavicle to inner end of the scar** <br> From the centerpoint of your collarbones to the inner-most end of your scars. <br><br> If your scars meet in the middle just measure down to that middle point. ![](questionnaire_images\transmasc_measurements\scar_measurement_1.png) | **Front bust** (with binder) <br> (optional) <br><br> The front "half" of your bust measurement from side to side (to where your side seams will be).<br><br> (Please only fill this in if you also filled in the previous measurement.) ![](questionnaire_images\transmasc_measurements\transmasc_front_bust_with_binder.png) | **Strap length to underbust** (front) <br> From the middle of your shoulder to your underbust line along the outside of your boob. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_front.png) |
 | **Distance between inner ends of your scars** <br> If your scars meet in the middle just put 0 here. ![](questionnaire_images\transmasc_measurements\scar_measurement_2.png) | |  **Strap length to underbust** (back) <br> From the middle of your shoulder to your underbust line in the back. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_back.png) |
 | **Distance from clavicle to outer end of the scar** <br> From the centerpoint of your collarbones to the outer-most end of your scars. ![](questionnaire_images\transmasc_measurements\scar_measurement_3.png) | | **Bust circumference** (standing) 📌 <br> The largest part of your chest, measured standing/sitting up straight. ![](questionnaire_images\transfemme_measurements\transfemme_bust.png) |
-| **Distance between outer ends of your scars** ![](questionnaire_images\transmasc_measurements\scar_measurement_4.png) | | **Front Bust** (standing) 📌 <br> The front "half" of your bust measurement (to where your side seams will be). ![](questionnaire_images\transfemme_measurements\transfemme_front_bust.png) |
+| **Distance between outer ends of your scars** ![](questionnaire_images\transmasc_measurements\scar_measurement_4.png) | | **Front Bust** (standing) 📌 <br> The front "half" of your bust measurement from side to side (to where your side seams will be). ![](questionnaire_images\transfemme_measurements\transfemme_front_bust.png) |
 | **Distance from clavicle to the lowest/bending/middle point of the scar** <br> From the centerpoint of your collarbones to the relevant turning or middle point of your scars. <br><br>- If your scars dip below both their inner and outer end point in the middle, measure to their lowest point. <br>- If they bend at a certain point, measure to that point. <br>- If they are straight lines all the way across, use the middle point of the scar for this. ![](questionnaire_images\transmasc_measurements\scar_measurement_5.png) | | **Bust circumference** (bent over) 📌 <br> The largest part of your chest, measured while bending over at a 90° angle. ![](questionnaire_images\transfemme_measurements\transfemme_bust_bending.png) |
 | **Distance between lowest/bending/middle points of your scars** <br> Same points you used for the previous measurement. ![](questionnaire_images\transmasc_measurements\scar_measurement_6.png) | | **Bust circumference** (lying down) <br> The largest part of your chest, measured while lying down on your back. ![](questionnaire_images\transfemme_measurements\transfemme_bust_lying_down.png) |
 | | | **Overbust circumference** 📌 <br> Circumference of your ribcage above your boobs. ![](questionnaire_images\transfemme_measurements\transfemme_overbust.png) |
@@ -81,7 +81,7 @@ You will need:
 | | | **Breast spacing** <br> Distance between boobs (against your ribcage/sternum). ![](questionnaire_images\transfemme_measurements\transfemme_breast_spacing.png) |
 ## <!-- co-ed measurements -->
 
-(Welcome back everyone, this concludes the transmasc-/transfemme-specific parts of the questionnaire, you'll be co-ed for the rest of it 👍)
+(Welcome back everyone, this concludes the transmasc-/transfemme-specific parts of the questionnaire, you will be co-ed for the rest of it 👍)
 
 You should **wear the undergarments you usually wear** under clothes to take these measurements. <br>
 If you habitually **tuck/pack/bind**, please make sure you do so before you take the measurements. 
@@ -164,7 +164,7 @@ Measure from the shoulder point down to the level of the top of the ruler on the
 ![](questionnaire_images\coed_measurements\armscye_height_side.png)
 
 ### **Armpit distance** 📌
-Measure the distance between the front and back points on the ruler you just measured to/where the ruler sticks out from your arm on either side. <br><br> **After this** measurement you can **remove the ruler** from your armpit. Please **mark** with a pin on your clothes (or a pen/pencil on your skin if you're doing this shirtless) where the top of the ruler was on the side of your body. 
+Measure the distance between the front and back points on the ruler you just measured to/where the ruler sticks out from your arm on either side. <br><br> **After this** measurement you can **remove the ruler** from your armpit. Please **mark** with a pin on your clothes (or a pen/pencil on your skin if you are doing this shirtless) where the top of the ruler was on the side of your body. 
 
 ![](questionnaire_images\coed_measurements\armscye_depth.png)
 
@@ -195,12 +195,12 @@ Same measurement but in the front.
 ![](questionnaire_images\coed_measurements\clavicle_to_shoulder_point.png)
 
 ### **Natural waist circumference** 📌
-Your natural waist is located somewhere between your ribcage and hip bone. <br><br> For some people it'll be the smallest part of their torso to form a more or less pronounced indent/"hourglass" shape. <br> For anyone else: see where your elbow creases, your torso bends, or your back curves in. <br><br> Once you've found your natural waist, you may want to mark it by tying some string around it or similar as we'll need it again in a minute for other measurements. 
+Your natural waist is located somewhere between your ribcage and hip bone. <br><br> For some people it will be the smallest part of their torso to form a more or less pronounced indent/"hourglass" shape. <br> For anyone else: see where your elbow creases, your torso bends, or your back curves in. <br><br> Once you have found your natural waist, you may want to mark it by tying some string around it or similar as we will need it again in a minute for other measurements. 
 
 ![](questionnaire_images\coed_measurements\nat_waist.png)
 
 ### **Front (natural) waist**
-(optional, but recommended for anyone with a relevant amount of belly fat as this may make your front measurement bigger than the back) <br><br> The front "half" of your waist line (to where your side seams will be). 
+(optional, but recommended for anyone with a relevant amount of belly fat as this may make your front measurement bigger than the back) <br><br> The front "half" of your waist measurement from side to side (to where your side seams will be). 
 
 ![](questionnaire_images\coed_measurements\front_waist.png)
 
@@ -210,7 +210,7 @@ From the centerpoint of your collarbones, against your sternum down the middle o
 ![](questionnaire_images\coed_measurements\clavicle_to_nat_waist.png)
 
 ### **Distance from clavicle to natural waist** (front, with ruler)
-(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Place your ruler across your boobs/chest and measure from your clavicle to natural waist over the ruler-bridge. <br><br> (If you're transmasc and the ruler is touching your sternum or very close to it, skip this measurement.) 
+(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Place your ruler across your boobs/chest and measure from your clavicle to natural waist over the ruler-bridge. <br><br> (If you are transmasc and the ruler is touching your sternum or very close to it, skip this measurement.) 
 
 ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_nat_waist_ruler.png)
 
@@ -220,12 +220,12 @@ The distance between bottom-of-armscye pin and natural waist.
 ![](questionnaire_images\coed_measurements\sideseam.png)
 
 ### **Nipple/bust point distance**
-(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Distance between your nipples/bust points*. <br><br> * The bust point is the apex of your boob/moob/pec. Even for cis men and people who've had mastectomy, most people's chests aren't actually flat, so they still have apexes. <br> For most women/people with unaltered boobs, their bust point aligns with their nipples. However transmascs, with their binder squish and at times messy and/or nippleless top surgery results, can't always rely on their nipples to determine their apex (see illustration below this question). 
+(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Distance between your nipples/bust points*. <br><br> * The bust point is the apex of your boob/moob/pec. Even for cis men and people who have had mastectomy, most people's chests aren't actually flat, so they still have apexes. <br> For most women/people with unaltered boobs, their bust point aligns with their nipples. However transmascs, with their binder squish and at times messy and/or nippleless top surgery results, can't always rely on their nipples to determine their apex (see illustration below this question). 
 
 ![](questionnaire_images\transfemme_measurements\transfemme_bust_point_distance.png)
 
 #### **Determining transmasc bust point via apex examples:**
-(if you have strangely placed/no nipples and are too flat for this method or otherwise struggle to determine your bust points, don't worry about it, just skip the bust point measurements, as again, they're optional for transmascs) 
+(if you have strangely placed/no nipples and are too flat for this method or otherwise struggle to determine your bust points, don't worry about it, just skip the bust point measurements, as again, they are optional for transmascs) 
 
 ![](questionnaire_images\transmasc_measurements\transmasc_bust_points_via_apex.png)
 
@@ -285,12 +285,12 @@ Where you can feel the upper bit of your hip bone. <br><br> You may want to mark
 ![](questionnaire_images\coed_measurements\high_hip.png)
 
 ### **Front (low) waist**
-(optional, but highly recommended for any transmascs with a relevant amount of belly fat (including if you just have a gut) as this may make your front measurement bigger than the back and men's fashion uses the high hip/low waist as its waistline) <br><br> The front "half" of your low waist line (to where your side seams will be). Follow your curve if any. 
+(optional, but highly recommended for any transmascs with a relevant amount of belly fat (including if you just have a gut) as this may make your front measurement bigger than the back and men's fashion uses the high hip/low waist as its waistline) <br><br> The front "half" of your low waist measurement from side to side (to where your side seams will be). Follow your curve if any. 
 
 ![](questionnaire_images\coed_measurements\front_low_waist.png)
 
 ### **Natural waist to high hip/low waist distance** (front) 📌
-The distance between the two lines you've (hopefully) marked, along the front middle of your body. <br> You can also measure from your clavicle to your high hip line and substract the clavicle to natural waist distance from that. <br><br> These measurements are notably important for transmascs as men's fashion uses the high hip as its standard waistline and we'll need this to determine the whole distance to that "male waist" using the natural waist distances. **If you're transmasc, please make extra sure these measurements are accurate.** 
+The distance between the two lines you have (hopefully) marked, along the front middle of your body. <br> You can also measure from your clavicle to your high hip line and substract the clavicle to natural waist distance from that. <br><br> These measurements are notably important for transmascs as men's fashion uses the high hip as its standard waistline and we will need this to determine the whole distance to that "male waist" using the natural waist distances. **If you are transmasc, please make extra sure these measurements are accurate.** 
 
 ![](questionnaire_images\coed_measurements\nat_waist_to_high_hip_front.png)
 
@@ -310,12 +310,12 @@ The biggest circumference of your hip/butt/thigh area. <br><br> You may want to 
 ![](questionnaire_images\coed_measurements\hip.png)
 
 ### **Front hip** 📌
-The front "half" of your hip line (to where your side seams will be), so we can account for your butt when using the hip measurement. 
+The front "half" of your hip measurement from side to side (to where your side seams will be), so we can account for your butt when using the hip measurement. 
 
 ![](questionnaire_images\coed_measurements\front_hip.png)
 
 ### **Natural waist to hip** 📌 (front)
-Distance between the two lines you've (hopefully) marked, along the front of your body. 
+Distance between the two lines you have (hopefully) marked, along the front of your body. 
 
 ![](questionnaire_images\coed_measurements\nat_waist_to_hip_front.png)
 
@@ -350,12 +350,12 @@ Standing up, hold the measuring tape to the side of your natural waist, letting 
 ![](questionnaire_images\coed_measurements\outseam_to_nat_waist.png)
 
 ### **Outseam from natural waist** (front)
-From front centre of your natural waist down to the floor. 
+From front center of your natural waist down to the floor. 
 
 ![](questionnaire_images\coed_measurements\outseam_front.png)
 
 ### **Outseam from natural waist** (back)
-From back centre of your natural waist down to the floor. 
+From back center of your natural waist down to the floor. 
 
 ![](questionnaire_images\coed_measurements\outseam_back.png)
 
@@ -401,12 +401,12 @@ From your ankle bone down to the floor (so we can gage ankle length for pants an
 
 ## **You will now be asked some questions about your relationship to standard sizing/off-the-rack fashion pre- and post-transition.**
 
-### **Did you buy clothes in your birthsex's aisle pre-transition and if so do you remember your size(s)?** 📌 
+### **Did you buy clothes in your birth sex's aisle pre-transition and if so do you remember your size(s)?** 📌 
 
-| ⚪ Yes | ⚪ I never shopped in my birthsex's aisle/adult sizes/clothing stores pre-transition <br> ⚪ I don't know/remember my size pre-transition |
+| ⚪ Yes | ⚪ I never shopped in my birth sex's aisle/adult sizes/clothing stores pre-transition <br> ⚪ I don't know/remember my size pre-transition |
 |-|-|
-| **What size(s) did you wear/fit you best when buying clothes in your birthsex's aisle pre-transition?** <br> (Enter 1 to 3 sizes) | |
-| **1) Select a sizing system** 📌 <br> Notes: <br> - Some regions share sizing systems with other regions. If you believe your sizing system is the same as one listed here even if it's not named after your region, feel free to select it anyway. <br> - If you're unsure, can't find your sizing system, or were using a different system of one of these regions (as some have multiple), select "A sizing system not listed here" and enter it below. | |
+| **What size(s) did you wear/fit you best when buying clothes in your birth sex's aisle pre-transition?** <br> (Enter 1 to 3 sizes) | |
+| **1) Select a sizing system** 📌 <br> Notes: <br> - Some regions share sizing systems with other regions. If you believe your sizing system is the same as one listed here even if it's not named after your region, feel free to select it anyway. <br> - If you are unsure, can't find your sizing system, or were using a different system of one of these regions (as some have multiple), select "A sizing system not listed here" and enter it below. | |
 | [drop down] <br> 1. International letter sizes (XXS, XS, S, M, L, XL, XXL, 3XL, 4XL, etc) <br> 2. Japanese letter sizes (S, M, L, LL, etc) <br> 3. Mexican letter sizes (XCH, CH, M, G, XG, etc) <br> 4. EU (32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, etc) <br> 5. UK (2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, etc) <br> 6. US (00, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, etc) <br> 7. Japan (5, 7, 9, 11, 13, etc) <br> 8. Korea (80, 85, 90, 95, 100, etc) <br> 9. China (150/76A, 155/80A, 160/84A, 165/88A, etc (women's) or 165/76A, 170/80A, 175/84A, 180/88A, etc (men's)) <br> 10. A sizing system not listed here | |
 | **1) If you selected "A sizing system not listed here" enter its name or a description here:** <br> (Ex. "Germany", "Russia", "EN 13402 Size designation of clothes", "US pant sizes", etc) | |
 | **1) Enter your size under this system** 📌 | |
@@ -418,8 +418,8 @@ From your ankle bone down to the floor (so we can gage ankle length for pants an
 | **3) Enter your size under this system** | |
 
 
-### **Did you pre-transition and/or do you currently consider yourself plus size?**
-(If you've never been plus size, skip this question)
+### **Did you pre-transition and/or do you currently consider yourself plus-size?**
+(If you have never been plus-size, skip this question)
 
 ⬜ Pre-transition <br>⬜ Now
 
@@ -431,21 +431,21 @@ Ex. I would consider myself short compared to cis men but am very much average h
 | Extra tall | ⬜ | ⬜ |
 | Extra short/small/petit(e) | ⬜ | ⬜ |
 
-### **How well did standard sizing (in your birthsex's aisle) fit you pre-transition (in terms of physical body fit, not style/gender expression)?** 📌
+### **How well did standard sizing (in your birth sex's aisle) fit you pre-transition (in terms of physical body fit, not style/gender expression)?** 📌
 ⚪ Very well, I could easily find clothes off-the-rack that fit me in most shops
 <br>⚪ Somewhat well, I could usually find clothes off-the-rack, but experienced certain fit issues (ex. wrong length, ex. wrong circumference, etc)
-<br>⚪ Poorly, so I had to use specialist shops/sections (plus size, extra tall, etc), but could easily find clothes there
-<br>⚪ Poorly, so I had to use specialist shops/sections (plus size, extra tall, etc), but still experienced certain fit issues there (ex. wrong length, ex. wrong circumference, etc)
-<br>⚪ Very poorly, I've never had properly fitting clothes/I needed custom tailoring to have any clothes that fit correctly
-<br>⚪ Not applicable (ex. I didn't shop in birthsex aisle, I only wore homemade clothes, etc)
+<br>⚪ Poorly, so I had to use specialist shops/sections (plus-size, extra tall, etc), but could easily find clothes there
+<br>⚪ Poorly, so I had to use specialist shops/sections (plus-size, extra tall, etc), but still experienced certain fit issues there (ex. wrong length, ex. wrong circumference, etc)
+<br>⚪ Very poorly, I have never had properly fitting clothes/I needed custom tailoring to have any clothes that fit correctly
+<br>⚪ Not applicable (ex. I didn't shop in birth sex aisle, I only wore homemade clothes, etc)
 
 ### **How has medical transition and shopping in the other aisle changed your relationship to standard sizing (in terms of physical body fit, not style/gender expression)?** 📌
 ⚪ For the better, I can find clothes off-the-rack that fit me properly more easily than before for most garment types
 <br>⚪ Neutrally, I can find clothes off-the-rack about as easily/rarely as before and/or there has been an equal trade-off of some kind
 <br>⚪ For the worse, it has become much harder to find clothes off-the-rack that fit me properly for most garment types
-<br>⚪ Not applicable (ex. I still exclusively shop in my birthsex aisle, I don't adhere to other aisle's way of styling when I shop there (ex. transmascs wearing men's aisle pants on natural waist), I don't shop off-the-rack, etc)
+<br>⚪ Not applicable (ex. I still exclusively shop in my birth sex aisle, I don't adhere to other aisle's way of styling when I shop there (ex. transmascs wearing men's aisle pants on natural waist), I don't shop off-the-rack, etc)
 
-### **What are your most common fit issues with standard sizing (in your target gender's/opposite of birthsex's aisle)?**
+### **What are your most common fit issues with standard sizing (in your target gender's/opposite of birth sex's aisle)?**
 Clothing in this aspect is: (select any aspects that apply)
 
 | | too much / big / wide / loose / long | too little / small / narrow / tight / short |
@@ -475,7 +475,7 @@ Clothing in this aspect is: (select any aspects that apply)
 - To avoid confusion: the word "pants" will be counted as trousers unless otherwise specified
 - Suggestions can include work wear/uniforms (ex. "scrubs for work", ex. "high vis for work")
 - Please stick to regular clothes (ex. something the average cis person can just find at a store, ex. what you might wear in your everyday/to a wedding/to chill at home/to the office/to a date/to pride/to subculture events/etc)
-- Anything else or supplementary (ex. shoes/hats/accessories, trans-specialist underwear (= intended for anatomy not shared with cis people of opposite birthsex), fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
+- Anything else or supplementary (ex. shoes/hats/accessories, trans-specialist underwear (= intended for anatomy not shared with cis people of opposite birth sex), fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
 
 -> Like what's your craziest, not-actually-that-crazy fashion wish that cis sizes are currently standing in the way of?
 
@@ -501,16 +501,16 @@ If you know me in person, are based in the UK, and would potentially be up for v
 - "Knowing me in person" includes people I was in online support groups with during the pandemic even if they haven't met me "in person", and any acquaintances from my current in person meetup groups here in Manchester, even if they don't know me super well.
 - Putting your name here doesn't guarantee or obligate you to be a fit model (I will only need a handful of people at the end of the day, and you can change your mind at any point)
 
-I'd be particularly interested in:
+I would be particularly interested in:
 
 - anyone based in Greater Manchester/the North West for pattern testing to make meeting up easier
 - anyone of our "special" size categories for pattern testing, regardless of location, as I want to make sure I get those right and can't fit them on myself
 - a diverse/representative range of looks beyond just fit (PoC, 40+, etc), regardless of location, for modelling final samples, as the community at large should be represented in the models that will actually be seen by people in the end
-- people whose job requires work wear (ex. high vis, scrubs, etc) as I want to try and commission some samples from a manufacturer to illustrate industry use of the measurements, and it'd be cool to have the people actually in those jobs model those samples (and hopefully even get use out of them at work after showing them off, maybe we could even pitch to their employer to fund those samples to that end)
+- people whose job requires work wear (ex. high vis, scrubs, etc) as I want to try and commission some samples from a manufacturer to illustrate industry use of the measurements, and it would be cool to have the people actually in those jobs model those samples (and hopefully even get use out of them at work after showing them off, maybe we could even pitch to their employer to fund those samples to that end)
 
-If we've not been in touch for a while, feel free to message me on insta, discord, or similar (@dkettchen) or email me at dkettchen@gmail.com, notably if you'd fit the pattern testing criteria above.
+If we have not been in touch for a while, feel free to message me on insta, discord, or similar (@dkettchen) or email me at dkettchen@gmail.com, notably if you would fit the pattern testing criteria above.
 
-### **If you're interested in helping out as a fit model, please enter your first name here:**
+### **If you are interested in helping out as a fit model, please enter your first name here:**
 *(you must know me in person and be based in the UK)*
 
 ## Following & sharing the project
@@ -520,10 +520,10 @@ If we've not been in touch for a while, feel free to message me on insta, discor
 All the published files related to this project, including a copy of the information you read at the beginning of the survey and the questionnaire questions, can be found in the project's github repo: 
 [https://github.com/dkettchen/trans_standard_sizing](https://github.com/dkettchen/trans_standard_sizing)
 
-The final measurements charts and insights from the survey will also be published there, as well as on my social media (I'm @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)) and [website](https://www.dkettchen.com). 
+The final measurements charts and insights from the survey will also be published there, as well as on my social media (I am @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)) and [website](https://www.dkettchen.com). 
 I will likely post updates beyond the final measurements and insights themselves on socials too (ex. making sample garments, going to events to present the project, and any future fashion endeavours enabled by this project).
 
-Note: Only the github repo is dedicated to this project exclusively, the rest are just my regular accounts, so follow at your own risk of whatever other shenanigans I'm up to on there 😅
+Note: Only the github repo is dedicated to this project exclusively, the rest are just my regular accounts, so follow at your own risk of whatever other shenanigans I am up to on there 😅
 
 **Feel free to share this survey!**
 
