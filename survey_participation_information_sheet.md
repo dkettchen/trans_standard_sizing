@@ -101,3 +101,5 @@ They will be available on [the project's github repository](https://github.com/d
 After the survey and data processing have concluded, I plan on making sample garments to present the project at relevant fashion/lgbt+/tech events and writing a paper about it to be published in relevant academic/industry/community outlets.
 
 If you would like to keep up with the project, feel free to follow the github repo or any of my socials (I am @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)).
+
+My own first application of these sizes will be to make free-to-download ready-made sewing patterns, starting with a transmasc suit pattern I am hoping to release some version of before end of 2026 (other patterns, including ones for transfemmes, will follow down the line). If you're interested in those, you can follow my socials or check my website occasionally.
