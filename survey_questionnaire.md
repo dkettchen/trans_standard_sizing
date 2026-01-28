@@ -30,6 +30,7 @@
 |-|-|
 | (You will be asked about top surgery later. Please answer the remaining questions about your body for now! ✌) | **Have you had mammoplasty** (augmenting boob job with implants or fat grafts)? 📌 <br>⚪ Yes <br> ⚪ No |
 | | **Have you had any amount of breast tissue removed** (breast reduction surgery, or any form of mastectomy)? 📌 <br>⚪ Yes <br> ⚪ No |
+| | **Do you habitually wear a padded bra** (stuffed/push-up/breast forms/etc)? 📌 <br> (Anything more than just regular foam bra cups with the < 1 cm(/ < 1/2 inch) of padding.) <br>⚪ Yes <br> ⚪ No |
 | **Are you generally working with increased crotch volume (i.e. more than lower growth) either via bottom surgery or habitual packing?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you generally working with crotch volume similar to that of cis women either via bottom surgery or habitual (successful) tucking?** 📌 <br>⚪ Yes <br> ⚪ No |
 | **Have you had a hysterectomy?** 📌 <br>⚪ Yes <br> ⚪ No | |
 | **Have you had any surgery that changed any of your other torso measurements?** 📌 <br>(ex. lipo) <br>⚪ Yes <br> ⚪ No | **Have you had any surgery that changed any of your other torso measurements?** 📌 <br>(ex. butt augmentation) <br>⚪ Yes <br> ⚪ No |
@@ -69,8 +70,8 @@ You will need:
 | **Distance between inner ends of your scars** <br> If your scars meet in the middle just put 0 here. ![](questionnaire_images\transmasc_measurements\scar_measurement_2.png) | |  **Strap length to underbust** (back) <br> From the middle of your shoulder to your underbust line in the back. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_back.png) |
 | **Distance from clavicle to outer end of the scar** <br> From the centerpoint of your collarbones to the outer-most end of your scars. ![](questionnaire_images\transmasc_measurements\scar_measurement_3.png) | | **Bust circumference** (standing) 📌 <br> The largest part of your chest, measured standing/sitting up straight. ![](questionnaire_images\transfemme_measurements\transfemme_bust.png) |
 | **Distance between outer ends of your scars** ![](questionnaire_images\transmasc_measurements\scar_measurement_4.png) | | **Front Bust** (standing) 📌 <br> The front "half" of your bust measurement from side to side (to where your side seams will be). ![](questionnaire_images\transfemme_measurements\transfemme_front_bust.png) |
-| **Distance from clavicle to the lowest/bending/middle point of the scar** <br> From the centerpoint of your collarbones to the relevant turning or middle point of your scars. <br><br>- If your scars dip below both their inner and outer end point in the middle, measure to their lowest point. <br>- If they bend at a certain point, measure to that point. <br>- If they are straight lines all the way across, use the middle point of the scar for this. ![](questionnaire_images\transmasc_measurements\scar_measurement_5.png) | | **Bust circumference** (bent over) 📌 <br> The largest part of your chest, measured while bending over at a 90° angle. ![](questionnaire_images\transfemme_measurements\transfemme_bust_bending.png) |
-| **Distance between lowest/bending/middle points of your scars** <br> Same points you used for the previous measurement. ![](questionnaire_images\transmasc_measurements\scar_measurement_6.png) | | **Bust circumference** (lying down) <br> The largest part of your chest, measured while lying down on your back. ![](questionnaire_images\transfemme_measurements\transfemme_bust_lying_down.png) |
+| **Distance from clavicle to the lowest/bending/middle point of the scar** <br> From the centerpoint of your collarbones to the relevant turning or middle point of your scars. <br><br>- If your scars dip below both their inner and outer end point in the middle, measure to their lowest point. <br>- If they bend at a certain point, measure to that point. <br>- If they are straight lines all the way across, use the middle point of the scar for this. ![](questionnaire_images\transmasc_measurements\scar_measurement_5.png) | | **Bust circumference** (bent over) 📌 <br> Circumference of the largest part of your chest, measured while bending over at a 90° angle. ![](questionnaire_images\transfemme_measurements\transfemme_bust_bending.png) |
+| **Distance between lowest/bending/middle points of your scars** <br> Same points you used for the previous measurement. ![](questionnaire_images\transmasc_measurements\scar_measurement_6.png) | | **Bust circumference** (lying down) <br> Circumference of the largest part of your chest, measured while lying down on your back. ![](questionnaire_images\transfemme_measurements\transfemme_bust_lying_down.png) |
 | | | **Overbust circumference** 📌 <br> Circumference of your ribcage above your boobs. ![](questionnaire_images\transfemme_measurements\transfemme_overbust.png) |
 | | | **Clavicle to overbust** 📌 ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_overbust.png) |
 | | | **Clavicle to nipple/apex** <br> (only skip this one if you have no nipples due to surgery AND can't determine an apex otherwise) ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_nip.png) |
@@ -79,12 +80,13 @@ You will need:
 | | | **Outer arc** <br> From nipple/apex to outer end of boob. ![](questionnaire_images\transfemme_measurements\transfemme_outer_arc.png) |
 | | | **Inner arc** <br> From nipple/apex to inner end of the boob. ![](questionnaire_images\transfemme_measurements\transfemme_inner_arc.png) |
 | | | **Breast spacing** <br> Distance between boobs (against your ribcage/sternum). ![](questionnaire_images\transfemme_measurements\transfemme_breast_spacing.png) |
+| | | **Bust circumference** (padded bra) <br> (optional, only fill this in if you usually wear a padded bra) <br><br> The largest part of your chest, while wearing your padded bra, measured standing/sitting up straight. |
 ## <!-- co-ed measurements -->
 
 (Welcome back everyone, this concludes the transmasc-/transfemme-specific parts of the questionnaire, you will be co-ed for the rest of it 👍)
 
 You should **wear the undergarments you usually wear** under clothes to take these measurements. <br>
-If you habitually **tuck/pack/bind**, please make sure you do so before you take the measurements. 
+If you habitually **tuck/pack/bind/wear a padded bra**, please make sure you do so before you take these measurements. 
 
 ### **Height** 📌
 (this can be taken lying down if you can't stand)
@@ -436,6 +438,7 @@ Ex. I would consider myself short compared to cis men but am very much average h
 <br>⚪ Somewhat well, I could usually find clothes off-the-rack, but experienced certain fit issues (ex. wrong length, ex. wrong circumference, etc)
 <br>⚪ Poorly, so I had to use specialist shops/sections (plus-size, extra tall, etc), but could easily find clothes there
 <br>⚪ Poorly, so I had to use specialist shops/sections (plus-size, extra tall, etc), but still experienced certain fit issues there (ex. wrong length, ex. wrong circumference, etc)
+<br>⚪ Poorly, so I would have had to use specialist shops/sections (plus-size, extra tall, etc), but I didn't (very often; ex. because they weren't available to me).
 <br>⚪ Very poorly, I have never had properly fitting clothes/I needed custom tailoring to have any clothes that fit correctly
 <br>⚪ Not applicable (ex. I didn't shop in birth sex aisle, I only wore homemade clothes, etc)
 
@@ -513,7 +516,20 @@ If we have not been in touch for a while, feel free to message me on insta, disc
 ### **If you are interested in helping out as a fit model, please enter your first name here:**
 *(you must know me in person and be based in the UK)*
 
-## Following & sharing the project
+## Finding, following & sharing the project
+
+**How did you find the survey?**
+- Through someone I know / Word of mouth (incl. messaging and email)
+- Saw a flyer
+- Charity email / newsletter
+- Tumblr
+- Reddit
+- Facebook
+- Bluesky
+- Youtube
+- Discord server
+- Any other website
+- Anything else
 
 **More info and updates about the project**
 
