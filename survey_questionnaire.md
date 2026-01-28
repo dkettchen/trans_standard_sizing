@@ -50,7 +50,7 @@
 You will need:
 - a measuring tape (or similar)
 - a ruler or similar hard, long, flat/thin, straight object, like a chopstick
-- (optional but highly recommended) a friend or loved one to help you measure, notably for f.e. back measurements you can't reach properly yourself
+- (optional but highly recommended) someone to help you measure, notably for f.e. back measurements you can't reach properly yourself
 - (optional but highly recommended) some string and/or pins (or pencil/pen if measuring shirtless) to mark certain measurements for other ones (ex. marking where the waistline was for taking vertical distances)
 
 ### **What unit will you be measuring in?** 📌
@@ -62,24 +62,24 @@ You will need:
 
 |  <div style="width:25vw">Transmasc ⚪ Yes</div> |  <div style="width:25vw">Transmasc ⚪ No</div> | <div style="width:25vw">Transfemme</div> | 
 |-|-|-|
-| **Chest circumference** 📌 <br>The widest part of your chest ![](questionnaire_images\transmasc_measurements\transmasc_chest_circumference.png) | All chest measurements in this section and beyond, other than the underbust measurement, are optional for you, please do not feel obliged if you struggle or do not feel comfortable with any of them. | These will include a bunch of intricate bust measurements used for drafting bras and determining bra size using tools like [ABraThatFits' bra size calculator](https://www.abrathatfits.org/calculator.php). <br><br> Please take these measurements without a bra on if possible. If that is not possible, please wear a well-fitting, non-padded bra or bralette. <br><br> For any single-boob measurements, please measure on the same boob for all of them. If you are very asymmetrical, you can measure both sides and put in the average if you prefer. <br><br> If you have had one boob removed or reduced for say cancer reasons, use the other one. <br><br> If you have had both boobs fully removed for androgynous or cancer reasons, feel free to leave out the optional bra-specific measurements entirely. |
-| **Front chest** <br> (optional) <br><br> The front "half" of your chest measurement from side to side (to where your side seams will be). ![](questionnaire_images\transmasc_measurements\transmasc_front_chest.png) | **Underbust circumference** 📌 <br> Circumference of your ribcage under your bust <br><br> (this can be taken while wearing a binder or shirt if needed) ![](questionnaire_images\transmasc_measurements\transmasc_underbust.png) | **Underbust circumference** (loose) 📌 <br> Circumference of your ribcage under your boobs. Loose enough that the measuring tape doesn't cut into your skin. <br><br> You may want to mark this with some string. ![](questionnaire_images\transfemme_measurements\transfemme_underbust.png) |
-| **Underbust circumference** <br>(optional, only recommended if you have notable chest volume (from fat, leftover breast tissue, and/or muscle) <br><br> Most of men's fashion doesn't use this but I want to make sure we have all measurements people could possibly need for their pattern drafting) <br><br> Measure under chest volume (ex. under pecs) ![](questionnaire_images\transmasc_measurements\transmasc_top_surgery_underbust.png) | **Bust circumference** (without binder) <br> (optional) <br><br> The biggest circumference of your chest <br><br> (this can be taken while wearing a shirt or non-compressing bra, just no binder (including compressing sports bras) please) ![](questionnaire_images\transmasc_measurements\transmasc_bust_without_binder.png) | **Underbust circumference** (snug) <br> Same measurement but the tape should cut in a little but feel as snug as you want a bra to feel. |
-| **(Double incision or anchor) scar measurements** <br> (optional) <br><br> We are asking for scar measurements in case anyone wants to design clothes that show them off using the measurements from this project! <br><br> (If you had keyhole/periareolar surgery or other surgery that didn't leave you with the long horizontal-ish scars under your pectoral area you can skip these and continue to the next page) <br><br> If your scars look similar to any of these shapes, please consider measuring them! <br>![](questionnaire_images\transmasc_measurements\transmasc_scars.png) | **Bust circumference** (with binder)<br> (optional) <br><br> The biggest circumference of your chest (squished edition) <br><br> (this can be taken while wearing either a binder or a compressing sports bra if you are small-chested enough for that to have a similar effect as a binder (usually up to a B or C cup)) ![](questionnaire_images\transmasc_measurements\transmasc_bust_with_binder.png) | **Underbust circumference** (tight) <br> Same measurement but as tight as possible. |
-| **Distance from clavicle to inner end of the scar** <br> From the centerpoint of your collarbones to the inner-most end of your scars. <br><br> If your scars meet in the middle just measure down to that middle point. ![](questionnaire_images\transmasc_measurements\scar_measurement_1.png) | **Front bust** (with binder) <br> (optional) <br><br> The front "half" of your bust measurement from side to side (to where your side seams will be).<br><br> (Please only fill this in if you also filled in the previous measurement.) ![](questionnaire_images\transmasc_measurements\transmasc_front_bust_with_binder.png) | **Strap length to underbust** (front) <br> From the middle of your shoulder to your underbust line along the outside of your boob. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_front.png) |
+| **Chest circumference** 📌 <br>The widest part of your chest ![](questionnaire_images\transmasc_measurements\transmasc_chest_circumference.png) | All chest measurements in this section and beyond, other than the underbust measurement, are optional for you, please do not feel obliged if you struggle or do not feel comfortable with any of them. | These will include a bunch of intricate bust measurements used for drafting bras and determining bra size using tools like [ABraThatFits' bra size calculator](https://www.abrathatfits.org/calculator.php). <br><br> Please take these measurements without a bra on if possible. If that is not possible, please wear a well-fitting, non-padded bra or bralette. <br><br> For any single-breast measurements, please measure on the same breast for all of them. If your breasts are very asymmetrical, you can measure both sides and put in the average if you prefer. <br><br> If you have had one breast removed or reduced such as for cancer treatment, use the other breast. If you have had both breasts fully removed for any reasons, feel free to leave out the optional bra-specific measurements entirely. |
+| **Front chest** <br> (optional) <br><br> The front "half" of your chest measurement from side to side (to where your side seams will be). ![](questionnaire_images\transmasc_measurements\transmasc_front_chest.png) | **Underbust circumference** 📌 <br> Circumference of your ribcage under your bust <br><br> (this can be taken while wearing a binder or shirt if needed) ![](questionnaire_images\transmasc_measurements\transmasc_underbust.png) | **Underbust circumference** (loose) 📌 <br> Circumference of your ribcage under your breasts. Loose enough that the measuring tape doesn't cut into your skin. <br><br> You may want to mark this with some string. ![](questionnaire_images\transfemme_measurements\transfemme_underbust.png) |
+| **Underbust circumference** <br>(optional, only recommended if you have notable chest volume (from fat, leftover breast tissue, and/or muscle) <br><br> Most of men's fashion doesn't use this but I want to make sure we have all measurements people could possibly need for their pattern drafting) <br><br> Measure under chest volume (ex. under pecs) ![](questionnaire_images\transmasc_measurements\transmasc_top_surgery_underbust.png) | **Bust circumference** (without binder) <br> (optional) <br><br> The biggest circumference of your chest <br><br> (this can be taken while wearing a shirt or non-compressing bra, just no binder (including compressing sports bras) please) ![](questionnaire_images\transmasc_measurements\transmasc_bust_without_binder.png) | **Underbust circumference** (snug) <br> Same measurement as before, but the tape should cut in a little, but feel as snug as you want a bra to feel. |
+| **(Double incision or anchor) scar measurements** <br> (optional) <br><br> We are asking for scar measurements in case anyone wants to design clothes that show them off using the measurements from this project! <br><br> (If you had keyhole/periareolar surgery or other surgery that didn't leave you with the long horizontal-ish scars under your pectoral area you can skip these and continue to the next page) <br><br> If your scars look similar to any of these shapes, please consider measuring them! <br>![](questionnaire_images\transmasc_measurements\transmasc_scars.png) | **Bust circumference** (with binder)<br> (optional) <br><br> The biggest circumference of your chest (squished edition) <br><br> (this can be taken while wearing either a binder or a compressing sports bra if you are small-chested enough for that to have a similar effect as a binder (usually up to a B or C cup)) ![](questionnaire_images\transmasc_measurements\transmasc_bust_with_binder.png) | **Underbust circumference** (tight) <br> Same measurement as the previous two, but now as tight as possible. |
+| **Distance from clavicle to inner end of the scar** <br> From the centerpoint of your collarbones to the inner-most end of your scars. <br><br> If your scars meet in the middle just measure down to that middle point. ![](questionnaire_images\transmasc_measurements\scar_measurement_1.png) | **Front bust** (with binder) <br> (optional) <br><br> The front "half" of your bust measurement from side to side (to where your side seams will be).<br><br> (Please only fill this in if you also filled in the previous measurement.) ![](questionnaire_images\transmasc_measurements\transmasc_front_bust_with_binder.png) | **Strap length to underbust** (front) <br> From the middle of your shoulder to your underbust line along the outside of your breast. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_front.png) |
 | **Distance between inner ends of your scars** <br> If your scars meet in the middle just put 0 here. ![](questionnaire_images\transmasc_measurements\scar_measurement_2.png) | |  **Strap length to underbust** (back) <br> From the middle of your shoulder to your underbust line in the back. ![](questionnaire_images\transfemme_measurements\transfemme_shoulder_to_underbust_back.png) |
 | **Distance from clavicle to outer end of the scar** <br> From the centerpoint of your collarbones to the outer-most end of your scars. ![](questionnaire_images\transmasc_measurements\scar_measurement_3.png) | | **Bust circumference** (standing) 📌 <br> The largest part of your chest, measured standing/sitting up straight. ![](questionnaire_images\transfemme_measurements\transfemme_bust.png) |
 | **Distance between outer ends of your scars** ![](questionnaire_images\transmasc_measurements\scar_measurement_4.png) | | **Front Bust** (standing) 📌 <br> The front "half" of your bust measurement from side to side (to where your side seams will be). ![](questionnaire_images\transfemme_measurements\transfemme_front_bust.png) |
 | **Distance from clavicle to the lowest/bending/middle point of the scar** <br> From the centerpoint of your collarbones to the relevant turning or middle point of your scars. <br><br>- If your scars dip below both their inner and outer end point in the middle, measure to their lowest point. <br>- If they bend at a certain point, measure to that point. <br>- If they are straight lines all the way across, use the middle point of the scar for this. ![](questionnaire_images\transmasc_measurements\scar_measurement_5.png) | | **Bust circumference** (bent over) 📌 <br> Circumference of the largest part of your chest, measured while bending over at a 90° angle. ![](questionnaire_images\transfemme_measurements\transfemme_bust_bending.png) |
 | **Distance between lowest/bending/middle points of your scars** <br> Same points you used for the previous measurement. ![](questionnaire_images\transmasc_measurements\scar_measurement_6.png) | | **Bust circumference** (lying down) <br> Circumference of the largest part of your chest, measured while lying down on your back. ![](questionnaire_images\transfemme_measurements\transfemme_bust_lying_down.png) |
-| | | **Overbust circumference** 📌 <br> Circumference of your ribcage above your boobs. ![](questionnaire_images\transfemme_measurements\transfemme_overbust.png) |
+| | | **Overbust circumference** 📌 <br> Circumference of your ribcage above your breasts. ![](questionnaire_images\transfemme_measurements\transfemme_overbust.png) |
 | | | **Clavicle to overbust** 📌 ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_overbust.png) |
-| | | **Clavicle to nipple/apex** <br> (only skip this one if you have no nipples due to surgery AND can't determine an apex otherwise) ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_nip.png) |
-| | | **Top cup** <br> From nipple/apex to upper end of boob. ![](questionnaire_images\transfemme_measurements\transfemme_top_cup.png) |
-| | | **Bottom cup** <br> From nipple/apex to lower end of boob. ![](questionnaire_images\transfemme_measurements\transfemme_bottom_cup.png) |
-| | | **Outer arc** <br> From nipple/apex to outer end of boob. ![](questionnaire_images\transfemme_measurements\transfemme_outer_arc.png) |
-| | | **Inner arc** <br> From nipple/apex to inner end of the boob. ![](questionnaire_images\transfemme_measurements\transfemme_inner_arc.png) |
-| | | **Breast spacing** <br> Distance between boobs (against your ribcage/sternum). ![](questionnaire_images\transfemme_measurements\transfemme_breast_spacing.png) |
+| | | **Clavicle to nipple/apex** <br> (only skip this one if you have no nipples due to surgery AND can't otherwise determine an apex) ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_nip.png) |
+| | | **Top cup** <br> From nipple/apex to upper end of breast. ![](questionnaire_images\transfemme_measurements\transfemme_top_cup.png) |
+| | | **Bottom cup** <br> From nipple/apex to lower end of breast. ![](questionnaire_images\transfemme_measurements\transfemme_bottom_cup.png) |
+| | | **Outer arc** <br> From nipple/apex to outer end of breast. ![](questionnaire_images\transfemme_measurements\transfemme_outer_arc.png) |
+| | | **Inner arc** <br> From nipple/apex to inner end of the breast. ![](questionnaire_images\transfemme_measurements\transfemme_inner_arc.png) |
+| | | **Breast spacing** <br> Distance between breasts (against your ribcage/sternum). ![](questionnaire_images\transfemme_measurements\transfemme_breast_spacing.png) |
 | | | **Bust circumference** (padded bra) <br> (optional, only fill this in if you usually wear a padded bra) <br><br> The largest part of your chest, while wearing your padded bra, measured standing/sitting up straight. |
 ## <!-- co-ed measurements -->
 
@@ -99,6 +99,8 @@ If you habitually **tuck/pack/bind/wear a padded bra**, please make sure you do 
 ![](questionnaire_images\coed_measurements\nape_to_floor.png)
 
 ### **Head circumference** 📌
+Measure around the level where you'd wear a hat or beanie, i.e. around your forehead, just above or on your ears, and around the lower part of the back of your head near the top of your neck.
+
 ![](questionnaire_images\coed_measurements\head.png)
 
 ### **Neck circumference** 📌
@@ -122,12 +124,12 @@ From your shoulder point (where you can feel bone) to your wrist along the outsi
 ![](questionnaire_images\coed_measurements\arm_length.png)
 
 ### **Shoulder to elbow** 📌
-With your arm bent, measure from your shoulder point (where you can feel bone) to your elbow (bone). 
+With your arm bent like in the picture below, measure from your shoulder point (where you can feel bone) to your elbow (bone). 
 
 ![](questionnaire_images\coed_measurements\upper_arm.png)
 
 ### **Elbow to wrist** 📌
-With your arm bent, measure from your elbow (bone) to your wrist. 
+With your arm bent like in the picture below, measure from your elbow (bone) to your wrist. 
 
 ![](questionnaire_images\coed_measurements\lower_arm.png)
 
@@ -171,14 +173,14 @@ Measure the distance between the front and back points on the ruler you just mea
 ![](questionnaire_images\coed_measurements\armscye_depth.png)
 
 ### **Front width** 📌
-The distance between the armscye seams (the line we just measured with the ruler)/where your arms connect to your body in the front. 
+The distance between the armscye seams (the "armhole height" we just measured with the ruler)/where your arms connect to your body in the front. 
 
 ![](questionnaire_images\coed_measurements\front_width.png)
 
 ### **Back width**
 Same measurement but in the back.
 
-(If you couldn't find anyone to help you measure and cannot reach this properly yourself, please skip it.)
+(If you cannot find anyone to help you measure and cannot reach this properly yourself, please skip it.)
 
 ![](questionnaire_images\coed_measurements\back_width.png)
 
@@ -197,7 +199,7 @@ Same measurement but in the front.
 ![](questionnaire_images\coed_measurements\clavicle_to_shoulder_point.png)
 
 ### **Natural waist circumference** 📌
-Your natural waist is located somewhere between your ribcage and hip bone. <br><br> For some people it will be the smallest part of their torso to form a more or less pronounced indent/"hourglass" shape. <br> For anyone else: see where your elbow creases, your torso bends, or your back curves in. <br><br> Once you have found your natural waist, you may want to mark it by tying some string around it or similar as we will need it again in a minute for other measurements. 
+Your natural waist is located somewhere between your ribcage and hip bone. <br><br> For some people the natural waist is the smallest part of their torso which forms a more-or-less pronounced indent/"hourglass" shape. <br> For anyone else: see where your elbow creases, your torso bends, or your back curves in. <br><br> Once you have found your natural waist, you may want to mark it by tying some string around it or similar as we will need it again in a minute for other measurements. 
 
 ![](questionnaire_images\coed_measurements\nat_waist.png)
 
@@ -212,7 +214,7 @@ From the centerpoint of your collarbones, against your sternum down the middle o
 ![](questionnaire_images\coed_measurements\clavicle_to_nat_waist.png)
 
 ### **Distance from clavicle to natural waist** (front, with ruler)
-(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Place your ruler across your boobs/chest and measure from your clavicle to natural waist over the ruler-bridge. <br><br> (If you are transmasc and the ruler is touching your sternum or very close to it, skip this measurement.) 
+(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Place your ruler across your breasts/chest and measure from your clavicle to natural waist over the ruler-bridge. <br><br> (If you are transmasc and the ruler is touching your sternum or very close to it, skip this measurement.) 
 
 ![](questionnaire_images\transfemme_measurements\transfemme_clavicle_to_nat_waist_ruler.png)
 
@@ -222,7 +224,7 @@ The distance between bottom-of-armscye pin and natural waist.
 ![](questionnaire_images\coed_measurements\sideseam.png)
 
 ### **Nipple/bust point distance**
-(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Distance between your nipples/bust points*. <br><br> * The bust point is the apex of your boob/moob/pec. Even for cis men and people who have had mastectomy, most people's chests aren't actually flat, so they still have apexes. <br> For most women/people with unaltered boobs, their bust point aligns with their nipples. However transmascs, with their binder squish and at times messy and/or nippleless top surgery results, can't always rely on their nipples to determine their apex (see illustration below this question). 
+(**required for transfemmes**, optional for transmascs (recommended if you have chest volume (you are comfy with and intend to keep))) <br><br> Distance between your nipples/bust points*. <br><br> * The bust point is the apex of your boob/moob/pec. Most people's chests aren't actually flat, even for cis men and people who have had a mastectomy, so their chests still have apexes. <br> For most women/people with unaltered breasts, their bust point aligns with their nipples. However transmascs, with their binder squish and at times messy and/or nippleless top surgery results, can't always rely on their nipples to determine their apex (see illustration below this question). 
 
 ![](questionnaire_images\transfemme_measurements\transfemme_bust_point_distance.png)
 
@@ -347,7 +349,7 @@ Measure from front natural waist to back natural waist through the middle inbetw
 ![](questionnaire_images\coed_measurements\crotch_depth.png)
 
 ### **Outseam from natural waist** (side) 📌
-Standing up, hold the measuring tape to the side of your natural waist, letting it hang straight down along your leg, and measure down to the floor. <br><br> If you can't stand at all, please take this lying down and measure along the side of your leg to your ankle, then sit with your foot on the floor and measure up to your ankle from the floor and add the two together to enter here. 
+Standing up, hold the measuring tape to the side of your natural waist, letting it hang straight down along your leg, and measure down to the floor. <br><br> If you can't stand at all, please take this measurement lying down and measure along the side of your leg to your ankle, then sit with your foot on the floor and measure up to your ankle from the floor and add the two together to enter here. 
 
 ![](questionnaire_images\coed_measurements\outseam_to_nat_waist.png)
 
@@ -372,7 +374,7 @@ The thickest part of your (upper) leg.
 ![](questionnaire_images\coed_measurements\thigh.png)
 
 ### **Knee circumference** 📌
-Where it bends. 
+Where the knee bends. 
 
 ![](questionnaire_images\coed_measurements\knee.png)
 
@@ -387,7 +389,7 @@ Where you can feel the ankle bone.
 ![](questionnaire_images\coed_measurements\ankle.png)
 
 ### **Foot entry circumference** 📌
-Around the heel and top of your foot to measure the thickest part of your foot (for getting through leg holes). 
+The thickest part of your foot (for getting through leg holes), around the heel and top of your foot. 
 
 ![](questionnaire_images\coed_measurements\foot_entry.png)
 
@@ -457,7 +459,7 @@ Clothing in this aspect is: (select any aspects that apply)
 | Sleeve circumference | ⚪ | ⚪ |
 | Sleeve length | ⚪ | ⚪ |
 | Chest width | ⚪ | ⚪ |
-| Boob space (transfemmes only) | ⚪ | ⚪ |
+| Breast space (transfemmes only) | ⚪ | ⚪ |
 | Waist size | ⚪ | ⚪ |
 | Torso length (incl. top length, waistline placement on one-piece garments (dresses, overalls, etc)) | ⚪ | ⚪ |
 | Hip width | ⚪ | ⚪ |
@@ -474,11 +476,11 @@ Clothing in this aspect is: (select any aspects that apply)
 (optional)
 
 - Please keep suggestions short (ex. “trousers”, ex. “button-up shirt”, ex. “bra”)
-- You can specify basic styles if you want (ex. “a cute oversized sweater”, ex. “a double-breasted suit”, ex. “a lolita dress”, ex. “a bomber jacket”)
+- You can specify basic styles if you want (ex. “a cute oversized sweater”, ex. “a double-breasted suit”, ex. “a Lolita dress”, ex. “a bomber jacket”)
 - To avoid confusion: the word "pants" will be counted as trousers unless otherwise specified
 - Suggestions can include work wear/uniforms (ex. "scrubs for work", ex. "high vis for work")
 - Please stick to regular clothes (ex. something the average cis person can just find at a store, ex. what you might wear in your everyday/to a wedding/to chill at home/to the office/to a date/to pride/to subculture events/etc)
-- Anything else or supplementary (ex. shoes/hats/accessories, trans-specialist underwear (= intended for anatomy not shared with cis people of opposite birth sex), fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
+- Anything else or supplementary (ex. shoes/hats/accessories, trans-specialist underwear (i.e. intended for anatomy not shared with cis people of opposite birth sex), fursuits, fetish/kink-specific items, etc) is outside of the scope of this project
 
 -> Like what's your craziest, not-actually-that-crazy fashion wish that cis sizes are currently standing in the way of?
 
@@ -513,7 +515,7 @@ I would be particularly interested in:
 
 If we have not been in touch for a while, feel free to message me on insta, discord, or similar (@dkettchen) or email me at dkettchen@gmail.com, notably if you would fit the pattern testing criteria above.
 
-### **If you are interested in helping out as a fit model, please enter your first name here:**
+### **If you are interested in helping out as a fit model, please enter ONLY your first name here:**
 *(you must know me in person and be based in the UK)*
 
 ## Finding, following & sharing the project
