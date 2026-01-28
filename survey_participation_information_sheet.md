@@ -26,9 +26,7 @@ After being a femme-presenting nonbinary for a decade, I finally became able to 
 
 Having had no problems buying clothes I wanted off-the-rack most of my life, switching to men's fashion exclusively has been a very frustrating (albeit worthwhile due to no more misgendering) process.
 
-Men's fashion follows different rules and shape language than women's, including a completely different waistline, so most of my previous garments are useless to it.
-I don’t fit standard men’s sizes, so I can’t just go to the store and buy new items that fit me.
-And even when sewing my own clothes, most sewing resources only cover women's fashion.
+Men's fashion follows different rules and shape language than women's, including a completely different waistline, so most of my previous garments are useless to it. I don’t fit standard men’s sizes, so I can’t just go to the store and buy new items that fit me. And even when sewing my own clothes, most sewing resources only cover women's fashion.
 
 I know I am not the only trans person with this problem, so I want to make fashion more accessible and fun for us again with this project and beyond.
 
@@ -49,7 +47,7 @@ You are invited to take part in this survey if you:
 
 - We are trying to capture the full range of relevant trans people's measurements can take, so even if you didn't quite fit standard sizes pre-transition or if you struggle less to fit them now, you are still invited to participate if you meet the criteria above.
 - I also particularly want to encourage plus-sized people to take part, as I hope to also extract trans plus-sizes from this data set!
-- This project is label agnostic. I don't care what you identify as or what pronouns you use, as long as you fit the above criteria, you can participate.
+- This project is label agnostic. I don't care what you identify as or what pronouns you use, as long as you meet the above criteria, you can participate.
 - The following groups can participate but will be asked to mark this specific in the survey:
     - Anyone on low-dose/other non-standard HRT
     - Anyone who's been on HRT for 3+ years but changed their dose in the last 3 years
@@ -61,18 +59,19 @@ You are invited to take part in this survey if you:
 No, participation is voluntary and you can quit out of the survey at any point without submitting your responses.
 
 ## What will I be asked to do?
-Fill out a survey, part of which will involve taking your measurements. You may want to **set some time aside for it and ask a friend or loved one to help you with the measuring.** 
+Fill out a survey, part of which will involve taking your measurements. You may want to **set some time aside for it and ask someone to help you with the measuring.** 
 
-It will be helpful if you can stand for at least 4 of the measurements (inseam and outseam), but an alternative way for measuring those will be provided in case any respondants can't stand at all.
+It will be helpful if you can stand for at least 4 of the measurements, but an alternative way for measuring those will be provided in case any respondants can't stand at all.
 
 ## What information about me will you collect and why?
 <!-- explain what survey will ask about and reasons for each -->
 
 - Your transition direction based on birth sex (transmasc/transfemme), as this project is label agnostic and that will be our only gender metric to group respondants by.
 - Generic info about your physical body, including age, medical transition state, and body type, as this will provide valuable context for your measurements and responses.
-- Your measurements. We will use everyone's measurements to extract trans standard sizes later.
+- Your measurements. We will use everyone's measurements to determine trans standard sizes later.
 - Your relationship to standard sizing, pre-transition and now, including pre-transition sizes if known, how well they fit you, how that relationship has changed since, and common fit issues you experience now, if any. This will help us make sure our trans sizing ends up equivalent, and provide valuable insights and stats on trans people's relationship to (cis) standard sizing.
 - (Optionally) If you know me in person and are interested in helping out as a fit model: your first name to be able to reidentify your measurements later.
+- (Optionally) How you found the survey, to tell how it spread from the places it was posted/shared.
 
 This data is collected in the public interest, as this project aims to benefit the global trans and gender diverse community, and to make its anonymised data publicly available.
 
@@ -100,6 +99,6 @@ They will be available on [the project's github repository](https://github.com/d
 
 After the survey and data processing have concluded, I plan on making sample garments to present the project at relevant fashion/lgbt+/tech events and writing a paper about it to be published in relevant academic/industry/community outlets.
 
-If you would like to keep up with the project, feel free to follow the github repo or any of my socials (I am @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)).
+If you would like to keep up with the project, feel free to follow or bookmark the github repo or any of my socials (I am @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)).
 
-My own first application of these sizes will be to make free-to-download ready-made sewing patterns, starting with a transmasc suit pattern I am hoping to release some version of before end of 2026 (other patterns, including ones for transfemmes, will follow down the line). If you're interested in those, you can follow my socials or check my website occasionally.
+My own first application of these sizes will be to make free-to-download ready-made sewing patterns, starting with a transmasc suit pattern I am hoping to release some version of before end of 2026 (other patterns, including ones for transfemmes, will follow down the line). If you're interested in those, feel free to follow my socials or check my website occasionally.
