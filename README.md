@@ -1,7 +1,7 @@
 ## The Trans Standard Sizes Project
 <!-- project description -->
 
-Fashion industry uses a set of standard measurements to “grade” their sewing patterns for different sizes. This way most people are able to go to a store and find clothes that roughly fit them.
+Fashion industry uses a set of standard measurements to "grade" their sewing patterns for different sizes. This way most people are able to go to a store and find clothes that roughly fit them.
 
 However these standard sizes are made with cis people in mind, meaning most trans people struggle to find off-the-rack clothes that fit them.
 
@@ -13,8 +13,8 @@ If we had a set of standard measurements for trans people, one could create mult
 
 This would not only be useful to trans people and their loved ones making them clothes at home, but also to anyone in fashion industry/clothing manufacturing who has trans clients.
 
-> Ex. I need high-vis at work, but don't fit standard-issue. Ill-fitting PPE is not regulation, so we're looking into getting our manufacturer to make me custom high-vis, which they'll need to bring me in for to take my measurements.
-If I had a handy chart of trans standard sizes, I could just send them that, go “this is my size, just make it to these measurements” and save them the extra effort. 
+> Ex. I need high-vis at work, but don't fit standard-issue. Ill-fitting PPE is not regulation, so we're looking into getting our manufacturer to make me custom high-vis, which they'll need to my measurements for.
+If I had a handy chart of trans standard sizes, I could just send them that, go "this is my size, just make it to these measurements". 
 It would also enable them to make a graded trans pattern once and have it on file to reuse for any repeat or new trans customers.
 
 ### Goal of the project
@@ -38,7 +38,7 @@ As someone who has been obsessed with fashion and had no problem buying clothes 
 - I don't fit standard men's sizes, so I can't just go to the store and buy new items that fit me, even from the limited selection available there.
 
 - And even as a self-taught seamster making my own clothes, most sewing resources only cover women's fashion. 
-Men's specific resources are highly limited (men only wear business pants and suit jackets, right??) and their methods often aren't very robust outside of using cis standard measurements (my measurements will literally break their dang clown math whenever I try to follow supposedly ”bespoke” drafting methods).
+Men's specific resources are highly limited (men only wear business pants and suit jackets, right??) and their methods often aren't very robust outside of using cis standard measurements (my measurements will literally break their dang clown math whenever I try to follow supposedly "bespoke" drafting methods).
 
 I know I'm by far not the only trans person with this problem. So many of us (transmasc or transfemme) struggle to find clothing in the right size and shape, and I know notably a lot of transmascs are put off by the perceived lack of options among men's fashion.
 
