@@ -547,6 +547,9 @@ Note: Only the github repo is dedicated to this project exclusively, the rest ar
 
 Here is the direct link to the survey: https://tinyurl.com/Trans-Standard-Sizing
 
-You can also simply share the posts I made on socials if you prefer: [coming soon - if you found it through one of them and got here before I was able to add them, just share that one for now lol]
+You can also simply share the posts I made on socials if you prefer: 
+Tumblr: https://www.tumblr.com/dkettchen/807072592136667136/im-running-a-survey
+Bluesky: https://bsky.app/profile/dkettchen.bsky.social/post/3mdlonzecrc25
+[more coming soon]
 
 ##

@@ -45,6 +45,7 @@ You are invited to take part in this survey if you:
 
 ### Clarifications:
 
+- Edit: *The vast majority of the population is what I'm calling "of typical proportions".* If a relevant portion of the trans community has a bodytype remotely similar to yours, you are of typical proportions and should participate if you meet the remaining criteria!
 - We are trying to capture the full range of relevant trans people's measurements can take, so even if you didn't quite fit standard sizes pre-transition or if you struggle less to fit them now, you are still invited to participate if you meet the criteria above.
 - I also particularly want to encourage plus-sized people to take part, as I hope to also extract trans plus-sizes from this data set!
 - This project is label agnostic. I don't care what you identify as or what pronouns you use, as long as you meet the above criteria, you can participate.
