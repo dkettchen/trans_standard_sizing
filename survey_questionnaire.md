@@ -15,7 +15,7 @@
 - You are over 18
 - You have been on HRT for at least 3 years
 - You have not had your entire first puberty replaced
-- You are generally of typical proportions and have at least one arm and leg to measure
+- You have at least one arm and leg to measure
 
 - You have the time and means (and help where applicable) to take your measurements right now
 
@@ -550,6 +550,7 @@ Here is the direct link to the survey: https://tinyurl.com/Trans-Standard-Sizing
 You can also simply share the posts I made on socials if you prefer: 
 Tumblr: https://www.tumblr.com/dkettchen/807072592136667136/im-running-a-survey
 Bluesky: https://bsky.app/profile/dkettchen.bsky.social/post/3mdlonzecrc25
+Instagram: https://www.instagram.com/p/DUJUeYZja1t/
 [more coming soon]
 
 ##
