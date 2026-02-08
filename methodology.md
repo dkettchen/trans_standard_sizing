@@ -172,12 +172,13 @@ We are aiming to determine general proportions of trans people.
 
 2) Safeguarding
     - One needs to be mindful of dysphoria when dealing with trans participants.
-    - Our respondants will be less vulnerable than people fully pre-transition due to their HRT, but still include people who haven't concluded their treatment (ex. transmasc pre-top surgery).
+    - Our respondants will be less vulnerable than people fully pre-transition due to their HRT, but still include people who haven't concluded their treatment (ex. transmasc pre-top surgery)
+    - No matter the transition stage, trans people may still feel dysphoric about aspects of their body they can't change (incl. the very bone proportions we're trying to fit for)
     - Those most in need of accomodations to comfortably complete the measurements will be prioritised.
 
 3) Reasonable thoroughness
     - We won't be able to follow up with the respondants after the survey, so it should include anything we might reasonably want/need info on down the line.
-    - Measurements collected should cover any that could be needed for pattern drafting.
+    - Measurements collected should cover enough for pattern drafting or at the very least provide a solid base to analyse proportions in relation to cis data.
     - Context data collected should be relevant to drafting considerations, enable grouping by relevant groups and give insight into relevant fit issues.
 
 ## Context data collected
@@ -189,6 +190,7 @@ We are aiming to determine general proportions of trans people.
     - Ex. Not asking for unnecessary data points like location, race, identity labels, pronouns, contact details, full names, etc.
     - Ex. Not asking for more transition specifics than relevant for shapes/measurements.
         - Ex. It doesn't matter if someone had transmasc bottom surgery or habitually packs, as they will have extra crotch volume to clothe either way.
+    - Ex. Leaving questions about extra information like hysterectomy or non-standard surgery optional
 - Should give a relevant idea of the respondant's proportion compared to standard sizing
     - Ex. How well did it fit pre-transition and what size that was?
     - Ex. What fit issues do they currently experience?
@@ -233,7 +235,7 @@ These measurements should:
     - Ex. Anyone who's had double incision top surgery will have big horizontal chest scars, so may want to show them off and should be able to provide scar measurements.
 - not pry more than needed, for dysphoria safeguarding reasons
     - Ex. Chest measurements should be optional for transmascs who haven't had top surgery.
-    - Ex. Crotch measurements should be kept to a minimum.
+    - Ex. Crotch measurements should be optional where possible.
 
 ### Enabling passing safety, gnc-ity, as well as community-- *ahem* creativity beyond that
 These measurements should:

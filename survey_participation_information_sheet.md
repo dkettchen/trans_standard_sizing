@@ -41,7 +41,6 @@ You are invited to take part in this survey if you:
 - **are at least 18 years old**
 - **have been on HRT for at least the last 3 years** (as meat changes (muscle/fat redistribution & transfemme breast growth) take ca 3-5 years to finalise)
 - **have not had your first puberty fully replaced** (as that would prevent your bones from growing into the wrong hormones and causing these fit issues in the first place)
-- **have at least one arm and leg to measure** (as you won't be able to provide all the measurements otherwise)
 
 ### Clarifications:
 
@@ -56,12 +55,25 @@ You are invited to take part in this survey if you:
     - Anyone who's had surgery that changed other torso measurements (ex. transfemme butt augmentation)
 
 ## Do I have to take part?
-No, participation is voluntary and you can quit out of the survey at any point without submitting your responses.
+No. Participation is voluntary and you can quit out of the survey at any point without submitting your responses.
+
+This survey asks you to engage with your body more than usual, so if you struggle with this due to dysphoria, please take it easy. This project is supposed to help you, not hurt you. 
+
+You can leave out as many optional measurements as you need to. I have tried to make as many optional as possible.
+
+If even the minimum required survey questions and measurements will cause you more stress than they are worth you may not be in a place to take this survey and that is ok. Your wellbeing is more important and we can find other participants to create this data set. Consider sharing the survey instead if you still want to help the project out! :)
 
 ## What will I be asked to do?
-Fill out a survey, part of which will involve taking your measurements. You may want to **set some time aside for it and ask someone to help you with the measuring.** 
+**Fill out a survey**, part of which will involve **taking your measurements**. This should take around **20-45 minutes**.
 
-It will be helpful if you can stand for at least 4 of the measurements, but an alternative way for measuring those will be provided in case any respondants can't stand at all.
+You are invited to fill out as many of the measurements as possible, but **only 14 are "required"** for your respective case (see illustration below).
+
+**You should be able to measure all the required ones yourself**, but some of the optional ones are hard to reach, so you may want to ask someone to help you for those.
+
+It will be helpful if you can stand for a few of the required measurements, but an alternative way for measuring those will be provided in case any respondants can't stand at all.
+
+You will be asked to provide at least these 14 measurements:
+![image](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png)
 
 ## What information about me will you collect and why?
 <!-- explain what survey will ask about and reasons for each -->
@@ -87,7 +99,7 @@ The names any of the fit model volunteers provided will only be retained by me a
 ## How will you use my information?
 <!-- explain abt data processing? -->
 
-I will clean the data and use the collected measurements and context data to extract trans standard measurements for "regular" sizing as well as our "special" categories (ex. plus-size, extra tall, extra short/petit(e), etc).
+I will clean the data and use the collected measurements and context data to determine trans standard measurements for "regular" sizing as well as our "special" categories (ex. plus-size, extra tall, extra short/petit(e), etc).
 
 I will also do some statistical data analysis to draw basic insights from the responses. (ex. Just how common are these trans fit issues? ex. Does unusual height alleviate/aggravate certain fit issues? etc)
 
