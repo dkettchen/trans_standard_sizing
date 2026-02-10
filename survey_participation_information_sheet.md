@@ -47,6 +47,7 @@ You are invited to take part in this survey if you:
 - We are trying to capture the full range of relevant trans people's measurements can take, so even if you didn't quite fit standard sizes pre-transition or if you struggle less to fit them now, you are still invited to participate if you meet the criteria above.
 - I also particularly want to encourage plus-sized people to take part, as I hope to also extract trans plus-sizes from this data set!
 - This project is label agnostic. I don't care what you identify as or what pronouns you use, as long as you meet the above criteria, you can participate.
+- If you had your initial puberty partially blocked or replaced, as long as your proportions are different from what they would've been if you had been cis due to it, you can participate.
 - The following groups can participate but will be asked to mark this specific in the survey:
     - Anyone on low-dose/other non-standard HRT
     - Anyone who's been on HRT for 3+ years but changed their dose in the last 3 years
