@@ -8,10 +8,10 @@ This means anything that builds upon this project's data will not only need to g
 
 This data is openly published in order to enable peer review, further research and the like, so that research should also be openly shared.
 
-## Resulting trans standard measurements
+## Resulting trans standard measurements and drafting methods
 
-The final trans standard measurements themselves will be under a [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).
+The final sewing resources themselves will be under a [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).
 
-This means they will be able to be used and built upon without having to share the results this openly (ex. if they are used commercially, people may not want to share their patterns etc freely). They will only require attribution. 
+This means they can be used and built upon without having to share the results this openly (ex. if they are used commercially, people may not want to share their patterns etc for free if at all). They will only require attribution. 
 
 I want people to use them as much as possible, so I don't want anyone to be put off by unneeded restrictions.
