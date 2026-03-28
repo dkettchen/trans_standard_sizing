@@ -71,7 +71,7 @@ You are invited to fill out as many of the measurements as possible, but **only 
 
 **You should be able to measure all the required ones yourself**, but some of the optional ones are hard to reach, so you may want to ask someone to help you for those.
 
-It will be helpful if you can stand for a few of the required measurements, but an alternative way for measuring those will be provided in case any respondants can't stand at all.
+It will be helpful if you can stand for a few of the required measurements, but an alternative way for measuring those will be provided in case any respondents can't stand at all.
 
 You will be asked to provide at least these 14 measurements:
 ![image](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png)
@@ -79,7 +79,7 @@ You will be asked to provide at least these 14 measurements:
 ## What information about me will you collect and why?
 <!-- explain what survey will ask about and reasons for each -->
 
-- Your transition direction based on birth sex (transmasc/transfemme), as this project is label agnostic and that will be our only gender metric to group respondants by.
+- Your transition direction based on birth sex (transmasc/transfemme), as this project is label agnostic and that will be our only gender metric to group respondents by.
 - Generic info about your physical body, including age, medical transition state, and body type, as this will provide valuable context for your measurements and responses.
 - Your measurements. We will use everyone's measurements to determine trans standard sizes later.
 - Your relationship to standard sizing, pre-transition and now, including pre-transition sizes if known, how well they fit you, how that relationship has changed since, and common fit issues you experience now, if any. This will help us make sure our trans sizing ends up equivalent, and provide valuable insights and stats on trans people's relationship to (cis) standard sizing.

@@ -7,7 +7,7 @@ A lot of trans people struggle to find clothes that fit them off-the-rack, as me
 
 > Ex. Bones seal off after one's initial puberty, meaning even if you get HRT after that, they won't change anymore.
 
-Existing sewing resources also heavily rely on these cis standard measurements, meaning even custom making clothes for trans people requires extensive fitting and pattern manipulation beyond most hobbyists' abiltiies.
+Existing sewing resources also heavily rely on these cis standard measurements, meaning even custom making clothes for trans people requires extensive fitting and pattern manipulation beyond most hobbyists' abilities.
 
 However, most trans people did fit into their birth sex's sizes pre-transition, so trans proportions are no more inconsistent than cis ones. Current sewing resources and commercial sizing just weren't made for them!
 
@@ -40,7 +40,7 @@ In doing so, it also hopes to demonstrate and establish an evidence base that th
 - The average trans person's proportions differ notably from those of cis people of the opposite birth sex even post-transition, and they experience more fit issues because of this.
 - Post-transition measurements also differ from those of unmodified people of the same birth sex.
 - Existing pattern drafting methods that work for cis standard measurements do not work as intended when used on the average trans person's measurements.
-- On average, trans people struggle more than cis people to acquire appropriately fitting clothes that are required for their job.
+- On average, trans and gender diverse people struggle more than cis gender conforming people to acquire clothes of appropriate fit and gendering that are required for their job.
 
 Ideally the data produced by this project will also be useful to other fields where body measurements make a difference and the differences in trans people's measurements are currently not accounted for, like f.e. calculating chest volume in cardiovascular science.
 
@@ -79,76 +79,63 @@ In my day job I work as a data engineer at Metrolink, and am a degree apprentice
 
 ## What will the project entail?
 
-### Trans anthropometry data and standard measurements
-
-1) A survey asking relevant trans people to submit their measurements and answer some questions on their body and relation to standard sizing pre- and post-transition.
-    - This survey is currently live at this link: https://tinyurl.com/Trans-Standard-Sizing
-        - Any sharing is appreciated!
-    - At a minimum it collects 14 required measurements and context data.
-    - It will run as long as it needs to to get enough responses. 
-        - For now I intend to keep it up until at least the end of 2026.
-        - I would like a minimum of 50 responses per direction, but am hoping for more than that if possible.
-
-2) Processing and analysing that data to determine trans standard measurements and gain other insights.
-    - I will code custom software for this purpose, as I am a professional data engineer/analyst and have done data analysis projects of a similar scale before.
-
-3) Pattern testing the measurements to make sure they fit as well as commercial sizing does for cis people.
-    - This will rely on the trans drafting methods this project will develop and relevant fit models.
-
 ### Trans pattern drafting
 
-<!-- This aspect of the project will be my entry to MMU's [Making Great Community Incubator 2026](https://rise.mmu.ac.uk/activity/making-great-community-incubator-2026/) in hopes of securing some mentoring from the uni's fashion department (ideally someone specialised in pattern cutting) and funding for material cost to make sample garments. -->
+This aspect of the project intends to:
 
-It will include:
+1) Demonstrate that existing pattern drafting methods are inadequate for trans measurements, using custom code to replicate various methods so they can easily be visualised with different measurements.
 
-1) Demonstrating that existing drafting methods are inadequate for trans measurements.
+2) Develop measurement-based pattern drafting methods that will require minimal fitting and work for cis as well as trans proportions.
+    - A method to draft a transmasc suit (pants and a jacket), as appropriate suitwear is a core style of menswear and currently inaccessible to most transmascs.
+    - A method to draft a bodice and pant block pattern for transmascs and transfemmes, as these will enable drafting any other styles from there.
 
-2) Developing measurement-based drafting methods that work for both trans and cis proportions.
-    - should at least be able to draft a basic bodice and trouser block that are reasonably close to correct before further fitting.
-    - I also want to make a method for making transmasc suits, as men's sewing resources are fewer and less robust to begin with, yet suits are important in men's fashion and currently inaccessible to most transmascs.
+3) Produce sample garments using these drafting methods.
+    - To present the project at relevant events.
+    - Pictures of final garments, modelled on a fit model or trans-sized mannequin/dress form, will be included in the project data where possible.
 
-3) Producing sample garments using these drafting methods as a proof of concept.
-    - These will also be useful to present the project at relevant tech/lgbt+/fashion/industry events.
-    - Pictures of all final garments, ideally presented on a fit model or a trans-sized mannequin/dress form, will be included in the project data where possible.
+While we lack trans standard measurements, we will be using our fit models' measurements for drafting. For transmasc "regular" sizing, I will be our main fit model, as I am of average afab height and fit well into women's standard sizing pre-transition. For other transmasc categories and transfemme sizing, I will ask relevant friends and acquaintances to provide measurements and allow me to fit on them.
 
-#### Fit models
-While we wait for the survey data, we will need trans measurements to use for this aspect of the project. Ideally we would use post-transitional fit models of average trans proportions, but other trans people may be of use too.
+These drafting methods will be published for anyone to use.
 
-For transmasc "regular" sizing, I will use myself as the primary fit model, as I fit women's standard sizing very well pre-transition, suggesting I'm close to standard proportions, and I am of average afab height at 5'4". <!-- find a source for average height claim -->
+### Trans body measurements
 
-For other transmasc categories, like plus-size, and for transfemme sizing, I will ask relevant friends and acquaintances to provide their measurements and allow me to fit on them.
+A survey to gather post-transitional trans people's body measurements, as well as context data.
+    - The survey is currently live at this link: https://tinyurl.com/Trans-Standard-Sizing - Any sharing is appreciated.
+    - A copy of the participation information can be found [here](survey_participation_information_sheet.md).
+    - The survey at minimum collects [14 required measurements](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png) and data about the respondents' bodies and relationship to standard sizing. There are also a number of optional measurements. A copy of the full survey questionnaire can be found [here](survey_questionnaire.md).
+    - For now the survey will be live until the end of 2026, but it will run for as long as needed to get at least 50 responses for each direction.
+    - In summer 2026 I plan to table at pride events across the UK to measure people in person to get more respondents.
 
-### Trans PPE and work wear guidance
+The resulting anthropometry data set will be anonymised and open access published in relevant academic outlets/repositories to make it available to other researchers in fashion and any other fields it may be useful to.
 
-This aspect of the project will require the cooperation and support of Metrolink and other companies in the UK rail industry/transport sector.
+### Trans standard measurements
 
-It will include:
+1) Survey data will be processed, analysed and compared to existing anthropometry data sets to gain insights and determine trans standard measurements using custom code that will be created for this purpose.
 
-1) Documenting my own journey of getting custom-sized high-vis at my workplace, Metrolink.
+2) The resulting standard measurements will be tested using our drafting methods and fit models to assure they fit as well as cis standard measurements do for cis people.
 
-2) Developing a recommended process for sourcing PPE/work wear/uniforms for trans workers in collaboration with other UK transport industry companies and the trans workers there-in.
+3) The resulting insights will be written up in an appropriate format to be published as an article/paper on the subject. 
 
-3) Compiling a guidance resource detailing said process, providing information (including regulatory information where applicable) to pass along to the tailor, and giving recommendations for navigating things like transition timelines and gender non-conformity in relation to PPE and work wear, in line with the community's usual recommendations for gender diverse accessibility.
+4) The standard measurements will be published for anyone to use.
 
-4) If possible, running a small survey in the local rail/transport companies to generate data-based evidence that trans workers struggle more to acquire work-required clothes that are gender appropriate and fit well enough than their cis peers, in order to strengthen the business case for using the guidance we will produce.
+### Trans and gender diverse PPE and work wear guidance
 
-### Publishing the results
+This part of the project intends to:
 
-1) Publishing all our findings and results online for free for any member of the public to access and use.
-    - This project is first and foremost for the public good of our community, so its results should be freely accessible to them.
-    - This will enable people to share the project's resources and spread the word.
-    - It will also empower community pattern makers and trans-allied or -led brands to make truly trans-inclusive products.
-        - with better fit than they previously would've been able to without the data-driven foundation this project will provide.
+1) Develop a recommended process for sourcing trans-sized PPE/work wear/uniform garments for relevant trans workers.
 
-2) Open Access Publishing all the project's data to make it easily available to other researchers and students.
+2) Develop recommendations on navigating trans and gender diverse workers' needs, circumstances, and timelines when it comes to gendered fashion at work.
 
-3) Writing up the results in the appropriate format to publish them in relevant academic/industry/community outlets. 
-    - This will help get the project taken seriously by academia and relevant industries, as it should be useful to them too, not just individuals in the trans community and its allies.
-    - I want these to become the recommended methods for making and procuring trans-fitting clothes across fashion and other relevant industries like rail.
+3) Provide information for making trans-sized garments to pass along to a tailor or manufacturer. This should include regulatory information, trans-inclusive drafting methods, etc.
+    - While the guidance will largely focus on PPE/trade work wear, it should also include advice on formal wear as business casual is required for a lot of office jobs.
 
-4) Sharing the guidance and resources via relevant organisations and events.
-    - I hope to get our work wear guidance and possibly sewing resources added to various LGBT+ organisations' resource lists.
-    - I hope to table at pride events and industry conferences to present our findings and sample garments, and share the resources with the community and employers in person, not just online.
+4) Establish an evidence base to strengthen the business case for companies to use this guidance.
+
+5) Publish the resulting guidance in industry outlets and present it at industry events.
+
+6) Ask lgbt+ organisations to include this guidance on their resource lists, so that employers and trans workers can easily find it.
+
+This part of the project will require the collaboration of relevant stakeholders in the UK transport sector.
 
 ## Acknowledgements
 

@@ -11,6 +11,8 @@
     - [Of clothing items we want to be able to make](#of-clothing-items-we-want-to-be-able-to-make)
     - [Of demographic representation in our anthropometry data set](#of-demographic-representation-in-our-anthropometry-data-set)
     - [Of physical body types we record in our anthropometry data set](#of-physical-body-types-we-record-in-our-anthropometry-data-set)
+- [Other Methodology](#other-methodology)
+    - [Measuring](#measuring)
 - [Sources](#sources)
     - [Determining measurements to collect](#determining-measurements-to-collect)
     - [Other bibliography](#other-bibliography)
@@ -19,6 +21,8 @@
 **PPE** = Personal Protective Equipment, f.e. high vis, steel toed boots, gloves, eye protection, helmets, masks, etc
 
 **ANTHROPOMETRY** = "[The] study of human body measurements especially on a comparative basis" (Merriam-Webster Dictionary)
+
+**READY-MADE** = clothing (or sewing patterns) made to a range of standard sizes rather than custom measurements so it can be produced in advance
 
 **TRANS** = prefix that means "on opposite sides". People whose "true" gender does not align with their birth sex. For the purpose of this project: People who do not want to pass as their birth sex and, if able to, seek medical treatment to alter their sex characteristics accordingly <br>
 **CIS** = prefix that means "on the same side"; the opposite of trans. People whose "true" gender aligns with their birth sex. For the purpose of this project: People who are content to physically pass as their birth sex and do not seek medical treatment to alter it
@@ -52,11 +56,13 @@ Note: Not all trans people are motivated by *dys*phoria, some are motivated by *
 **GENDER AFFIRMING (HEALTHCARE)** = Any medical treatment meant to affirm one's gender. Largely used in trans healthcare contexts, but can also refer to gender affirming healthcare for intersex and cis people. 
 Note: Gender affirming treatment must have the informed consent of the people undergoing it. F.e. correctional surgery on intersex infants is mutilation, not gender affirming treatment.
 
-**HRT** = hormone replacement therapy. In this context, specifically cross-sex hormone therapy.
+**HRT** = hormone replacement therapy. In this context, specifically cross-sex hormone therapy. <br>
+**T** = (slang) short for testosterone<br>
+**E** = (slang) short for estrogen
 
 **TOP SURGERY** = double mastectomy (surgery to remove the vast majority of/all breast tissue) via double incision or keyhole/periareolar method - Most common surgery transmascs get. Also sometimes used on cis guys with gynecomastia.
-- DOUBLE INCISION = for average to bigger boobs, two horizontal cuts to remove excess skin. Nipples can either be grafted and repositioned or fully left out (some people get them tattooed on afterwards). Leaves two big horizontal scars under the pectoral area
-- KEYHOLE/PERIAREOLAR = for very small boobs, reduces the skin via an incision around the nipple, leaving no significant visible scarring
+- DOUBLE INCISION = for average to bigger breasts, two horizontal cuts to remove excess skin. Nipples can either be grafted and repositioned or fully left out (some people get them tattooed on afterwards). Leaves two big horizontal scars under the pectoral area
+- KEYHOLE/PERIAREOLAR = for very small breasts, reduces the skin via an incision around the nipple, leaving no significant visible scarring
 
 ![](questionnaire_images/transmasc_measurements/transmasc_scars.png)
 
@@ -67,10 +73,9 @@ Note: Gender affirming treatment must have the informed consent of the people un
 
 **BOTTOM SURGERY** = gender reassignment surgery, can include any trans surgery on the relevant genitals/reproductive system (ex. phalloplasty, metoidioplasty, hysterectomy, vaginaplasty, labiaplasty, orchiectomy, etc)
 
-**BINDING** = to flatten, compress, and shape boobs to look more like pecs using a "binder" (a garment with a front panel of more rigid fabric), a compressing sports bra (only works for smaller breasts), or sometimes binding tape <br>
+**BINDING** = to flatten, compress, and shape breasts to look more like pecs using a "binder" (a garment with a front panel of more rigid fabric), a compressing sports bra (only works for smaller breasts), or sometimes binding tape <br>
 **PACKING** = to simulate junk volume via a "packer", which can be anything from some socks to a full fake penis <br>
 **TUCKING** = to tuck away junk to get rid of crotch volume, sometimes achieved using tucking tape or special underwear
-
 
 # Guiding principles
 
@@ -84,24 +89,26 @@ This is just here to give context to the methodology choices made, as, unlike wh
     - Human sex is diverse and not "binary", but it is bilateral.
         - Even in intersex people there is no functioning third or dual reproductive system nor sex hormones other than those shared with non-intersex people. We are mammals, not hermaphroditic snails or asexually reproducing bacteria.
     - Adult human bodies are not gender neutral.
-        - The lack of certain sex characteristics is just as gender-connoted as their presence.
-        - The gendered connotations of anatomy include anything caused or influenced by hormones, even things that have overlap between the sexes.
+        - Human sex characteristics extend beyond just reproductive function.
+        - The lack of certain sex characteristics (ex. breasts) is just as gender-connoted as their presence.
+        - The gendered connotations of anatomy include anything caused or influenced by hormones, even things that have overlap between the sexes (ex. height).
     - Everyone has preferences about the various aspects of their gender.
     - Androgyny is not one singular thing or perfectly balanced. Even if you prefer androgyny, you still have a preference for certain types of androgyny over others.
     - Male and female gender are not monoliths or "binary", physically or socially. Insisting otherwise does not acknowledge or help queer, gnc, and sex variant men and women, nor gender liberation at large.
     - Passing, however, works like scales, where the "angle" is what one passes as and the "weights" are gendered attributes.
         - The acuteness of the angle doesn't matter only the direction it is tilted in. The only way not to pass as one thing is to tilt it the other way.
         - To change the angle you have to move the weights around. You are limited in which weights you can move and how easily.
+        - No singular weight can determine the angle by itself. With enough counter-weight any one thing can (theoretically) be out-balanced. 
 
 2) Essential gender is about passing preference exclusively
     - One's "true gender" (in an essential sense) is determined by the range of "angles"/bodytypes one would be content to pass as.
-    - This preferred apparent sex is not voided by other aspects, like other intersectional identities (gender role related or otherwise), even if they can cause alienation from normative gender roles, nor does it void those other aspects.
+    - This preferred apparent sex is not voided by other aspects, like other labels or intersectional identities (gender role related or otherwise), even if they can cause alienation from normative gender roles, nor does it void those other aspects.
     - In mentally healthy and the vast majority of mentally ill people their preferred apparent sex never changes.
 
 3) Being trans is about preferring the opposite apparent sex over one's birth sex
     - Transgenderism is a primarily medical condition defined by having a preference against one's native sex (as a negative preference is still a preference) and/or towards the opposite one.
     - Whether or not trans people get medical treatment about it (and how much) is largely determined by their circumstances, and does not make them "more" or "less trans" than other trans people.
-        - Gender census (2024) data seems to indicate that, even among the people who put themselves outside of conventional gender role boxes, those who use trans labels are highly consistent in their preference against their birth sex and towards the opposite one, with [over 2/3rds of identifiably transmasc respondants using male-aligned pronoun sets](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/pronouns_by_label_pronoun_alignments_transmasc.png), and [over 3/4ths of identifiably transfemme respondants using female-aligned pronoun sets](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/pronouns_by_label_pronoun_alignments_transfemme.png), and the rest of each group *near-unanimously* preferring unaligned pronoun sets over birth sex aligned ones.
+        - Gender census (2024) data seems to indicate that, even among the people who put themselves outside of conventional gender role boxes, those who use trans labels are highly consistent in their preference against their birth sex and towards the opposite one, with [over 2/3rds of identifiably transmasc respondents using male-aligned pronoun sets](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/pronouns_by_label_pronoun_alignments_transmasc.png), and [over 3/4ths of identifiably transfemme respondents using female-aligned pronoun sets](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/pronouns_by_label_pronoun_alignments_transfemme.png), and the rest of each group *near-unanimously* preferring unaligned pronoun sets over birth sex aligned ones.
 
 4) Someone's gender can only objectively be the case if essentialism and performativism agree on its categorisation
     - In cases where lived experience does not align with preferred apparent sex, there is no *objective* singular gender to categorise the person as in that moment.
@@ -143,12 +150,12 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
 
 2) Unisex is a lie
     - In the vast majority of contexts, unisex means "works for both cis men and cis women", not that it is gender diverse inclusive/friendly or gender neutral.
-    - In fashion it tends to rely on the person's underlying body to provide the appropriate gendered shape language which is the opposite effect of what trans people with misgendering worries are looking for.
+    - In fashion it often relies on the person's underlying body and/or gendered styling to provide the appropriate gendered shape language which is the opposite effect of what trans people with misgendering worries need.
 
 ### Priorities:
 1) Anthropometry survey context data should
-    - give a picture of the respondants' body type category and shapes to facilitate grouping them
-    - give an idea of respondants' proportion compared to (cis) standard sizing
+    - give a picture of the respondents' body type category and shapes to facilitate grouping them
+    - give an idea of respondents' proportion compared to (cis) standard sizing
     - not pry more than needed for data protection, safeguarding and privacy reasons
 
 2) Trans standard sized garments should:
@@ -169,7 +176,7 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
 ## Sewing resources
 
 1) Accessible patterning
-    - Should require least amount of effort and expertise to acquire a base pattern made to trans proportions.
+    - Should require minimal effort and expertise to acquire a base pattern made to trans proportions.
     - Should be home sewist friendly.
     - Should save pros (industry or indie) time and effort.
 
@@ -179,6 +186,7 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
 
 3) Socio-economically accessible
     - The trans community isn't swimming in money, due to troubles with employment, healthcare, and safe housing (among other things).
+        - In 2022, over a third (34%) of trans people in the US were experiencing poverty, which is nearly 3 times as much as the country's general population at the time (11.5%), and 18% were unemployed, which is nearly *6 times* as much as the general popuation (3.65%). (US Transgender Survey, 2022)
     - All sewing resources made by this project will be free to access and use.
     - They should be low-budget friendly and require minimal tools, material specificity, and prior training.
     - Users will be allowed to use them for commercial purposes to empower the community to profit off this knowledge beyond their own closets.
@@ -205,7 +213,7 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
 
 This means it excludes:
 - any fit issues caused by lack or voluntary refusal of treatment
-    - ex. related to pre-/non-op genitals, transmasc boobs, etc
+    - ex. related to pre-/non-op genitals, transmasc breasts, etc
 - anything that is still available from one's birth sex aisle or can be purchased independantly of gendered aisle
     - ex. underwear for unmodified genitals not intended to reshape them
     - ex. accessories, head-, hand- and footwear
@@ -256,11 +264,15 @@ We are tracking transition direction, and aim to get a minimum of 50 responses f
 ### This project is about post-transitional trans bodies. 
 It excludes unmodified bodies as those are covered by existing anthropometry data sets.
 
-Working with post-transitional bodies means:
+Working with (a specific subset of) post-transitional bodies means:
 
 - being aware of what those body types entail
-    - ex. anyone who has been on E for 3+ years has grown some amount of breast tissue.
-    - ex. anyone who has had double incision top surgery will have big horizontal chest scars.
+    - ex. anyone who has been on E for 3+ years has grown breasts
+    - ex. anyone who has had double incision top surgery will have big horizontal chest scars
+
+- not having to worry about certain things
+    - ex. to physically reproduce, transmascs would have to go off T, which would auto-disqualify them from our survey, so we don't need to worry about waist measurements being impacted by that
+    - ex. any controversy around categorisation as trans or not and questions around passing goals that may exist within certain labels are eliminated by only including people who have been and remain on cross-sex HRT for several years
 
 - being mindful of dysphoria
     - ex. any measurements that may trigger dysphoria and are not required for comparing proportions should be optional
@@ -282,9 +294,16 @@ Its scope excludes:
         - Some intersex people also straight up don't know that they are intersex in the first place.
     - We're not excluding people based on being intersex, nor tracking whether they are, due to this wide range of experiences where some qualify and some don't.
     - Even if intersex people participate and answer any of our info questions in a way that doesn't align with our assumptions (ex. have you had surgery to remove your gamedes? no -> does that mean you still have them or were you born without them?), there should be few enough of them that it won't scew the overall sample.
-        - ex. In the biggest-to-date year for the Gender Census (2024), [only about 200 out of the 48,000 respondants wrote in that they were intersex](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/write_in_intersections.png). Meanwhile [over half identified themselves as trans](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/label_tickbox_trans_cis_pie.png).
-- Anything more intricate, less standardised, and/or less easy to determine for the average respondant
+        - Ex. In the biggest-to-date year for the Gender Census (2024), [only about 200 out of the 48,000 respondents wrote in that they were intersex](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/write_in_intersections.png). Meanwhile [over half identified themselves as trans](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/label_tickbox_trans_cis_pie.png). In the US Transgender Survey 2022, only 5% of respondents reported being born intersex or with a physical sex variance.
+- Anything more intricate, less standardised, and/or less easy to determine for the average respondent
     - ex. Body shape categories named after fruit and whatnot. 🍎🍐⏳
+
+# Other Methodology
+
+## Measuring
+Measuring instructions and visual guidance are provided with the [survey questions](survey_questionnaire.md).
+
+No ease is built into these measurements, as we are trying to assess people's actual bodies. The only measurements with tension instructions are transfemme bra measurements, following the instructions from [ABraThatFits](https://www.abrathatfits.org/calculator.php).
 
 # Sources
 
