@@ -495,36 +495,12 @@ Clothing in this aspect is: (select any aspects that apply)
 ### Suggestions 3
 (optional)
 
-
-### **Fit models**
-
-***(If you don't know me in person, please skip this page)***
-
-I will need some people to pattern test on once we have these trans standard measurements, as well as people to model sample garments at events and photoshoots down the line. 
-
-If you know me in person, are based in the UK, and would potentially be up for volunteering as one of said fit models, please put your first name in the field below. This is so we can reidentify your measurements later so we won't have to retake them to figure out your size.
-
-- ***This will not be part of the final published data set, this is just for my own reference.***
-- "Knowing me in person" includes people I was in online support groups with during the pandemic even if they haven't met me "in person", and any acquaintances from my current in person meetup groups here in Manchester, even if they don't know me super well.
-- Putting your name here doesn't guarantee or obligate you to be a fit model (I will only need a handful of people at the end of the day, and you can change your mind at any point)
-
-I would be particularly interested in:
-
-- anyone based in Greater Manchester/the North West for pattern testing to make meeting up easier
-- anyone of our "special" size categories for pattern testing, regardless of location, as I want to make sure I get those right and can't fit them on myself
-- a diverse/representative range of looks beyond just fit (PoC, 40+, etc), regardless of location, for modelling final samples, as the community at large should be represented in the models that will actually be seen by people in the end
-- people whose job requires work wear (ex. high vis, scrubs, etc) as I want to try and commission some samples from a manufacturer to illustrate industry use of the measurements, and it would be cool to have the people actually in those jobs model those samples (and hopefully even get use out of them at work after showing them off, maybe we could even pitch to their employer to fund those samples to that end)
-
-If we have not been in touch for a while, feel free to message me on insta, discord, or similar (@dkettchen) or email me at dkettchen@gmail.com, notably if you would fit the pattern testing criteria above.
-
-### **If you are interested in helping out as a fit model, please enter ONLY your first name here:**
-*(you must know me in person and be based in the UK)*
-
 ## Finding, following & sharing the project
 
 **How did you find the survey?**
 - Through someone I know / Word of mouth (incl. messaging and email)
 - Saw a flyer
+- In person event
 - Charity email / newsletter
 - Tumblr
 - Reddit

@@ -30,7 +30,9 @@ Questionnaire images, flyers, photos taken, and any illustrations for the drafti
 For methodology, please see our [methodology](methodology.md) document.
 
 ## Is the data sensitive? How will this be managed?
-Any sensitive data, like age or medical information, will be collected as generically as possible and anonymised where not already anonymous before publishing. 
+Any sensitive data, like age or medical information, will be collected as generically as possible.
+
+All responses will be fully anonymous.
 
 No participant will be individually identifyable based on their published responses. 
 
@@ -39,9 +41,7 @@ Participants will be asked to confirm their informed consent to participate befo
 ## Where will the data be stored?
 The active survey is hosted on google forms.
 
-After the survey concludes, I will anonymise the response data and back it up to [a repository on github](https://github.com/dkettchen/trans_standard_sizing), where all other project data (ie code etc) will also be stored. 
-
-A copy of the non-anonymous parts like first names of fit models will be held on my computer and deleted after fulfilling their purpose or a relevant amount of time. 
+After the survey concludes, the responses will be backed up to [a repository on github](https://github.com/dkettchen/trans_standard_sizing), where all other project data (ie code etc) will also be stored. 
 
 The final data will be publicly available on [github](https://github.com/dkettchen/trans_standard_sizing) indefinitely. The published survey data and results will likely also be available on relevant other repository sites.
 
