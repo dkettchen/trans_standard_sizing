@@ -52,7 +52,7 @@ I have enthousiastic, informal support from various people at uni, work, and in 
 
 To some extent, but mostly no!
 
-This project was my entry to MMU's Making Great Community Incubator 2026, which offers mentoring and seed funding I intend to use for the parts of the project I will work on this summer (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
+This project was my successful entry to MMU's Making Great Community Incubator 2026, which has awarded me a few months of mentoring and £1000 in seed funding I intend to use for the parts of the project I will work on this summer (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
 
 The project doesn't need a huge budget, and I have a full-time tech job, so I am able to cover my own living expenses and any costs arising from the project (ex. sewing material costs, etc) without issue, unlike a PhD student or staff researcher who would rely on research funding alone for their income and budget.
 
