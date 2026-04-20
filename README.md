@@ -27,6 +27,10 @@ And if one could draft ready-made patterns for trans people, suppliers could eve
 
 These clothes should not only fit in the sense of accomodating shapes but also provide support with gendering, dignity, and, where applicable, safety.
 
+**The sewing resources created aim to:**
+- **re-enable ready-made pattern and garment options for anyone who fit commercially available sizing before transition**
+- **at least provide custom drafting methods to anyone else that will work for their measurements**
+
 The project aims to create:
 - an anthropometry data set of relevant body measurements of post-transitional trans adults
 - data-derived standard measurements and/or a grading chart that match trans proportions to be used in pattern drafting
@@ -51,7 +55,7 @@ The scope of the project and its various parts is laid out in more detail in our
 This project is **trans-led** and done with the express goal of improving trans people's quality of life.
 All its **results** will be open access **published for free** for anyone to use. More information can be found in our [licensing document](license.md).
 
-Currently we are not funded or institutionally/industrially backed, but I am working on that.
+For any other questions, please check our [FAQ](faq.md) first.
 
 ## Who is running this project?
 <!-- about me -->
