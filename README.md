@@ -1,11 +1,11 @@
 ## The Trans Standard Sizing Project
 <!-- project description -->
 
-Fashion industry uses a set of standard measurements to draft and "grade" their sewing patterns for different sizes. This way most people are able to go to a store and find clothes that roughly fit them. These measurements were made based on prior anthropometry studies measuring the general population, which means they are made with cis people's proportions in mind.
+Fashion industry uses a set of standard measurements to draft and "grade" their sewing patterns for different sizes. This way most people are able to go to a store and find clothes that roughly fit them. These measurements were made based on prior anthropometry studies collecting the general population's body measurements, which means they are made with cis people's proportions in mind.
 
 A lot of trans people struggle to find clothes that fit them off-the-rack, as medical transition has its limitations and trans proportions differ from those of cis people of the opposite birth sex. 
 
-> Ex. Bones seal off after one's initial puberty, meaning even if you get HRT after that, they won't change anymore.
+> Ex. Bones seal off after one's initial puberty, meaning even if you get HRT after that, things like your height or hip and shoulder width won't change anymore.
 
 Existing sewing resources also heavily rely on these cis standard measurements, meaning even custom making clothes for trans people requires extensive fitting and pattern manipulation beyond most hobbyists' abilities.
 
@@ -13,11 +13,11 @@ However, most trans people did fit into their birth sex's sizes pre-transition, 
 
 If there were standard measurements and drafting methods that work for trans proportions, one could make sewing patterns (custom or ready-made) and create clothes that fit trans people as well as what cis people can expect from store-bought clothes.
 
-> Ex. If I develop a drafting method and/or ready-made pattern for a transmasc suit, any transmasc with sewing skills (or access to someone else's sewing skills) could make a suit that fits them as well as what cis men can buy at the store.
+> Ex. Getting a suit made-to-measure by a professional tailor is incredibly expensive, but if we had a drafting method and/or ready-made pattern for a transmasc suit, any transmasc with sewing skills (or access to someone else's sewing skills) could make a suit that fits them as well as what cis men can buy at the store for essentially just material costs.
 
 This will not only be useful to trans people and their loved ones making them clothes at home, but also to anyone in fashion industry/clothing manufacturing who has trans clients.
 
-> Ex. I need high-vis at work, but don't fit standard issue. Ill-fitting PPE is not regulation, so we need to get it custom made for me. Our supplier has meanwhile *LITERALLY GIVEN UP* as they can't provide the level of custom drafting required, so we will need to use a professional tailor instead.
+> Ex. I need high-vis at work, but don't fit standard issue. Ill-fitting PPE is not regulation, so we need to get it custom made for me. Our supplier has meanwhile *LITERALLY GIVEN UP* as they can't provide the level of custom drafting/in person fitting required, so we will need to use a professional tailor instead.
 If there was guidance for how to source custom PPE based on our precedent, other companies would have an easier time with it in future.
 And if one could draft ready-made patterns for trans people, suppliers could even just have trans "standard issue" patterns on file for cases like this.
 
@@ -48,6 +48,8 @@ In doing so, it also hopes to demonstrate and establish an evidence base that th
 
 Ideally the data produced by this project will also be useful to other fields where body measurements make a difference and the differences in trans people's measurements are currently not accounted for, like f.e. calculating chest volume in cardiovascular science.
 
+Additionally, I also hope that the work wear guidance on customising fit for things like PPE (while remaining compliant with regulations) will also be transferrable to other workers with custom fit needs, like anyone of unusual height or people with certain disabilities f.e., as this is ultimately not a problem exclusive to trans workers.
+
 ### Additional information
 
 The scope of the project and its various parts is laid out in more detail in our [methodology document](methodology.md).
@@ -55,7 +57,7 @@ The scope of the project and its various parts is laid out in more detail in our
 This project is **trans-led** and done with the express goal of improving trans people's quality of life.
 All its **results** will be open access **published for free** for anyone to use. More information can be found in our [licensing document](license.md).
 
-For any other questions, please check our [FAQ](faq.md) first.
+For any other questions, please check our [FAQ](faq.md).
 
 ## Who is running this project?
 <!-- about me -->
@@ -87,9 +89,9 @@ In my day job I work as a data engineer at Metrolink, and am a degree apprentice
 
 This aspect of the project intends to:
 
-1) Demonstrate that existing pattern drafting methods are inadequate for trans measurements, using custom code to replicate various methods so they can easily be visualised with different measurements.
+1) Demonstrate that existing pattern drafting methods are inadequate for trans measurements.
 
-2) Develop measurement-based pattern drafting methods that will require minimal fitting and work for cis as well as trans proportions.
+2) Develop measurement-based pattern drafting methods that will require minimal fitting and pattern manipulation for cis as well as trans proportions.
     - A method to draft a transmasc suit (pants and a jacket), as appropriate suitwear is a core style of menswear and currently inaccessible to most transmascs.
     - A method to draft a bodice and pant block pattern for transmascs and transfemmes, as these will enable drafting any other styles from there.
 
@@ -104,13 +106,13 @@ These drafting methods will be published for anyone to use.
 ### Trans body measurements
 
 A survey to gather post-transitional trans people's body measurements, as well as context data.
-    - The survey is currently live at this link: https://tinyurl.com/Trans-Standard-Sizing - Any sharing is appreciated.
-    - A copy of the participation information can be found [here](survey_participation_information_sheet.md).
-    - The survey at minimum collects [14 required measurements](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png) and data about the respondents' bodies and relationship to standard sizing. There are also a number of optional measurements. A copy of the full survey questionnaire can be found [here](survey_questionnaire.md).
-    - For now the survey will be live until the end of 2026, but it will run for as long as needed to get at least 50 responses for each direction.
-    - In summer 2026 I plan to table at pride events across the UK to measure people in person to get more respondents.
+- The survey is currently live at this link: https://tinyurl.com/Trans-Standard-Sizing - Any sharing is appreciated.
+- A copy of the participation information can be found [here](survey_participation_information_sheet.md).
+- The survey at minimum collects [14 required measurements](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png) and data about the respondents' bodies and relationship to standard sizing. There are also a number of optional measurements. A copy of the full survey questionnaire can be found [here](survey_questionnaire.md).
+- For now the survey will be live until the end of 2026, but it will run for as long as needed to get at least 50 responses for each direction.
+- In summer 2026 I plan to attend pride events across the UK to measure people in person and/or spread the word to get more respondents. A list of the events can be found [here](pride_events_2026.md).
 
-The resulting anthropometry data set will be anonymised and open access published in relevant academic outlets/repositories to make it available to other researchers in fashion and any other fields it may be useful to.
+The resulting fully anonymous anthropometry data set will be open access published in relevant academic outlets/repositories to make it available to other researchers in fashion and any other fields it may be useful to.
 
 ### Trans standard measurements
 
@@ -132,6 +134,7 @@ This part of the project intends to:
 
 3) Provide information for making trans-sized garments to pass along to a tailor or manufacturer. This should include regulatory information, trans-inclusive drafting methods, etc.
     - While the guidance will largely focus on PPE/trade work wear, it should also include advice on formal wear as business casual is required for a lot of office jobs.
+    - The guidance on how to navigate customisation while adhering to PPE regulations should also be applicable to non-trans workers in need of a custom fit for their PPE, as this is not a problem exclusive to trans workers, and everyone deserves (and is required by the regulations to have) well-fitting work wear.
 
 4) Establish an evidence base to strengthen the business case for companies to use this guidance.
 
@@ -141,9 +144,11 @@ This part of the project intends to:
 
 This part of the project will require the collaboration of relevant stakeholders in the UK transport sector.
 
+
 ## Acknowledgements
 
 Special thanks to ~ for ~ :
+- MMU's Rise "Making Great Community" Incubator 2026 - awarding this project seed funding and mentoring
 - The MMU Library's Open Access Research Team - providing resources and workshops on research data management and Open Access research publishing that all students can access
 - TransMasculine Advice & Support (TMSA) UK's private facebook groups and anyone who contributes to their top surgery albums - providing a good overview of the different scar shapes people get from double incision and insight into what keyhole/perioareolar results look like -> informing my illustrations and requested scar measurements in the survey
 - Grid Horsley (they/them) - survey proof-reading and explaining peer review to me
