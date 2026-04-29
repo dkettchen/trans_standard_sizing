@@ -23,32 +23,17 @@ And if one could draft ready-made patterns for trans people, suppliers could eve
 
 ### Goal of the project
 
-**The goal of this project is to enable easier access to well-fitting clothes for trans people who struggle to find clothes off-the-rack post-transition more so than they did pre-transition.**
+The goal of this project is to make it easier to size clothing for trans people who struggle to find gender-appropriate clothes off-the-rack.
 
-These clothes should not only fit in the sense of accomodating shapes but also provide support with gendering, dignity, and, where applicable, safety.
+It will primarily involve:
+- creating amateur-friendly, measurement-based pattern drafting methods that work for any proportions and require minimal pattern adjustment after drafting to fit as well as what other people can expect from store-bought clothes
+- providing an evidence base of post-transitional trans adults' body measurements, and data-informed trans standard measurements to use for pattern drafting ready-made trans sizing
+- guidance on making, adjusting, and otherwise navigating clothes for trans people, notably in a work wear setting (ex. uniforms, business wear, PPE), and on adjusting the fit of high-vis while remaining compliant with UK regulations
 
-**The sewing resources created aim to:**
-- **re-enable ready-made pattern and garment options for anyone who fit commercially available sizing before transition**
-- **at least provide custom drafting methods to anyone else that will work for their measurements**
-
-The project aims to create:
-- an anthropometry data set of relevant body measurements of post-transitional trans adults
-- data-derived standard measurements and/or a grading chart that match trans proportions to be used in pattern drafting
-- pattern drafting methods that work for trans measurements, and general guidance on pattern drafting for trans people (both in terms of fit and safeguarding)
-- guidance aimed at employers on how to source custom-sized regulation-compliant PPE garments (ex. high vis) and other work wear/uniforms for trans workers
-
-in an effort to fill and bridge current gaps in available anthropometry data, sewing resources, and industry suppliers' offerings between what is available for cis and trans people.
-
-In doing so, it also hopes to demonstrate and establish an evidence base that these gaps currently exist, beyond informal community wisdom and individual cases. Key points to demonstrate and evidence are:
-- Existing anthropometry studies/data sets do not cover, identify, and contextualise trans measurements adequately if at all.
-- The average trans person's proportions differ notably from those of cis people of the opposite birth sex even post-transition, and they experience more fit issues because of this.
-- Post-transition measurements also differ from those of unmodified people of the same birth sex.
-- Existing pattern drafting methods that work for cis standard measurements do not work as intended when used on the average trans person's measurements.
-- On average, trans and gender diverse people struggle more than cis gender conforming people to acquire clothes of appropriate fit and gendering that are required for their job.
-
-Ideally the data produced by this project will also be useful to other fields where body measurements make a difference and the differences in trans people's measurements are currently not accounted for, like f.e. calculating chest volume in cardiovascular science.
-
-Additionally, I also hope that the work wear guidance on customising fit for things like PPE (while remaining compliant with regulations) will also be transferrable to other workers with custom fit needs, like anyone of unusual height or people with certain disabilities f.e., as this is ultimately not a problem exclusive to trans workers.
+Ideally the results of this project will also be useful to:
+- create trans sized garments in textile crafts other than sewing/tailoring (f.e. knit wear)
+- other fields where body measurements make a difference and trans people's measurements are currently not accounted for (f.e. calculating chest volume in cardiovascular science)
+- cis people with custom fit needs (f.e. anyone of unusual height, plus sized, and/or with certain disabilities)
 
 ### Additional information
 
