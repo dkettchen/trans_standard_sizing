@@ -1,36 +1,32 @@
 # Participation Information Sheet
 
-## The Trans Standard Sizing Project
+## Trans Body Measurements
 <!-- project description / abstract -->
 
-A lot of trans people struggle to find clothes off-the-rack that fit them, because the standard measurements fashion industry uses are made to cis people's proportions.
+A lot of trans people struggle to find properly fitting clothes off-the-rack. Even existing sewing resources rely heavily on cis proportions hence don't work for most of us, and getting one's entire wardrobe professionally tailored is simply not accessible to a lot of people in a community nearly 3 times as likely to experience poverty and nearly 6 times as likely to be unemployed as the general population (US Transgender Survey, 2022).
 
-If we had standard measurements for trans people, we could draft multi-size sewing patterns to make garments that will fit the average trans person as well as what cis people can buy at the store.
+This project aims to make it easier to make clothes for trans people by producing free, accessible sewing resources and guidance.
 
-This would not only be useful to trans people and their loved ones making clothes at home, but also to anyone in fashion industry/clothing manufacturing with trans clients.
+These will include pattern drafting methods that work for both cis and trans proportions with minimal fitting required, trans standard measurements to enable making patterns and garments in multiple sizes, and guidance on procuring/adjusting work wear for trans workers.
 
-The goal of this project is to produce standard sizing for trans people who struggle post-transition to find clothes off-the-rack that will fit them as well as clothes from their birth sex's aisle did pre-transition.
+For this purpose, we are collecting the body measurements of trans people who have been on HRT for at least 3 years and some context data about their bodies and relationship to cis standard sizing.
 
-Trans-sized garments should cater to trans people's typical physical end-state and give the wearer their best shot at not being misgendered as their birth sex.
-
-As most trans fit issues are caused by bones as shaped by first puberty, not just hormone replacement therapy (HRT) and surgery, these garments should also fit better than cis-sized options on people pre-/early-transition, people on lower-dose HRT, and relevant crossdressing cis people (ex. crossplayers).
-
-This survey will form the base data set to determine these trans standard measurements.
+This data set will not only give insight into trans proportions, and allow us to extract standard measurements that will fit the average trans person as well as cis sizing fit them pre-transition, but also provide an invaluable data set about post-transitional trans bodies to other research and data analysis.
 
 ## Who is running this project?
 <!-- about me -->
 
-Hi! My name is Ren Zoller (@dkettchen). I’m a gender non-conforming trans man in my late 20s based in Manchester, UK.
+This project is trans-led and run by Ren Zoller (@dkettchen), a gender non-conforming trans man based in Manchester, UK. 
 
 After being a femme-presenting nonbinary for a decade, I finally became able to successfully pass as male in 2024 (5+ years into medical transition), and had to seriously engage with men's fashion for the first time in my life.
 
 Having had no problems buying clothes I wanted off-the-rack most of my life, switching to men's fashion exclusively has been a very frustrating (albeit worthwhile due to no more misgendering) process.
 
-Men's fashion follows different rules and shape language than women's, including a completely different waistline, so most of my previous garments are useless to it. I don’t fit standard men’s sizes, so I can’t just go to the store and buy new items that fit me. And even when sewing my own clothes, most sewing resources only cover women's fashion.
+Men's fashion follows different rules and shape language than women's, including a completely different waistline, so most of my previous garments are useless to it. I don't fit standard men's sizes, so I can't just go to the store and buy new items that fit me. And even when sewing my own clothes, most sewing resources only cover women's fashion or aren't robust enough to draft from my measurements.
 
 I know I am not the only trans person with this problem, so I want to make fashion more accessible and fun for us again with this project and beyond.
 
-In my day job I am a data engineer at Metrolink, and a degree apprentice in data analysis at Manchester Metropolitan University.
+I have a background in art and lgbt+ community work, including running trans support groups for 3 years. In my day job I am a data engineer at Metrolink, and a degree apprentice in data analysis at Manchester Metropolitan University.
 
 ## Who is invited to participate?
 <!-- participant requirements -->
