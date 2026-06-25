@@ -36,13 +36,20 @@ Check out our [vocab section](methodology.md/#vocab)!
 ### What pride events will you be at?
 Check out the up-to-date list [here](pride_events_2026.md).
 
+### Where are the clothes???
+There are no clothes yet. This is a research project. We aim to create data, sewing resources, and guidance.
+
+Once those are done, you are welcome to use them to make your own clothes, make patterns or clothes to sell to others, or get your employer to provide appropriately fitting work-required clothing (ex. PPE, uniforms, etc). 
+
+All our resources will be published for free [under a Creative Commons license](license.md).
+
 ## Academia
 
 ### Are you funded?
 
 To some extent, but mostly no!
 
-The project was awarded £1000 in seed funding by MMU's Making Great Community Incubator 2026, which I intend to use for the parts of the project I will work on in summer 2026 (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
+The project was awarded £1000 in seed funding by MMU's Making Great Community Incubator 2026, which I intend to use for the parts of the project I am working on in summer 2026 (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
 
 The project doesn't need a huge budget, and I have a full-time tech job, so I am able to cover my own living expenses and any costs arising from the project (ex. sewing material costs, etc) without issue, unlike a PhD student or staff researcher who would rely on research funding alone for their income and budget.
 
@@ -54,7 +61,7 @@ No, this is an independant project. I initially tried to get it uni-backed, but 
 
 I intend to make use of our independant status and lack of deadlines to take as much time as the project needs to assure the best results.
 
-I have enthousiastic, informal support from various people at uni, work, and in the community, just no formal institutional research affiliation.
+I have enthousiastic, informal support from various people at uni, work, my trade union, other researchers, and in the community, just no formal institutional research affiliation at the moment.
 
 ### Do you have ethical approval?
 
@@ -62,9 +69,7 @@ According to online guidance (UCL, 2025; IVSA, 2026), minimal risk research acti
 
 Ethical due diligence <!--(Nclusiv, 2025; Kara, 2020)--> has been done regardless and I follow the Social Research Association's [Research Ethics guidelines](https://the-sra.org.uk/common/Uploaded%20files/Resources/SRA%20Research%20Ethics%20guidance%202021.pdf) (2021) as well as best practice in both data and trans community work. 
 
-Gathering fully anonymous data with informed consent via an online survey, analysing the data once published, and pattern testing on consenting fit models should all firmly qualify as minimal risk activities.
-
-Any potential risks to participants, the researcher, and his helpers are low and have been mitigated appropriately.
+All parts of this project should firmly qualify as minimal risk activities. Any potential risks to participants, the researcher, and his helpers are low and have been mitigated appropriately.
 
 - University College London (2025) *Do I need ethics approval?*. Available at: https://www.ucl.ac.uk/research-innovation-services/compliance-and-assurance/research-ethics-service/do-i-need-ethical-approval (Accessed: 4 April 2026)
 - International Visual Sociology Association (2026) *IVSA Code of Research Ethics*. Available at: https://visualsociology.org/code-of-research-ethics/ (Accessed: 5 April 2026)
