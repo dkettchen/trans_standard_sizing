@@ -69,7 +69,7 @@ You are invited to fill out as many of the measurements as possible, but **only 
 
 It will be helpful if you can stand for a few of the required measurements, but an alternative way for measuring those will be provided in case any respondents can't stand at all.
 
-**You can find [a copy of the questionnaire questions (including all the measurements) here](survey_questionnaire.md)!** If this form is giving you any trouble, please do let me know on tumblr or bluesky (@dkettchen)
+**You can find [a copy of the questionnaire questions (including all the measurements) here](survey_questionnaire.md) and [an excel version of the list of measurements here](survey_measurements_list.xlsx)!** If this form is giving you any trouble, please do let me know on tumblr or bluesky (@dkettchen)
 
 You will be asked to provide at least these 14 measurements:
 ![image](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png)
