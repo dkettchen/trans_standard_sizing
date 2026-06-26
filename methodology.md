@@ -3,7 +3,7 @@
 - [Guiding principles](#guiding-principles)
     - [Gender theory this project prescribes to](#gender-theory-this-project-subscribes-to)
     - [General principles](#general-principles)
-    - [Anthropometry study / standard siing / ready-made](#anthropometry-study--standard-sizing--ready-made)
+    - [Anthropometry study / standard sizing / ready-made](#anthropometry-study--standard-sizing--ready-made)
         - [Priorities](#priorities)
     - [Sewing resources](#sewing-resources)
     - [PPE guidance](#ppe-guidance)
