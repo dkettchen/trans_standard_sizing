@@ -18,17 +18,28 @@ Standard sizing works well enough for a lot of people. That is why it exists. To
 
 Cis men's and women's bodies demonstrably differ in size and proportion (we do already have anthropometry data about this, which existing standard sizing is based on). After first puberty, your bones don't change anymore, meaning the vast majority of trans people also differ from their respective cis peers, even post-transition. This renders standard sizing's usefulness void in our case, as it's not made for our proportions.
 
-While this is well-known community wisdom, we currently lack quantifyable data about it, so the survey, in part, is meant to provide that. (So far the data coming in seems to support the idea!)
+While this is well-known community wisdom, we currently lack quantifyable data about it, so this project's body measurements survey, in part, is meant to provide that. (So far the data coming in seems to support the idea!)
 
-[The goal of this project is to make clothing more accessible for trans people](README.md/#goal-of-the-project), regardless of whether or not they fit standard sizing pre-transition.
+[The primary goal of this project is to make clothing more accessible for trans people](README.md/#goal-of-the-project), regardless of whether or not they fit standard sizing pre-transition.
 
 However I also want to recreate commercially available sizing for those trans people it did work for pre-transition, in order to enable ready-made patterns and clothes that work for most of us and reinstate that base usefulness of standard sizing for us.
 
-### Why no pre-med respondents?
+### Why no pre-med respondents?/Why do respondents have to be on HRT?
 Unmodified trans bodies would have the same measurements as the cis bodies we already have general population anthropometry data on. What we don't have (appropriately labelled) anthropometry data on is post-transitional trans bodies.
 
+The vast majority of trans people (which is what we're interested in here) get HRT eventually, so that is representative of most post-transitional bodies:
+According to the [US Transgender Survey](https://ustranssurvey.org/) in 2015 78% of their respondents wanted to use HRT, which went up to 88% in 2022 (when they also had way more respondents). Both times over half of that number was already using HRT by the time they were surveyed. 
+
+By establishing HRT as a baseline, we can include pre-/non-op folks (as surgery is less accessible than HRT and in the vast majority of cases HRT comes first) and folks on non-standard HRT, while still getting meaningfully comparable data. 
+> Ex. we might need to leave out a measurement or two if someone hasn't had surgery to compare them to someone who has had it but that's better than having to leave out nearly ALL the measurements because someone isn't on HRT in the first place while everyone else is.
+
 ### Why specifically 3 years on HRT?
-It takes around 3-5 years for all the meat changes (ex. muscle and fat redistribution, transfemme breastgrowth) to finalise. We want respondents with stable/final measurements.
+It takes around 3-5 years for all the HRT meat changes (ex. muscle and fat redistribution, transfemme breastgrowth) to finalise. We want respondents with stable/final measurements so we can compare them to each other.
+
+### Is this project only for trans people/post-transitional people/people on HRT?
+No! While the project's [primary focus is on trans people and their typical physical endstates](methodology.md#guiding-principles), the only part exclusive to trans people on HRT is the body measurements survey/anthropometry data aspect. 
+
+The drafting methods and work wear guidance aim to eventually improve fashion accessibility for a wide variety of people within and far beyond the trans and gender diverse community. 
 
 ### The heck is anthropometry?
 Check out our [vocab section](methodology.md/#vocab)!
