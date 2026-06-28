@@ -6,10 +6,10 @@ In summer of 2026, I plan on attending a variety of pride events across the UK (
 
 ## Confirmed event schedule so far:
 ### Events we've been to:
-**Sat 23 May - 🚶‍♂️ Birmingham Pride** ✅
+**Sat 23 May - 🚶‍♂️ Birmingham Pride** ✅ <br>
+**Sat 27 Jun - 🎪🪑 Southwark Pride (SE1 London)** ✅
 
 ### Upcoming events:
-**Sat 27 Jun - 🎪🪑 Southwark Pride (SE1 London)** (runs 1pm-6pm) <br>
 **Sun 05 Jul - 🚶‍♂️ Cologne Pride / CSD (Germany)** <br>
 **Sat 18 Jul - 🚶‍♂️ Trans Pride Brighton** (unless I super don't feel up to travelling that day as we'll have Leeds the next day) <br>
 **Sun 19 Jul - 🎪🪑 Leeds Pride** <br>
