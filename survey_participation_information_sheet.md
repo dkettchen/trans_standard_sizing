@@ -69,7 +69,14 @@ You are invited to fill out as many of the measurements as possible, but **only 
 
 It will be helpful if you can stand for a few of the required measurements, but an alternative way for measuring those will be provided in case any respondents can't stand at all.
 
-**You can find [a copy of the questionnaire questions (including all the measurements) here](survey_questionnaire.md) and [an excel version of the list of measurements here](survey_measurements_list.xlsx)!** If this form is giving you any trouble, please do let me know on tumblr or bluesky (@dkettchen)
+### Technical difficulties:
+The survey is hosted on Google Forms and we've had reports that sometimes it crashes and deletes your progress, so consider writing down your measurements on a separate computer file or piece of paper so it'll be easier to fill them back in in case this happens to you.
+
+You can find [a copy of the questionnaire questions (including all the measurements and pictures) here](survey_questionnaire.md) and [an excel file to download and enter your values into here](survey_questions_and_measurements_list.xlsx).
+
+If the form is giving you any other trouble, please do let me know on tumblr or bluesky (@dkettchen).
+
+###
 
 You will be asked to provide at least these 14 measurements:
 ![image](questionnaire_images/required%20measurements%20-%20the%20bare%20minimum.png)
