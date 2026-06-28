@@ -24,14 +24,18 @@ While this is well-known community wisdom, we currently lack quantifyable data a
 
 However I also want to recreate commercially available sizing for those trans people it did work for pre-transition, in order to enable ready-made patterns and clothes that work for most of us and reinstate that base usefulness of standard sizing for us.
 
-### Why no pre-med respondents?/Why do respondents have to be on HRT?
+### Why no pre-med respondants?
 Unmodified trans bodies would have the same measurements as the cis bodies we already have general population anthropometry data on. What we don't have (appropriately labelled) anthropometry data on is post-transitional trans bodies.
 
-The vast majority of trans people (which is what we're interested in here) get HRT eventually, so that is representative of most post-transitional bodies:
-According to the [US Transgender Survey](https://ustranssurvey.org/) in 2015 78% of their respondents wanted to use HRT, which went up to 88% in 2022 (when they also had way more respondents). Both times over half of that number was already using HRT by the time they were surveyed. 
+### Why no (transmasc) respondants who only got top surgery and don't want testosterone?
+With top surgery, only your bust measurement will be different from existing general population data. That new measurement will likely be close enough to your underbust measurement (source: my measurements post-top surgery on low-dose were very close together, and the fact that assuming "underbust == bust minus boobs" is literally how one calculates bra cup size) to be able to use that existing data to reflect the proportions of someone in your situation (by simply leaving out the bust measurement) -> there is no availability gap for data about your measurements.
 
-By establishing HRT as a baseline, we can include pre-/non-op folks (as surgery is less accessible than HRT and in the vast majority of cases HRT comes first) and folks on non-standard HRT, while still getting meaningfully comparable data. 
-> Ex. we might need to leave out a measurement or two if someone hasn't had surgery to compare them to someone who has had it but that's better than having to leave out nearly ALL the measurements because someone isn't on HRT in the first place while everyone else is.
+Top surgery fit issues are not about measurements, they are about pattern drafting for a flat chest on an afab body. The pattern drafting part of this project will work for any measurements, including yours.
+
+The survey is merely about creating a data set for creating standard measurements to make trans standard sizing possible and giving insight into the bodies in question for other research.
+- HRT changes almost all your measurements, and various biological processes (ex. [heart size](https://www.instagram.com/p/DWe44bkDvnU/?img_index=2)) whose research this data will be useful to.
+- The vast majority of trans people want HRT ([US Transgender Survey](https://ustranssurvey.org/), 2015, 2022), so trans standard sizing needs to account for people on HRT.
+- We can't establish the (currently unknown) range the body measurements of people on HRT can take with data from people who aren't on HRT.
 
 ### Why specifically 3 years on HRT?
 It takes around 3-5 years for all the HRT meat changes (ex. muscle and fat redistribution, transfemme breastgrowth) to finalise. We want respondents with stable/final measurements so we can compare them to each other.
@@ -40,6 +44,9 @@ It takes around 3-5 years for all the HRT meat changes (ex. muscle and fat redis
 No! While the project's [primary focus is on trans people and their typical physical endstates](methodology.md#guiding-principles), the only part exclusive to trans people on HRT is the body measurements survey/anthropometry data aspect. 
 
 The drafting methods and work wear guidance aim to eventually improve fashion accessibility for a wide variety of people within and far beyond the trans and gender diverse community. 
+
+Even the trans standard sizing we aim to create from the survey data will still fit non-qualifying trans people and cis crossdressers better than cis sized options as the bones remain the same. 
+> ex. Transmasc sizing will have more room for hips and slimmer shoulders than cis men's sizing.
 
 ### The heck is anthropometry?
 Check out our [vocab section](methodology.md/#vocab)!
