@@ -54,6 +54,9 @@ Check out our [vocab section](methodology.md/#vocab)!
 ### What pride events will you be at?
 Check out the up-to-date list [here](pride_events_2026.md).
 
+### Is this a UK-specific project?
+No! The project is open to anyone around the world unless specified otherwise (ex. if we're talking about UK PPE regulations).
+
 ### Where are the clothes???
 There are no clothes yet. This is a research project. We aim to create data, sewing resources, and guidance.
 
@@ -63,11 +66,11 @@ All our resources will be published for free [under a Creative Commons license](
 
 ## Academia
 
-### Are you funded?
+### Is this project funded?
 
-To some extent, but mostly no!
+To some extent, but it's mostly self-funded.
 
-The project was awarded £1000 in seed funding by MMU's Making Great Community Incubator 2026, which I intend to use for the parts of the project I am working on in summer 2026 (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
+The project was awarded £1000 in seed funding by MMU's Making Great Community Incubator 2026, which I am using for the parts of the project I am working on in summer 2026 (ex. covering costs for attending/tabling at pride events: travel, stall fees, materials, etc).
 
 The project doesn't need a huge budget, and I have a full-time tech job, so I am able to cover my own living expenses and any costs arising from the project (ex. sewing material costs, etc) without issue, unlike a PhD student or staff researcher who would rely on research funding alone for their income and budget.
 
