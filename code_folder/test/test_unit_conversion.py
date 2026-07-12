@@ -15,7 +15,7 @@ def test_returns_different_number():
     result = convert_measurement(3, "cm")
     assert result != 3
 def test_returns_cm_for_inch_input():
-    result = convert_measurement(3, "in")
+    result = convert_measurement(3, "inch")
     assert result == inch_to_cm(3)
 def test_returns_inch_for_cm_input():
     result = convert_measurement(3, "cm")

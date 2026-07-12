@@ -4,11 +4,11 @@ def opposite_unit(unit):
     """
     returns the other unit for the given one
     
-    opposite_unit("cm") -> "in"
-    opposite_unit("in") -> "cm"
+    opposite_unit("cm") -> "inch"
+    opposite_unit("inch") -> "cm"
     """
     if unit == "cm":
-        return "in"
+        return "inch"
     return "cm"
 
 def cm_to_inch(cm:int|float):
@@ -18,7 +18,7 @@ def inch_to_cm(inches:int|float):
     return inches*2.54
 
 # ✅ TESTED
-def convert_measurement(input_measurement:int|float, unit:Literal["cm", "in"]):
+def convert_measurement(input_measurement:int|float, unit:Literal["cm", "inch"]):
     """
     takes a measurement and its unit
 
