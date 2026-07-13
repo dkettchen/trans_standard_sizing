@@ -13,7 +13,6 @@ In summer of 2026, I plan on attending a variety of pride events across the UK (
 **Sun 05 Jul - 🚶‍♂️ Cologne Pride / CSD (Germany)** ✅
 
 ### Upcoming events:
-**Sat 18 Jul - 🚶‍♂️ Trans Pride Brighton** <br>
 **Sun 19 Jul - 🎪🪑 Leeds Pride** <br>
 **Sat 25 Jul - 🚶‍♂️ Trans Pride London** <br>
 **Sun 26 Jul - 🎪🪑 Stockport Pride (Greater Manchester)** (runs 11am-7pm) <br>
