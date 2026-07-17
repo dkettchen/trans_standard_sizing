@@ -133,7 +133,7 @@ meas = [ # other measurements
     'end of ribcage/sternum to natural waist', 
     'nape of the neck to front natural waist', 
     'high hip/low waist circumference (REQUIRED)', 
-    'front (low) waist ', 
+    'front (low) waist', 
     'natural waist to high hip/low waist distance (front)', 
     'natural waist to high hip distance (side)', 
     'natural waist to high hip distance (back)', 

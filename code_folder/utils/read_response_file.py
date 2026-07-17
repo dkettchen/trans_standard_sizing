@@ -94,7 +94,7 @@ def read_responses_file(csv_filepath:str):
             new_column = "fit issue with " + split_item
         else:
             # make lowercase
-            new_column = column.lower()
+            new_column = column.lower().strip()
         
         # remove emojis
         if "📏" in new_column:
