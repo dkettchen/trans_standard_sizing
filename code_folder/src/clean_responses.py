@@ -25,6 +25,8 @@ data = convert_unit_to(data, "cm")
 data = check_realistic_min_max_values(data)
 data = check_against_standard_dev(data)
 
+data.to_csv("code_folder/files/responses_cleaned_columns_and_values_in_cm.csv")
+
 # TODO 
 # make clean files
     # we wanna make one big file with cleaned raw responses
