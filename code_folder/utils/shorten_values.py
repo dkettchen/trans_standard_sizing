@@ -13,7 +13,7 @@ def shorten_values(input_df:pd.DataFrame):
 
     # make sure 's are correct
     for col in new_df.columns:
-        new_df[col] = new_df[col].apply(lambda x: sub(r"[’’]", "'", x) if type(x) == str else x)
+        new_df[col] = new_df[col].apply(lambda x: sub(r"’", "'", x) if type(x) == str else x)
 
     # columns we want to shorten by removing extra bits
     for column in ["direction", "how did that change"]:
