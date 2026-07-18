@@ -1,13 +1,14 @@
 # files
 
-file_folder = "code_folder/files/full_clean_response_data"
+file_folder = "code_folder/files"
+full_file_folder = f"{file_folder}/full_clean_response_data"
 source_raw_file = "responses_6_july_2026.csv" # latest download -> not final data yet!
 """raw response data file as downloaded from google forms/sheets"""
 
 response_file = f"{file_folder}/{source_raw_file}"
-clean_columns_file = f"{file_folder}/raw_responses_cleaned_columns.csv"
-cm_full_file = f"{file_folder}/cleaned_full_responses_in_cm.csv"
-inch_full_file = f"{file_folder}/cleaned_full_responses_in_inch.csv"
+clean_columns_file = f"{full_file_folder}/raw_responses_cleaned_columns.csv"
+cm_full_file = f"{full_file_folder}/cleaned_full_responses_in_cm.csv"
+inch_full_file = f"{full_file_folder}/cleaned_full_responses_in_inch.csv"
 
 # measurements
 chest_meas = [ # chest measurements
@@ -165,4 +166,52 @@ torso_dist = [ # measurements from shoulder/neck area to natural waist -> should
     'shoulder to natural waist (diagonal, back)', 
     'distance from nape of the neck to natural waist (back)', 
     'distance from shoulder to natural waist (back)', 
+]
+
+# other columns
+other_qs = [
+    # 'direction', 
+    # 'unit', 
+    'how did you find the survey?', 
+    'suggestions', 
+]
+med_qs = [
+    'standard HRT', 
+    'consistent HRT for 3 years', 
+    'total time on HRT', 
+    'progesterone', 
+    'top surgery', 
+    'breast augmentation', 
+    'breast reduction or mastectomy', 
+    'padded bra', 
+    'hysterectomy', 
+    'crotch volume', 
+    'other surgery', 
+]
+body_qs = [
+    'age group', 
+    'plus-size', 
+    'extra tall', 
+    'extra short', 
+    'very muscular', 
+]
+standard_sizing_qs = [
+    'did you shop in birth sex aisle pre-transition and remember your size(s)', 
+    'pre-transition sizes', 
+    'how well did standard sizing fit pre-transition', 
+    'how did that change', 
+]
+fit_issues = [
+    'fit issue with shoulder width', 
+    'fit issue with sleeve circumference', 
+    'fit issue with sleeve length', 
+    'fit issue with chest width', 
+    'fit issue with breast space ', 
+    'fit issue with waist size', 
+    'fit issue with torso length ', 
+    'fit issue with hip width', 
+    'fit issue with pant crotch fit', 
+    'fit issue with leg circumference', 
+    'fit issue with leg length', 
+    'other fit issues'
 ]
