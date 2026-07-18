@@ -1,3 +1,14 @@
+# files
+
+file_folder = "code_folder/files/full_clean_response_data"
+source_raw_file = "responses_6_july_2026.csv" # latest download -> not final data yet!
+"""raw response data file as downloaded from google forms/sheets"""
+
+response_file = f"{file_folder}/{source_raw_file}"
+clean_columns_file = f"{file_folder}/raw_responses_cleaned_columns.csv"
+cm_full_file = f"{file_folder}/cleaned_full_responses_in_cm.csv"
+inch_full_file = f"{file_folder}/cleaned_full_responses_in_inch.csv"
+
 # measurements
 chest_meas = [ # chest measurements
     'underbust circumference', 
