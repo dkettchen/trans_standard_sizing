@@ -2,12 +2,9 @@ import pandas as pd
 from code_folder.utils.lookup import (
     cm_full_file, inch_full_file, 
     meas, chest_meas, 
-    other_qs, med_qs, body_qs, standard_sizing_qs, fit_issues,
-
-    file_folder
+    med_qs, body_qs, standard_sizing_qs, fit_issues,
+    separated_files_folder
 )
-
-
 
 # read in both inch & cm files
 for unit in ["cm", "inch"]:
@@ -22,7 +19,7 @@ for unit in ["cm", "inch"]:
         survey_origin_srs = file_data["how did you find the survey?"]
 
         # write to a file
-        survey_origin_file = f"{file_folder}/survey_origin.csv"
+        survey_origin_file = f"{separated_files_folder}/survey_origin.csv"
         survey_origin_srs.to_csv(survey_origin_file, index=True)
 
     # separate by direction
@@ -35,7 +32,7 @@ for unit in ["cm", "inch"]:
             # remove empty columns (only used by other direction)
             demo_df = demo_df.dropna(how="all", axis=1)
             # write to file
-            demo_file = f"{file_folder}/demographic_qs_{direction}.csv"
+            demo_file = f"{separated_files_folder}/demographic_qs_{direction}.csv"
             demo_df.to_csv(demo_file, index=True)
 
             # separate out standard sizing questions
@@ -43,7 +40,7 @@ for unit in ["cm", "inch"]:
             # remove empty columns (only used by other direction)
             standard_sizing_df = standard_sizing_df.dropna(how="all", axis=1)
             # write to file
-            stan_size_file = f"{file_folder}/standard_sizing_qs_{direction}.csv"
+            stan_size_file = f"{separated_files_folder}/standard_sizing_qs_{direction}.csv"
             standard_sizing_df.to_csv(stan_size_file, index=True)
 
         # separate out measurements for each unit + direction
@@ -54,7 +51,7 @@ for unit in ["cm", "inch"]:
         # remove empty columns (only used by other direction)
         meas_df = meas_df.dropna(how="all", axis=1)
         # write to file
-        meas_file = f"{file_folder}/measurements_in_{unit}_{direction}.csv"
+        meas_file = f"{separated_files_folder}/measurements_in_{unit}_{direction}.csv"
         meas_df.to_csv(meas_file, index=True)
 
 
