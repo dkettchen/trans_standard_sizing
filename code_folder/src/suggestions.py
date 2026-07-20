@@ -228,6 +228,6 @@ def parse_suggestions():
     return suggesto_df
 
 if __name__ == "__main__":
-        count_df = parse_suggestions()
-        # print(count_df)
-        count_df.to_csv(f"{processed_data_folder}/suggestion_counts.csv", index=True)
+    count_df = parse_suggestions()
+    # print(count_df)
+    count_df.to_csv(f"{processed_data_folder}/suggestion_counts.csv", index=True)
