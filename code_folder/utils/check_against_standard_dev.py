@@ -7,12 +7,13 @@ from code_folder.utils.compare_measurements import (
     compare_other_meas
 )
 
-def check_against_standard_dev(input_df:pd.DataFrame):
+def check_against_standard_dev(input_df:pd.DataFrame, print_what_is_removed:bool=False):
     new_df = input_df.copy()
 
     # check by direction
     for direction in ["Transmasc", "Transfemme"]:
-        # print(direction)
+        if print_what_is_removed:
+            print(direction)
         temp_df = new_df.where(new_df["direction"] == direction)
 
         # check that torso measurements roughly make sense compared to each other
@@ -31,6 +32,7 @@ def check_against_standard_dev(input_df:pd.DataFrame):
             "nipple/bust point distance",
             "head circumference",
             "nape of the neck to front natural waist",
+            "ankle to floor",
         ]:
             temp_df[f"CHECK_{column}"] = temp_df.apply(compare_other_meas, args=[column], axis=1)
 
@@ -90,6 +92,7 @@ def check_against_standard_dev(input_df:pd.DataFrame):
                             "clavicle to shoulder point distance",
                             "nipple/bust point distance",
                             "head circumference",
+                            "ankle to floor",
                         ] and (outlier_responses[f"CHECK_{col}"].unique()) == [True]:
                             continue
                         elif col in [ # measurements that have been checked as ref
@@ -106,14 +109,19 @@ def check_against_standard_dev(input_df:pd.DataFrame):
                             if (outlier_responses[f"CHECK_{ref_col}"].unique()) == [True]:
                                 continue
 
-                        # print what was found
-                        # print("⭕ removing:", value, col, list(outlier_responses.index))
-                            # currently removing:
-                            # Transmasc
-                            # ⭕ removing: 36.0 clavicle to shoulder point distance ['05/07/2026 18:41:09']
-                            # Transfemme
-                            # ⭕ removing: 45.72 shoulder (REQUIRED) ['28/06/2026 00:43:40']
-                            # ⭕ removing: 78.74 arm length (REQUIRED) ['28/06/2026 00:43:40']
+                        if print_what_is_removed:
+                            # print what was found
+                            print("⭕ removing:", value, col, list(outlier_responses.index))
+                                # currently removing:
+                                # Transmasc
+                                # ⭕ removing: 5.0 distance between lowest/bending/middle points of your scars (top surgery) ['01/07/2026 12:33:48']
+                                # ⭕ removing: 36.0 clavicle to shoulder point distance ['05/07/2026 18:41:09']
+                                # ⭕ removing: 24.0 natural waist to high hip distance (side) ['29/06/2026 00:52:46']
+                                # Transfemme
+                                # ⭕ removing: 45.72 shoulder (REQUIRED) ['28/06/2026 00:43:40']
+                                # ⭕ removing: 78.74 arm length (REQUIRED) ['28/06/2026 00:43:40']
+                                # ⭕ removing: 20.0 natural waist to high hip distance (side) ['20/07/2026 10:41:09']
+                                # ⭕ removing: 19.0 natural waist to high hip distance (back) ['20/07/2026 10:41:09']
 
                         # remove any values that aren't realistic
                         new_df[col] = new_df[col].mask(

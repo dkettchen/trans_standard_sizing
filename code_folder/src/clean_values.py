@@ -7,7 +7,7 @@ from code_folder.utils.convert_unit import convert_unit_to
 from code_folder.utils.check_realistic_min_max_values import check_realistic_min_max_values
 from code_folder.utils.check_against_standard_dev import check_against_standard_dev
 
-def run_clean_values(input_df:pd.DataFrame):
+def run_clean_values(input_df:pd.DataFrame, print_what_is_removed:bool=False):
     """
     takes a df of response data with cleaned columns
 
@@ -25,7 +25,7 @@ def run_clean_values(input_df:pd.DataFrame):
     data = fix_fixables(data)
     data = convert_unit_to(data, "cm")
     data = check_realistic_min_max_values(data)
-    data = check_against_standard_dev(data)
+    data = check_against_standard_dev(data, print_what_is_removed)
 
     return data
 

@@ -34,7 +34,10 @@ def compare_torso_distances(row:pd.Series):
 
 def compare_other_meas(row:pd.Series, col):
     # get the relevant reference column to compare to
-    if col in ["shoulder (REQUIRED)", "arm length (REQUIRED)", "armhole height (front)", "head circumference"]:
+    if col in [
+        "shoulder (REQUIRED)", "arm length (REQUIRED)", 
+        "armhole height (front)", "head circumference",
+    ]:
         ref_col = "height (REQUIRED)"
     elif col == "shoulder to elbow":
         ref_col = "elbow to wrist"
@@ -44,6 +47,8 @@ def compare_other_meas(row:pd.Series, col):
         ref_col = "front width"
     elif col == "clavicle to shoulder point distance":
         ref_col = "shoulder (REQUIRED)"
+    elif col == "ankle to floor":
+        ref_col = "knee to floor"
 
     elif col == "nipple/bust point distance":
         if "bust circumference (standing/no binder)" in row.dropna().index:
@@ -77,7 +82,8 @@ def compare_other_meas(row:pd.Series, col):
         col == "clavicle to shoulder point distance" and ratio > 0.5 and ratio < 1.2) or (
         col == "nipple/bust point distance" and ratio > 3.6) or (
         col == "head circumference" and ratio > 2.5 and ratio < 3.5) or (
-        col == "nape of the neck to front natural waist" and ratio > 0.9 and ratio < 1.3
+        col == "nape of the neck to front natural waist" and ratio > 0.9 and ratio < 1.3) or (
+        col == "ankle to floor" and ratio > 2.5 and ratio < 7.5
     ):
         return True
 
