@@ -23,3 +23,6 @@ from code_folder.src.fit_issues import fit_issues
 # crotch_volume().to_csv(f"{processed_data_folder}/crotch_volume.csv")
 # what are the most reported fit issues by direction
 fit_issues().to_csv(f"{processed_data_folder}/fit_issues.csv")
+
+
+## visualise

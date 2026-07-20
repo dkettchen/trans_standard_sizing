@@ -1,8 +1,9 @@
 from code_folder.utils.lookup import separated_files_folder
 import pandas as pd
+from re import sub
 
 def fit_issues():
-    """TODO"""
+    """counts the most common fit issues reports by each direction"""
     
     fit_issues_dict = {}
 
@@ -18,13 +19,15 @@ def fit_issues():
 
         for col in grouping_cols:
             count = stan_size_df.reset_index().groupby(col).count()["Timestamp"]
-            fit_issues_dict[direction][col] = count
+            fit_issues_dict[direction][sub("fit issue with ","",col)] = count
 
         fit_issues_dict[direction] = pd.DataFrame(fit_issues_dict[direction])
     
-        fit_issues_dict[direction] = fit_issues_dict[direction].rename(index={
-            "too big":f"too big ({direction})",
-            "too small":f"too small ({direction})",
-        })
+        fit_issues_dict[direction] = fit_issues_dict[direction].rename(
+            index={
+                "too big":f"too big ({direction})",
+                "too small":f"too small ({direction})",
+            },
+        )
     
     return pd.concat([fit_issues_dict["Transmasc"], fit_issues_dict["Transfemme"]]).transpose()
