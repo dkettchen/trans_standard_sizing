@@ -10,14 +10,14 @@ In summer of 2026, I plan on attending a variety of pride events across the UK (
 ### Events we've been to:
 **Sat 23 May - 🚶‍♂️ Birmingham Pride** ✅ <br>
 **Sat 27 Jun - 🎪🪑 Southwark Pride (SE1 London)** ✅ <br>
-**Sun 05 Jul - 🚶‍♂️ Cologne Pride / CSD (Germany)** ✅
+**Sun 05 Jul - 🚶‍♂️ Cologne Pride / CSD (Germany)** ✅ <br>
+**Sun 19 Jul - 🎪🪑 Leeds Pride** ✅
 
 ### Upcoming events:
-**Sun 19 Jul - 🎪🪑 Leeds Pride** <br>
 **Sat 25 Jul - 🚶‍♂️ Trans Pride London** <br>
 **Sun 26 Jul - 🎪🪑 Stockport Pride (Greater Manchester)** (runs 11am-7pm) <br>
 **Sat 01 Aug - 🚶‍♂️ Trans Pride Manchester** <br>
-[More coming soon]
+**Sat 29, Sun 30, Mon 31 Aug - 🎪🪑 Manchester Village Pride**
 
 🎪🪑 = A stall (staffed with myself and some friends) where you can come and get measured <br>
 🚶‍♂️ = Catch me (and friends) walking around with a sign and handing out flyers and measuring tapes
