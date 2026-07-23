@@ -24,23 +24,6 @@ While this is well-known community wisdom, we currently lack quantifyable data a
 
 However I also want to recreate commercially available sizing for those trans people it did work for pre-transition, in order to enable ready-made patterns and clothes that work for most of us and reinstate that base usefulness of standard sizing for us.
 
-### Why no pre-med respondants?
-Unmodified trans bodies would have the same measurements as the cis bodies we already have general population anthropometry data on. What we don't have (appropriately labelled) anthropometry data on is post-transitional trans bodies.
-
-### Why no (transmasc) respondants who only got top surgery and don't want testosterone?
-With top surgery, only your bust measurement will be different from existing general population data. That is one(1) measurement, which for most people is close enough to their underbust in the first place (source: my measurements post-top surgery on low-dose were very close together, and the fact that assuming "underbust == bust minus boobs" is literally how one calculates bra cup size), and even if it isn't, is still only ONE (1) MEASUREMENT!
-
-Top surgery-caused fit issues are not about standardisable measurements, they are about pattern drafting for a flat chest on an afab body. The pattern drafting part of this project will work for any measurements, including yours.
-
-The survey is about creating a data set on post-HRT bodies' measurements to make trans standard sizing possible and give insight into those bodies for other research.
-- The vast majority of trans people want HRT ([US Transgender Survey](https://ustranssurvey.org/), 2015, 2022), so trans standard sizing needs to account for people on HRT.
-    - People who only get top surgery are a very, very small subgroup of the community, so our transmasc standard sizing cannot exclusively cater to you. Putting numbers to exactly how many of you there are is not what this survey is about. There are other studies collecting data on what medical treatment people in the community at large get (like the USTS). This is not one of them.
-- HRT changes almost all your measurements, and various biological processes (ex. [heart size](https://www.instagram.com/p/DWe44bkDvnU/?img_index=2)) whose research this data will be useful to.
-- We can't establish the (currently unknown) range the body measurements of people on HRT can take with data from people who aren't on HRT.
-
-### Why specifically 3 years on HRT?
-It takes around 3-5 years for all the HRT meat changes (ex. muscle and fat redistribution, transfemme breastgrowth) to finalise. We want respondents with stable/final measurements so we can compare them to each other.
-
 ### Is this project only for trans people/post-transitional people/people on HRT?
 No! While the project's [primary focus is on trans people and their typical physical endstates](methodology.md#guiding-principles), the only part exclusive to trans people on HRT is the body measurements survey/anthropometry data aspect. 
 
@@ -64,6 +47,25 @@ There are no clothes yet. This is a research project. We aim to create data, sew
 Once those are done, you are welcome to use them to make your own clothes, make patterns or clothes to sell to others, or get your employer to provide appropriately fitting work-required clothing (ex. PPE, uniforms, etc). 
 
 All our resources will be published for free [under a Creative Commons license](license.md).
+
+## Trans body measurements survey
+
+### Why no pre-med respondants?
+Unmodified trans bodies would have the same measurements as the cis bodies we already have general population anthropometry data on. What we don't have (appropriately labelled) anthropometry data on is post-transitional trans bodies.
+
+### Why no (transmasc) respondants who only got top surgery and don't want testosterone?
+With top surgery, only the bust measurement will be different from existing general population data. That is one(1) measurement, which for most people is close enough to their underbust in the first place (source: my measurements post-top surgery on low-dose were very close together, and the fact that assuming "underbust == bust minus boobs" is literally how one calculates bra cup size), and even if it isn't, is still only ONE (1) MEASUREMENT!
+
+Top surgery-caused fit issues are not about standardisable measurements, they are about pattern drafting for a flat chest on an afab body. The pattern drafting part of this project will work for any measurements, including those of no-HRT/only top surgery folks.
+
+The body measurements survey is about creating a data set on post-HRT bodies' measurements to make trans standard sizing possible and give insight into those bodies for other research.
+- The vast majority of trans people want HRT ([US Transgender Survey](https://ustranssurvey.org/), 2015, 2022), so trans standard sizing needs to account for people on HRT.
+    - People who only get top surgery are a very, very small subgroup of the community, so our transmasc standard sizing cannot exclusively cater to them. Putting numbers to exactly how many of them there are is not what this survey is about. There are other studies collecting data on what medical treatment people in the community at large get (like the USTS). This is not one of them.
+- HRT changes almost all your measurements, and various biological processes (ex. [heart size](https://www.instagram.com/p/DWe44bkDvnU/?img_index=2)) whose research this data will be useful to.
+- We can't establish the (currently unknown) range the body measurements of people on HRT can take with data from people who aren't on HRT.
+
+### Why specifically 3 years on HRT?
+It takes around 3-5 years for all the HRT meat changes (ex. muscle and fat redistribution, transfemme breastgrowth) to finalise. We want respondents with stable/final measurements so we can compare them to each other.
 
 ## Academia
 
