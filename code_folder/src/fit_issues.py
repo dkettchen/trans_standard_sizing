@@ -14,6 +14,8 @@ def fit_issues():
         stan_size_filepath = f"{separated_files_folder}/standard_sizing_qs_{direction}.csv"
         stan_size_df = pd.read_csv(stan_size_filepath, index_col="Timestamp")
 
+        total = len(stan_size_df)
+
         # get relevant col
         grouping_cols = [c for c in stan_size_df.columns if "fit issue with" in c]
 
@@ -29,5 +31,8 @@ def fit_issues():
                 "too small":f"too small ({direction})",
             },
         )
+
+        for col in fit_issues_dict[direction]:
+            fit_issues_dict[direction][col] = (fit_issues_dict[direction][col] / total) * 100
     
     return pd.concat([fit_issues_dict["Transmasc"], fit_issues_dict["Transfemme"]]).transpose()
