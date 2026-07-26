@@ -1,3 +1,53 @@
+# The Trans Standard Sizing Project
+## Useful links, site map, and how to download files from github
+
+### Follow the project
+You can follow my own socials (@dkettchen) for now, but I am also working on making accounts (on tumblr and insta) for my fashion projects (coven), including this project:
+- Tumblr 
+    - [coven](https://hexekreess-coven.tumblr.com/)
+    - [dkettchen](https://dkettchen.tumblr.com/) 
+- Instagram 
+    - coven [coming soon]
+    - [dkettchen](https://www.instagram.com/dkettchen/)
+- [Bsky](https://bsky.app/profile/dkettchen.bsky.social)
+- [Youtube](https://www.youtube.com/@DKettchen)
+
+### Trans body measurements survey
+- For trans people who have been 3+ years on HRT (see participation info for more details)
+- Runs until end of 2026
+- Link to the survey: https://www.tinyurl.com/trans-standard-sizing
+- [Copy of the participation info](survey_participation_information_sheet.md)
+- [Copy of the questionnaire](survey_questionnaire.md)
+- [Excel file with measurements list](survey_questions_and_measurements_list.xlsx) - there is a download button on github you can click in the top-right of the file page (see [below](README.md#downloading-files) for a screenshot)
+
+We'll also be tabling at various pride events this summer, where you can get measured in person
+- [List of pride events 2026](pride_events_2026.md)
+
+### Site map
+- [FAQ](faq.md)
+- [Methodology doc](methodology.md)
+- [Flyer](trans_standard_sizing_pride_sign%20without%20bleed.png)
+- [Licensing info](license.md) (This project's data and results are published for free for anyone to use (with credit))
+
+### Results [WIP]
+I have started processing the body measurement data. This is where you can find the resulting data files and diagrams. These files will be updated as more responses come in and I rerun the code.
+- [Charts](code_folder/files/charts/)
+- [Raw response data file (not cleaned or formatted yet)](code_folder/files/responses_20_july_2026.csv) [not live, just whatever the latest file was when I last downloaded it, eventually it'll be the full dataset when it's done!]
+- [Cleaned responses in cm](code_folder/files/full_clean_response_data/cleaned_full_responses_in_cm.csv)
+- [Cleaned responses in inch](code_folder/files/full_clean_response_data/cleaned_full_responses_in_inch.csv)
+- We also have the same data separated by transition direction and certain sets of the questions in the [separated_data folder](code_folder/files/separated_data/)
+- The processed data used for the diagrams can be found in the [processed_data folder](code_folder/files/processed_data/)
+- The actual code can be found in the [code_folder](code_folder)
+
+### Downloading files
+You can download any file from github by clicking the download button in the top-right of the file page:
+![A screenshot showing how to download files on github](other_stuff/downloading_github_files.png)
+
+If you want to download the whole project folder, you can get a zip file of it here:
+
+<img src="other_stuff/downloading_a_folder_from_github.png" alt="A screenshot showing how to download a whole repo on github as a zip file" width="500">
+
+# Project Info
 ## The Trans Standard Sizing Project
 <!-- project description -->
 
@@ -136,5 +186,6 @@ Special thanks to ~ for ~ :
 - MMU's Rise "Making Great Community" Incubator 2026 - awarding this project seed funding and mentoring
 - The MMU Library's Open Access Research Team - providing resources and workshops on research data management and Open Access research publishing that all students can access
 - TransMasculine Advice & Support (TMSA) UK's private facebook groups and anyone who contributes to their top surgery albums - providing a good overview of the different scar shapes people get from double incision and insight into what keyhole/perioareolar results look like -> informing my illustrations and requested scar measurements in the survey
-- Grid Horsley (they/them) - survey proof-reading and explaining peer review to me
-- Laura (she/her) - additional survey proof-reading
+- Grid Horsley - measurement survey proof-reading and explaining peer review to me
+- Laura - additional measurement survey proof-reading
+- My lovely friends Sophie, Grid, Laura, Kaily, and Cris for helping out at the stalls!
