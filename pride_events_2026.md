@@ -12,10 +12,10 @@ In summer of 2026, I plan on attending a variety of pride events across the UK (
 **Sat 27 Jun - 🎪🪑 Southwark Pride (SE1 London)** ✅ <br>
 **Sun 05 Jul - 🚶‍♂️ Cologne Pride / CSD (Germany)** ✅ <br>
 **Sun 19 Jul - 🎪🪑 Leeds Pride** ✅ <br>
-**Sat 25 Jul - 🚶‍♂️ Trans Pride London** ✅
+**Sat 25 Jul - 🚶‍♂️ Trans Pride London** ✅ <br>
+**Sun 26 Jul - 🎪🪑 Stockport Pride (Greater Manchester)** ✅
 
 ### Upcoming events:
-**Sun 26 Jul - 🎪🪑 Stockport Pride (Greater Manchester)** (runs 11am-7pm) <br>
 **Sat 01 Aug - 🚶‍♂️ Trans Pride Manchester** <br>
 **Sat 29, Sun 30, Mon 31 Aug - 🎪🪑 Manchester Village Pride**
 
