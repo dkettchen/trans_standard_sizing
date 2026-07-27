@@ -15,11 +15,16 @@ colours = {
         "short":"darkgreen",
         "actual average":"hotpink",
     },
+    "biggest_measurement": {
+        "chest":"yellowgreen",
+        "waist":"olivedrab",
+        "hip":"darkolivegreen",
+    }
 }
 
 def visualise(data_case):
     """
-    datacase=crotch_volume|fit_issues|rating_height|torso_proportions
+    datacase=crotch_volume|fit_issues|rating_height|torso_proportions|biggest_measurement
     """
 
     # read relevant data in
@@ -211,6 +216,25 @@ def visualise(data_case):
                 title=title
             )
 
+            fig_dict[direction] = fig
+        return fig_dict
+
+    # pies for biggest measurements
+    elif data_case == "biggest_measurement":
+        fig_dict = {}
+        for direction in df.columns:
+            fig = go.Figure(
+                go.Pie(
+                    labels = df.index,
+                    values = df[direction],
+                    marker_colors=[palette[c] for c in df.index]
+                )
+            )
+            if direction in ["Transmasc", "Transfemme"]:
+                d = direction + "s'"
+            elif direction in ["Cis men", "cis women"]:
+                d = direction + "'s"
+            fig.update_layout(title=f"{d} biggest measurement out of <br>chest, natural waist, and hip circumference")
             fig_dict[direction] = fig
         return fig_dict
 

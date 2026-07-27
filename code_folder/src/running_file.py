@@ -8,6 +8,7 @@ from code_folder.utils.lookup import processed_data_folder, charts_folder
 from code_folder.src.crotch_volume import crotch_volume
 from code_folder.src.fit_issues import fit_issues
 from code_folder.src.torso_proportions import torso_proportions
+from code_folder.src.biggest_measurement import biggest_measurement
 from code_folder.src.visualise import visualise
 
 # ## clean and format raw data
@@ -25,7 +26,8 @@ from code_folder.src.visualise import visualise
 # crotch_volume().to_csv(f"{processed_data_folder}/crotch_volume.csv")
 # what are the most reported fit issues by direction
 # fit_issues().to_csv(f"{processed_data_folder}/fit_issues.csv")
-torso_proportions().to_csv(f"{processed_data_folder}/torso_proportions.csv")
+# torso_proportions().to_csv(f"{processed_data_folder}/torso_proportions.csv")
+biggest_measurement().to_csv(f"{processed_data_folder}/biggest_measurement.csv")
 
 ## visualise
 # fit_issue_fig_dict = visualise("fit_issues")
@@ -54,16 +56,28 @@ torso_proportions().to_csv(f"{processed_data_folder}/torso_proportions.csv")
 #         width=950
 #     )
 
-torso_dict = visualise("torso_proportions")
-for direction in torso_dict:
-    fig = torso_dict[direction]
-    if direction == "Transfemme":
-        width = 1000
-    elif direction == "Transmasc":
-        width = 800
+# torso_dict = visualise("torso_proportions")
+# for direction in torso_dict:
+#     fig = torso_dict[direction]
+#     if direction == "Transfemme":
+#         width = 1000
+#     elif direction == "Transmasc":
+#         width = 800
 
-    fig.write_image(
-        f"{charts_folder}/torso_proportions_{direction}.png",
+#     fig.write_image(
+#         f"{charts_folder}/torso_proportions_{direction}.png",
+#         height=500,
+#         width=width
+#     )
+
+# TODO implement & save to picture
+biggest_measurement_pies = visualise("biggest_measurement")
+for pie_label in biggest_measurement_pies:
+    pie = biggest_measurement_pies[pie_label]
+    pie.write_image(
+        f"{charts_folder}/biggest_measurement_{pie_label}.png",
         height=500,
-        width=width
+        width=500
     )
+
+
