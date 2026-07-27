@@ -19,14 +19,15 @@ colours = {
 
 def visualise(data_case):
     """
-    datacase=crotch_volume|fit_issues|rating_height
+    datacase=crotch_volume|fit_issues|rating_height|torso_proportions
     """
 
     # read relevant data in
     filepath = f"{processed_data_folder}/{data_case}.csv"
     df = pd.read_csv(filepath, index_col=0)
 
-    palette = colours[data_case]
+    if data_case in colours:
+        palette = colours[data_case]
 
     # vis with relevant type of graph
 
@@ -174,6 +175,43 @@ def visualise(data_case):
 
             fig_dict[birthsex] = fig
 
+        return fig_dict
+
+    # scatters for torso measurements
+    elif data_case == "torso_proportions":
+        fig_dict = {}
+        mode = "lines+markers"
+
+        for direction in df["direction"].unique():
+            direction_df = df.where(df["direction"] == direction).dropna(how="all").dropna(how="all",axis=1)
+            direction_df.pop("direction")
+
+            if direction == "Transfemme":
+                direction_df = direction_df.rename(columns={"chest": "bust"})
+            columns = direction_df.columns
+
+            fig = go.Figure()
+
+            for response in direction_df.index:
+                fig.add_trace(
+                    go.Scatter(
+                        x = columns,
+                        y = direction_df.loc[response],
+                        mode = mode
+                    )
+                )
+
+            title = f"{direction} torso circumferences"
+            if direction == "Transmasc":
+                title += " (post-top surgery chest measurements only)"
+
+            fig.update_yaxes(range=[55,175])
+            fig.update_layout(
+                showlegend=False,
+                title=title
+            )
+
+            fig_dict[direction] = fig
         return fig_dict
 
     else:
