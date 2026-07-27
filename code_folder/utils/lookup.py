@@ -5,6 +5,9 @@ full_file_folder = f"{file_folder}/full_clean_response_data"
 separated_files_folder = f"{file_folder}/separated_data"
 processed_data_folder = f"{file_folder}/processed_data"
 charts_folder = f"{file_folder}/charts"
+gen_pop_folder = f"{file_folder}/gen_pop_data"
+clean_gen_pop_folder = f"{gen_pop_folder}_clean"
+
 source_raw_file = "responses_20_july_2026.csv" # latest download -> not final data yet!
 """raw response data file as downloaded from google forms/sheets"""
 
