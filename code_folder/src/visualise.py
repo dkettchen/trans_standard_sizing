@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from code_folder.utils.lookup import processed_data_folder
+from code_folder.utils.lookup import processed_data_folder, gender_categories, suffix
 from re import sub
 
 four_colours = ["lightskyblue","royalblue", "hotpink","crimson"]
@@ -17,8 +17,11 @@ colours = {
     },
     "biggest_measurement": {
         "chest":"yellowgreen",
-        "waist":"olivedrab",
-        "hip":"darkolivegreen",
+        "waist":"lightgreen",
+        "hip":"darkgreen",
+        "chest and waist": "olivedrab",
+        "waist and hip": "limegreen",
+        "chest and hip": "greenyellow",
     }
 }
 
@@ -183,6 +186,7 @@ def visualise(data_case):
         return fig_dict
 
     # scatters for torso measurements
+    # TODO add cis data
     elif data_case == "torso_proportions":
         fig_dict = {}
         mode = "lines+markers"
@@ -219,24 +223,30 @@ def visualise(data_case):
             fig_dict[direction] = fig
         return fig_dict
 
-    # pies for biggest measurements
+    # grouped bars for biggest measurements
     elif data_case == "biggest_measurement":
-        fig_dict = {}
-        for direction in df.columns:
-            fig = go.Figure(
-                go.Pie(
-                    labels = df.index,
-                    values = df[direction],
-                    marker_colors=[palette[c] for c in df.index]
+        graph_type = "grouped bar"
+
+        # make figure
+        fig = go.Figure()
+
+        labels = [sub("man", "men", i) if "man" in i else i + "s" for i in df.columns]
+        for i in df.index:
+            
+            fig.add_trace(
+                go.Bar(
+                    name=i, x=labels, y=df.loc[i], 
+                    text=df.loc[i], textposition="auto",
+                    marker_color=palette[i]
                 )
             )
-            if direction in ["Transmasc", "Transfemme"]:
-                d = direction + "s'"
-            elif direction in ["Cis men", "cis women"]:
-                d = direction + "'s"
-            fig.update_layout(title=f"{d} biggest measurement out of <br>chest, natural waist, and hip circumference")
-            fig_dict[direction] = fig
-        return fig_dict
+
+        # update graph
+        fig.update_layout(
+            barmode='group', 
+            title=f"Biggest torso circumference measurement (%)",
+        )
+        fig.update_yaxes(range=[0,100])
 
     else:
         fig = go.Figure()

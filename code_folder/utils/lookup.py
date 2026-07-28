@@ -17,6 +17,7 @@ cm_full_file = f"{full_file_folder}/cleaned_full_responses_in_cm.csv"
 inch_full_file = f"{full_file_folder}/cleaned_full_responses_in_inch.csv"
 
 gender_categories = ["Cis man", "Cis woman", "Transmasc", "Transfemme"]
+suffix = " (The Trans Standard Sizing Project, 2026)"
 
 # measurements
 chest_meas = [ # chest measurements

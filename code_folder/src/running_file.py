@@ -73,14 +73,11 @@ biggest = biggest_measurement().to_csv(f"{processed_data_folder}/biggest_measure
 #         width=width
 #     )
 
-# # TODO implement & save to picture
-# biggest_measurement_pies = visualise("biggest_measurement")
-# for pie_label in biggest_measurement_pies:
-#     pie = biggest_measurement_pies[pie_label]
-#     pie.write_image(
-#         f"{charts_folder}/biggest_measurement_{pie_label}.png",
-#         height=500,
-#         width=500
-#     )
+biggest_measurement_pies = visualise("biggest_measurement")
+biggest_measurement_pies.write_image(
+    f"{charts_folder}/biggest_measurements.png",
+    height=500,
+    width=1000
+)
 
 
