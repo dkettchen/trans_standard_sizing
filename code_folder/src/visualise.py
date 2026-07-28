@@ -244,7 +244,7 @@ def visualise(data_case):
         # update graph
         fig.update_layout(
             barmode='group', 
-            title=f"Biggest torso circumference measurement (%)",
+            title=f"Biggest torso measurement (%)",
         )
         fig.update_yaxes(range=[0,100])
 
