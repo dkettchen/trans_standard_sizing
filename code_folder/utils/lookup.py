@@ -16,6 +16,8 @@ clean_columns_file = f"{full_file_folder}/raw_responses_cleaned_columns.csv"
 cm_full_file = f"{full_file_folder}/cleaned_full_responses_in_cm.csv"
 inch_full_file = f"{full_file_folder}/cleaned_full_responses_in_inch.csv"
 
+gender_categories = ["Cis man", "Cis woman", "Transmasc", "Transfemme"]
+
 # measurements
 chest_meas = [ # chest measurements
     'underbust circumference', 

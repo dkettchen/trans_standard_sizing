@@ -26,8 +26,11 @@ from code_folder.src.visualise import visualise
 # crotch_volume().to_csv(f"{processed_data_folder}/crotch_volume.csv")
 # what are the most reported fit issues by direction
 # fit_issues().to_csv(f"{processed_data_folder}/fit_issues.csv")
-# torso_proportions().to_csv(f"{processed_data_folder}/torso_proportions.csv")
-biggest_measurement().to_csv(f"{processed_data_folder}/biggest_measurement.csv")
+torsos = torso_proportions()
+for key in torsos:
+    df = torsos[key]
+    df.to_csv(f"{processed_data_folder}/torso_proportions_{key}.csv", index=False)
+biggest = biggest_measurement().to_csv(f"{processed_data_folder}/biggest_measurement.csv")
 
 ## visualise
 # fit_issue_fig_dict = visualise("fit_issues")
@@ -70,14 +73,14 @@ biggest_measurement().to_csv(f"{processed_data_folder}/biggest_measurement.csv")
 #         width=width
 #     )
 
-# TODO implement & save to picture
-biggest_measurement_pies = visualise("biggest_measurement")
-for pie_label in biggest_measurement_pies:
-    pie = biggest_measurement_pies[pie_label]
-    pie.write_image(
-        f"{charts_folder}/biggest_measurement_{pie_label}.png",
-        height=500,
-        width=500
-    )
+# # TODO implement & save to picture
+# biggest_measurement_pies = visualise("biggest_measurement")
+# for pie_label in biggest_measurement_pies:
+#     pie = biggest_measurement_pies[pie_label]
+#     pie.write_image(
+#         f"{charts_folder}/biggest_measurement_{pie_label}.png",
+#         height=500,
+#         width=500
+#     )
 
 
