@@ -5,6 +5,7 @@ from code_folder.utils.lookup import processed_data_folder, gender_categories, s
 from re import sub, split
 from code_folder.utils.calculate_trendline import calculate_trendline
 import os
+from statistics import mean
 
 four_colours = ["lightskyblue","royalblue", "hotpink","crimson"]
 
@@ -357,12 +358,31 @@ def visualise(data_case):
                 showlegend=False
             ))
 
+            ## the two trendlines look very parallel on the chart
+            ## -> seem to have ca 1.75-1.8cm distance between post-op chest & binder chest measurement
+            ## -> that is firmly within the range for adding as ease!
+            # if col in ["binder", "chest"]:
+            #     if col == "binder":
+            #         ratio = 1.05
+            #     else:
+            #         ratio = 1.07
+
+            #     difference_list = []
+            #     for i in range(len(trendline)):
+            #         underbust_val = list(x)[i]
+            #         trendline_val = trendline[i]
+            #         adjusted_val = underbust_val*ratio
+            #         difference_val = trendline_val - adjusted_val
+            #         difference_list.append(difference_val)
+
+            #     print(col, round(abs(mean(difference_list)),2))
+
         # set axes
         fig.update_xaxes(range=[70,130], dtick = 10)
         fig.update_yaxes(range=[70,135], dtick = 10)
         
         # add title etc
-        fig.update_layout(title="Transmasc chests to underbust")
+        fig.update_layout(title="Transmasc chests to underbust (cm)")
 
     else:
         fig = go.Figure()

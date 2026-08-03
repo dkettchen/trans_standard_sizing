@@ -115,3 +115,7 @@ chest_fig.write_image(
     height=500,
     width=520
 )
+## the two trendlines look very parallel on the chart
+## -> seem to have ca 1.75-1.8cm distance between post-op chest & binder chest measurement
+## -> that is firmly within the range for adding as ease!
+    # code to calculate it is commented out in the vis file
