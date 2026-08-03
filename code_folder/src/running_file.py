@@ -12,6 +12,7 @@ from code_folder.src.biggest_measurement import biggest_measurement
 from code_folder.src.how_did_fit_change import fit_change
 from code_folder.src.transmasc_bust_comparison import bust_comparison
 from code_folder.src.visualise import visualise
+from code_folder.src.visualise_ratios import compare
 
 # ## clean and format raw data
 # # clean data
@@ -37,17 +38,20 @@ from code_folder.src.visualise import visualise
 # for key in change:
 #     df = change[key]
 #     df.to_csv(f"{processed_data_folder}/how_did_fit_change_{key}.csv", index=False)
-bust_comparison("cm") # prints its own files
+# bust_comparison("cm") # prints its own files
 
 # TODO
 # ✅ - how well did they fit standard sizing pre-transition vs how did they rate the change scatter
 # - relevant measurements vs whether or not they reported fit issues
     # - may need multiple measurements ex. height + arm length for arm length fit issue
-# - compare transmasc bust, binder & projected chest measurements where they were provided
-    # -> how far are binder & projected chest apart?
-        # -> maybe we could use that to inform how much ease we put into our transmasc standard sized tops 
-        # so ppl can wear em over their binder too but it still won't look strange on someone post-op
-        # -> similar to what I'm planning w transfemme crotch space
+# ✅ - compare transmasc bust, binder & projected chest measurements where they were provided
+    ## the two trendlines look very parallel on the chart
+    ## -> seem to have ca 1.75-1.8cm distance between post-op chest & binder chest measurement
+    ## -> that is firmly within the range for adding as ease!
+        # -> similar approach to leaving some extra space for transfemme crotches, 
+        # we can just add enough ease to make sure binder chests have space enough
+        # without looking weird on post-op chests
+            # code to calculate it is commented out in the vis file
 # - thigh to hip ratio
 # - waist to hip ratio
 
@@ -109,13 +113,36 @@ bust_comparison("cm") # prints its own files
 #         width=800
 #     )
 
-chest_fig = visualise("chest_measurements_in_cm_Transmasc")
-chest_fig.write_image(
-    f"{charts_folder}/transmasc_chests_to_underbust.png",
-    height=500,
-    width=520
-)
-## the two trendlines look very parallel on the chart
-## -> seem to have ca 1.75-1.8cm distance between post-op chest & binder chest measurement
-## -> that is firmly within the range for adding as ease!
-    # code to calculate it is commented out in the vis file
+# chest_fig = visualise("chest_measurements_in_cm_Transmasc")
+# chest_fig.write_image(
+#     f"{charts_folder}/transmasc_chests_to_underbust.png",
+#     height=500,
+#     width=520
+# )
+
+# compare measurements to each other
+for x_col, y_col in [
+    # note: when including 80s data, even the cis data largely does not align with itself
+        # -> I've excluded the older data now in hopes of making it more comparable
+        # -> this may also improve with more cis data
+    ("hip", "thigh"),
+        # transmascs do have wider hips than cis men for same thigh circ (bc hip bone will be diff)
+        # so do transfemmes
+        # transmascs have smaller thighs than cis women for same hip circ (bc hip bone will be same)
+    ("hip", "waist"),
+        # transmascs' hip/waist ratio is eerily close to military cis women in 2012 apparently
+        # transmascs have wider hips than cis men for same waist circ
+    ("hip", "height"), # aligns with the cis ppl of the same bones
+    ("shoulder", "height"), # seems to be somewhat all over the place, 
+                            # and cis data doesn't have the same range as trans one of extremes
+    ("arm length","height"), # seems to be proportional across all genders, but obv height varies -> so does arm length
+    # ("arm length","chest"), # TODO make sure it checks the relevant measurements
+]:
+    fig_dict = compare(x_col, y_col)
+
+    for gender_combo in fig_dict:
+        fig_dict[gender_combo].write_image(
+            f"{charts_folder}/{x_col}_to_{y_col}_ratio_{gender_combo}.png",
+            height=500,
+            width=700
+        )
