@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from code_folder.utils.lookup import processed_data_folder, gender_categories, suffix
 from re import sub, split
+from code_folder.utils.calculate_trendline import calculate_trendline
 import os
 
 four_colours = ["lightskyblue","royalblue", "hotpink","crimson"]
@@ -23,12 +24,19 @@ colours = {
         "chest and waist": "olivedrab",
         "waist and hip": "limegreen",
         "chest and hip": "greenyellow",
+    },
+    "chest_measurements_in_cm_Transmasc": {
+        "chest": "red",
+        "bust": "green",
+        "binder": "blue",
     }
+
 }
 
 def visualise(data_case):
     """
-    datacase=crotch_volume|fit_issues|rating_height|torso_proportions|biggest_measurement|fit_change
+    datacase=crotch_volume|fit_issues|rating_height|torso_proportions|
+    biggest_measurement|fit_change|chest_measurements_in_cm_Transmasc
     """
 
     # read relevant data in
@@ -317,6 +325,44 @@ def visualise(data_case):
 
             fig_dict[direction] = fig
         return fig_dict
+    
+    # scatter for transmasc underbust ratios
+    elif data_case == "chest_measurements_in_cm_Transmasc":
+
+        fig = go.Figure()
+
+        for col in ["chest", "binder", "bust"]:
+            d = df.get(["underbust", col]).dropna(how="any")
+            x = d["underbust"]
+            y = d[col]
+
+            colour = palette[col]
+
+            # add measurements
+            fig.add_trace(go.Scatter(
+                x=x, y=y,
+                mode='markers',
+                name=col,
+                marker_color=colour
+            ))
+
+            # add trendline
+            trendline = calculate_trendline(list(x), list(y))
+            fig.add_trace(go.Scatter(
+                x=x, y=trendline,
+                mode='lines',
+                name=f"{col} (trend)",
+                opacity=0.5,
+                marker_color=colour,
+                showlegend=False
+            ))
+
+        # set axes
+        fig.update_xaxes(range=[70,130], dtick = 10)
+        fig.update_yaxes(range=[70,135], dtick = 10)
+        
+        # add title etc
+        fig.update_layout(title="Transmasc chests to underbust")
 
     else:
         fig = go.Figure()

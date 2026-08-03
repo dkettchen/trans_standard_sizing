@@ -108,3 +108,10 @@ bust_comparison("cm") # prints its own files
 #         height=800,
 #         width=800
 #     )
+
+chest_fig = visualise("chest_measurements_in_cm_Transmasc")
+chest_fig.write_image(
+    f"{charts_folder}/transmasc_chests_to_underbust.png",
+    height=500,
+    width=520
+)
