@@ -2,7 +2,8 @@ import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from code_folder.utils.lookup import processed_data_folder, gender_categories, suffix
-from re import sub
+from re import sub, split
+import os
 
 four_colours = ["lightskyblue","royalblue", "hotpink","crimson"]
 
@@ -27,12 +28,18 @@ colours = {
 
 def visualise(data_case):
     """
-    datacase=crotch_volume|fit_issues|rating_height|torso_proportions|biggest_measurement
+    datacase=crotch_volume|fit_issues|rating_height|torso_proportions|biggest_measurement|fit_change
     """
 
     # read relevant data in
-    filepath = f"{processed_data_folder}/{data_case}.csv"
-    df = pd.read_csv(filepath, index_col=0)
+    if data_case not in ["torso_proportions", "fit_change"]:
+        filepath = f"{processed_data_folder}/{data_case}.csv"
+        df = pd.read_csv(filepath, index_col=0)
+    else:
+        files = [f"{processed_data_folder}/{f}" for f in os.listdir(processed_data_folder) if data_case in f]
+        df_dict = {
+            split(r"[_\.]",f)[-2]: pd.read_csv(f) for f in files
+        }
 
     if data_case in colours:
         palette = colours[data_case]
@@ -247,6 +254,69 @@ def visualise(data_case):
             title=f"Biggest torso measurement (%)",
         )
         fig.update_yaxes(range=[0,100])
+    
+    # scatters for how fit changed
+    elif data_case == "fit_change":
+        fig_dict = {}
+        mode = "text+markers"
+
+        for direction in df_dict:
+            direction_df = df_dict[direction]
+
+            fig = go.Figure()
+
+            fig.add_trace(
+                go.Scatter(
+                    x = direction_df["how did that change"],
+                    y = direction_df["how well did standard sizing fit pre-transition"],
+                    mode = mode,
+                    text = direction_df["count"].apply(lambda x: f"{x}%"),
+                    marker=dict(
+                        size = direction_df["count"] * 5,
+                        color = direction_df["count"],
+                        colorscale='Sunset',
+                        cmax=50,
+                        cmin=0,
+                        showscale=True,
+                    )
+                )
+            )
+
+            if direction == "Transfemme":
+                then_aisle = "men's"
+                now_aisle = "women's"
+            else:
+                then_aisle = "women's"
+                now_aisle = "men's"
+
+            title = f"How {then_aisle} standard sizing fit {direction.lower()}s pre-transition "\
+                +f"<br>and how fit changed with switching to {now_aisle} aisle"
+
+            # fig.update_yaxes(range=[55,175])
+            fig.update_layout(
+                # showlegend=False,
+                title=title
+            )
+
+            fig.update_xaxes(
+                categoryorder='array', 
+                categoryarray= [
+                    "For the better", "Neutrally", "For the worse"
+                ],
+                title="How it changed"
+            )
+            fig.update_yaxes(
+                categoryorder='array', 
+                categoryarray= [
+                    "Very poorly", "Poorly", "Somewhat well", "Very well", 
+                ],
+                title="Pre-transition fit",
+                tickangle = -90,
+            )
+
+
+            fig_dict[direction] = fig
+        return fig_dict
 
     else:
         fig = go.Figure()
