@@ -190,6 +190,6 @@ Special thanks to ~ for ~ :
 - MMU's Rise "Making Great Community" Incubator 2026 - awarding this project seed funding and mentoring
 - The MMU Library's Open Access Research Team - providing resources and workshops on research data management and Open Access research publishing that all students can access
 - TransMasculine Advice & Support (TMSA) UK's private facebook groups and anyone who contributes to their top surgery albums - providing a good overview of the different scar shapes people get from double incision and insight into what keyhole/perioareolar results look like -> informing my illustrations and requested scar measurements in the survey
-- Grid Horsley - measurement survey proof-reading and explaining peer review to me
+- Grid - measurement survey proof-reading and explaining peer review to me
 - Laura - additional measurement survey proof-reading
-- My lovely friends Sophie, Grid, Laura, Kaily, and Cris for helping out at the stalls!
+- My lovely friends Sophie, Grid, Kaily, Cris, Laura and Leah - helping out with stalls and flyering at events! 
