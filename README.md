@@ -32,6 +32,7 @@ Our minimum goal is 50 responses per direction, we are currently at: (last updat
 - [Methodology doc](methodology.md)
 - [Flyer](trans_standard_sizing_pride_sign%20without%20bleed.png)
 - [Licensing info](license.md) (This project's data and results are published for free for anyone to use (with credit))
+- [AI use info](machine_learning_policy.md) (This project uses no AI. If you want to use this data with or for any AI, read this first, as we have rules.)
 
 ### Results [WIP]
 I have started processing the body measurement data. This is where you can find the resulting data files and diagrams. These files will be updated as more responses come in and I rerun the code.

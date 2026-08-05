@@ -1,5 +1,7 @@
 # Licensing
 
+The copyright owner of this project is Ren Zoller. The licensing outlined below does not change that.
+
 ## Research project data
 
 This research project's data (survey responses, code, supporting documentation) is published and shared under a [Creative Commons BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -15,7 +17,3 @@ The final sewing resources themselves will be under a [Creative Commons BY licen
 This means they can be used and built upon without having to share the results this openly (ex. if they are used commercially, people may not want to share their patterns etc for free if at all). They will only require attribution. 
 
 I want people to use them as much as possible, so I don't want anyone to be put off by unneeded restrictions.
-
-# Protection from the capitalists and transphobes
-
-I am looking into ways to protect this project's results in a way that will keep them freely accessible for everyone while disabling bad actors from trying to steal and paywall them.
