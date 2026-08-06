@@ -121,28 +121,31 @@ from code_folder.src.visualise_ratios import compare
 # )
 
 # compare measurements to each other
-for x_col, y_col in [
-    # note: when including 80s data, even the cis data largely does not align with itself
-        # -> I've excluded the older data now in hopes of making it more comparable
-        # -> this may also improve with more cis data
-    ("hip", "thigh"),
-        # transmascs do have wider hips than cis men for same thigh circ (bc hip bone will be diff)
-        # so do transfemmes
-        # transmascs have smaller thighs than cis women for same hip circ (bc hip bone will be same)
-    ("hip", "waist"),
-        # transmascs' hip/waist ratio is eerily close to military cis women in 2012 apparently
-        # transmascs have wider hips than cis men for same waist circ
-    ("hip", "height"), # aligns with the cis ppl of the same bones
-    ("shoulder", "height"), # seems to be somewhat all over the place, 
-                            # and cis data doesn't have the same range as trans one of extremes
-    ("arm length","height"), # seems to be proportional across all genders, but obv height varies -> so does arm length
-    # ("arm length","chest"), # TODO make sure it checks the relevant measurements
-]:
-    fig_dict = compare(x_col, y_col)
+# for x_col, y_col in [
+#     # note: when including 80s data, even the cis data largely does not align with itself
+#         # -> I've excluded the older data now in hopes of making it more comparable
+#         # -> this may also improve with more cis data
+#     ("hip", "thigh"),
+#         # transmascs do have wider hips than cis men for same thigh circ (bc hip bone will be diff)
+#         # so do transfemmes
+#         # transmascs have smaller thighs than cis women for same hip circ (bc hip bone will be same)
+#     ("hip", "waist"),
+#         # transmascs' hip/waist ratio is eerily close to military cis women in 2012 apparently
+#         # transmascs have wider hips than cis men for same waist circ
+#     ("hip", "height"), # aligns with the cis ppl of the same bones
+#     ("shoulder", "height"), # seems to be somewhat all over the place, 
+#                             # and cis data doesn't have the same range as trans one of extremes
+#     ("arm length","height"), # seems to be proportional across all genders, but obv height varies -> so does arm length
+#     ("arm length","chest"), # seems utterly proportional/equally all over the place regardless of gender
+#     ("hip","chest"), # notable difference in proportion between cis & trans ppl
+#     ("waist","chest"), # interestingly the afabs have bigger waists compared to chest than the amabs huh!
+# ]:
+#     fig_dict = compare(x_col, y_col)
 
-    for gender_combo in fig_dict:
-        fig_dict[gender_combo].write_image(
-            f"{charts_folder}/{x_col}_to_{y_col}_ratio_{gender_combo}.png",
-            height=500,
-            width=700
-        )
+#     for gender_combo in fig_dict:
+#         fig_dict[gender_combo].write_image(
+#             f"{charts_folder}/ratios/{x_col}_to_{y_col}_ratio_{gender_combo}.png",
+#             height=500,
+#             width=700
+#         )
+

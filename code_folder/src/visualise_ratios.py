@@ -32,11 +32,14 @@ def compare(x_col, y_col, unit = "cm"):
         ("hip", "height"),
         ("hip", "thigh"), # for now, bc there was not much of any patterns
         ("hip", "waist"), # only cis men's data so far is smaller hip for waist, everyone else is similar
+        ("arm length", "chest"),
+        ("waist", "chest"),
     ]: # one chart of everyone will do
         to_compare = ["everyone"]
     elif (x_col, y_col) in [ # check everyone and compare trans ppl to cis ppl of target gender
         ("shoulder", "height"),
         ("arm length", "height"),
+        ("hip", "chest"),
     ]:
         to_compare = ["everyone", "men_and_mascs", "women_and_femmes"]
     else: # just do all of them
@@ -85,6 +88,24 @@ def compare(x_col, y_col, unit = "cm"):
 
         # find relevant columns
         for col in df.columns:
+            # if a column is chest
+            if x_col == "chest" and ("chest" in col or "bust" in col):
+                if "front" in col or "nipple" in col or "bust point" in col or "distance" in col \
+                or "under" in col or "over" in col or "lying" in col or "padded" in col:
+                    continue
+                if gender == "Transmasc" and "bust" in col:
+                    continue
+                x = col
+                continue
+            if y_col == "chest" and ("chest" in col or "bust" in col):
+                if "front" in col or "nipple" in col or "bust point" in col or "distance" in col \
+                or "under" in col or "over" in col or "lying" in col or "padded" in col:
+                    continue
+                if gender == "Transmasc" and "bust" in col:
+                    continue
+                y = col
+                continue
+
             if x_col in col:
                 if x_col in ["hip", "waist", "thigh"]:
                     if "high hip" in col or "low" in col or "front" in col or " to " in col or "from" in col:
