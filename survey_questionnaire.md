@@ -516,10 +516,19 @@ Clothing in this aspect is: (select any aspects that apply)
 All the published files related to this project, including a copy of the information you read at the beginning of the survey and the questionnaire questions, can be found in the project's github repo: 
 [https://github.com/dkettchen/trans_standard_sizing](https://github.com/dkettchen/trans_standard_sizing)
 
-The final measurements charts and insights from the survey will also be published there, as well as on my social media (I am @dkettchen everywhere: [tumblr](https://www.tumblr.com/dkettchen) • [bluesky](https://bsky.app/profile/dkettchen.bsky.social) • [instagram](https://www.instagram.com/dkettchen/) • [youtube](https://www.youtube.com/@DKettchen)) and [website](https://www.dkettchen.com). 
-I will likely post updates beyond the final measurements and insights themselves on socials too (ex. making sample garments, going to events to present the project, and any future fashion endeavours enabled by this project).
+The final measurement charts and insights from the survey will also be published there, as well as on my social media.
 
-Note: Only the github repo is dedicated to this project exclusively, the rest are just my regular accounts, so follow at your own risk of whatever other shenanigans I am up to on there 😅
+You can follow my own socials (@dkettchen) for now, but I am also working on making accounts (on tumblr and insta) for my fashion projects (@renzoller-coven), including this project:
+- Tumblr 
+    - [coven](https://renzoller-coven.tumblr.com/)
+    - [dkettchen](https://dkettchen.tumblr.com/) 
+- Instagram 
+    - coven [coming soon]
+    - [dkettchen](https://www.instagram.com/dkettchen/)
+- [Bsky](https://bsky.app/profile/dkettchen.bsky.social)
+- [Youtube](https://www.youtube.com/@DKettchen)
+
+Only the github and coven are dedicated to this project/fashion stuff exclusively, the rest are just my regular accounts, so follow at your own risk of whatever other shenanigans I am up to on there 😅
 
 **Feel free to share this survey!**
 

@@ -4,7 +4,7 @@
 ### Follow the project
 You can follow my own socials (@dkettchen) for now, but I am also working on making accounts (on tumblr and insta) for my fashion projects (coven), including this project:
 - Tumblr 
-    - [coven](https://hexekreess-coven.tumblr.com/)
+    - [coven](https://renzoller-coven.tumblr.com/)
     - [dkettchen](https://dkettchen.tumblr.com/) 
 - Instagram 
     - coven [coming soon]
