@@ -2,7 +2,7 @@
 (I will be using AI/ML interchangeably throughout this document. I frankly do not care about any potential nitpicky distinctions between the two as this is not an AI/ML project and this document is aimed at both technical and non-technical audiences.)
 
 ## TLDR:
-- **This project uses no AI.**
+- **This project does not use any AI.**
 - If you use AI, please do not carelessly put any part of this project, including its documentation, into AI tools of any kind. (You can write your own summary/etc, I believe in you.)
 - If you want to ethically use our data in machine learning (ex. for your research), we have some rules outlined below for how you may do so.
 
