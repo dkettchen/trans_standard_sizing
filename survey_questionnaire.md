@@ -35,7 +35,7 @@
 | **Have you had a hysterectomy?** <br>⚪ Yes <br> ⚪ No | |
 | **Have you had any surgery that changed any of your other torso measurements?** <br>(ex. lipo) <br>⚪ Yes <br> ⚪ No | **Have you had any surgery that changed any of your other torso measurements?** <br>(ex. butt augmentation) <br>⚪ Yes <br> ⚪ No |
 | **Are you on a full/standard dose of testosterone?** 📌 <br>⚪ Yes <br> ⚪ No | **Are you on a full/standard dose of estrogen AND either on T-blockers or have had surgery to remove the testes?** 📌 <br>⚪ Yes <br> ⚪ No |
-| ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low-dose T (ex. half-dose) / <br>⬜ Anything else | ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low dose estrogen / <br>⬜ Neither T-blockers nor surgery / <br>⬜ Anything else |
+| ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low-dose T (ex. half-dose)  <br>⬜ Anything else | ↓ If yes skip / **If no please specify:** 📌 <br>⬜ Low dose estrogen  <br>⬜ Neither T-blockers nor surgery (monotherapy/E blocks the T)  <br>⬜ Neither T-blockers nor surgery (T is not blocked)  <br>⬜ Anything else |
 | | **Are you on progesterone?** 📌 <br>⚪ Yes <br> ⚪ No |
 | **Have you been on your current HRT dose consistently for the entirety of the past 3 years?** 📌 <br>⚪ Yes <br> ⚪ No | **Have you been on your current HRT dose/mix consistently for the entirety of the past 3 years?** 📌 <br>⚪ Yes <br> ⚪ No |
 | ↓ If yes skip / **If you changed dose in the past 3 years, how long have you been on your current dose?** 📌 <br>⚪ <1 year <br> ⚪ 1-2 years <br> ⚪ >2 years | ↓ If yes skip / **If you changed dose/mix in the past 3 years, how long have you been on your current dose/mix?** 📌 <br>⚪ <1 year <br> ⚪ 1-2 years <br> ⚪ >2 years |
