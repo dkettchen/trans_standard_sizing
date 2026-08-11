@@ -25,7 +25,7 @@ We'll also be tabling at various pride events this summer, where you can get mea
 
 Our minimum goal is 50 responses per direction, we are currently at: (last updated 5 Aug 2026)
 - Transmascs &emsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII | IIIII IIIII II (62) - (38 until stretch goal of 100) |
-- Transfemmes &nbsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII &emsp;&emsp; &emsp; &emsp; | &emsp;&emsp;&emsp;&emsp;(35) - (15 until minimum goal of 50)
+- Transfemmes &nbsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII I &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;(36) - (14 until minimum goal of 50)
 
 ### Site map
 - [FAQ](faq.md)
