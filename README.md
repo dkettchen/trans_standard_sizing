@@ -70,11 +70,13 @@ If there were standard measurements and drafting methods that work for trans pro
 
 > Ex. Getting a suit made-to-measure by a professional tailor is incredibly expensive, but if we had a drafting method and/or ready-made pattern for a transmasc suit, any transmasc with sewing skills (or access to someone else's sewing skills) could make a suit that fits them as well as what cis men can buy at the store for essentially just material costs.
 
-This will not only be useful to trans people and their loved ones making them clothes at home, but also to anyone in fashion industry/clothing manufacturing who has trans clients.
+This will not only be useful to trans people and their loved ones making them clothes at home, but also to anyone in fashion industry/clothing manufacturing who has (or could have) trans customers.
 
-> Ex. I need high-vis at work, but don't fit standard issue. Ill-fitting PPE is not regulation, so we need to get it custom made for me. Our supplier has meanwhile *LITERALLY GIVEN UP* as they can't provide the level of custom drafting/in person fitting required, so we will need to use a professional tailor instead.
-If there was guidance for how to source custom PPE based on our precedent, other companies would have an easier time with it in future.
-And if one could draft ready-made patterns for trans people, suppliers could even just have trans "standard issue" patterns on file for cases like this.
+> Ex. I need high-vis at work, but don't fit standard issue. Ill-fitting PPE is not regulation, so I need custom-adjusted or -made high-vis clothing whose design still has to conform to regulation. Our supplier offers alterations but has *literally given up* on my case as they can't provide the level of custom drafting/in person fitting required, so we have to use a professional tailor instead. If there was guidance based on our precedent, other companies with trans employees could have an easier time in future.
+
+> Ex. Currently the only option for transmascs to get a men's suit is to get it custom-made, which is not financially viable for the vast majority of people. Most services that offer this, whether local tailors or high street men's wear chains, work off a (cis-sized) block pattern they alter to create these suits. If they had a trans-sized block on file, they could make generic trans-sized suits to order, either removing the need to alter the pattern altogether or reducing final alterations to the same amount their much cheaper alteration service is used to from cis customers.
+
+> Ex. With free, data-based resources, queer and allied small business owners and makers (including those who are themselves trans/gender diverse) will be able to make ready-made clothes and patterns for trans and other gender diverse people without the need to fit in person on an individual, increasing their potential customer reach, the reliability of their fit, and the amount of money they can make while serving their community.
 
 ### Goal of the project
 
@@ -132,7 +134,8 @@ This aspect of the project intends to:
 1) Demonstrate that existing pattern drafting methods are inadequate for trans measurements.
 
 2) Develop measurement-based pattern drafting methods that will require minimal fitting and pattern manipulation for cis as well as trans proportions.
-    - A method to draft a transmasc suit (pants and a jacket), as appropriate suitwear is a core style of menswear and currently inaccessible to most transmascs.
+    - A method to draft a transmasc suit (pants and a jacket), as appropriate suitwear is a core style of menswear and currently inaccessible to most transmascs outside of custom made-to-measure. Suit wear was the most-requested item for transmascs in our survey.
+    - A method to draft one piece garments (ex. maxi dress, jumpsuit) for transfemmes, as this was one of the most requested item types for transfemmes in our survey so far.
     - A method to draft a bodice and pant block pattern for transmascs and transfemmes, as these will enable drafting any other styles from there.
 
 3) Produce sample garments using these drafting methods.
