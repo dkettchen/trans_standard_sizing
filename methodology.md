@@ -3,10 +3,11 @@
 - [Guiding principles](#guiding-principles)
     - [Gender theory this project prescribes to](#gender-theory-this-project-subscribes-to)
     - [General principles](#general-principles)
-    - [Anthropometry study / standard sizing / ready-made](#anthropometry-study--standard-sizing--ready-made)
-        - [Priorities](#priorities)
+    - [Standard sizing / ready-made](#standard-sizing--ready-made)
+        - [Trans standard sizing (TSS)'s priorities](#trans-standard-sizing-tsss-priorities)
     - [Sewing resources](#sewing-resources)
-    - [PPE guidance](#ppe-guidance)
+    - [Work wear guidance](#work-wear-guidance)
+    - [Surveys](#surveys)
 - [Scope](#scope)
     - [Of clothing items we want to be able to make](#of-clothing-items-we-want-to-be-able-to-make)
     - [Of demographic representation in our anthropometry data set](#of-demographic-representation-in-our-anthropometry-data-set)
@@ -90,7 +91,7 @@ This is just here to give context to the methodology choices made, as, unlike wh
         - Even in intersex people there is no functioning third or dual reproductive system nor sex hormones other than those shared with non-intersex people. We are mammals, not hermaphroditic snails or asexually reproducing bacteria.
     - Adult human bodies are not gender neutral.
         - Human sex characteristics extend beyond just reproductive function.
-        - The lack of certain sex characteristics (ex. breasts) is just as gender-connoted as their presence.
+        - In adults, the lack of certain sex characteristics (ex. breasts) is just as gender-connoted as their presence.
         - The gendered connotations of anatomy include anything caused or influenced by hormones, even things that have overlap between the sexes (ex. height).
     - Everyone has preferences about the various aspects of their gender.
     - Androgyny is not one singular thing or perfectly balanced. Even if you prefer androgyny, you still have a preference for certain types of androgyny over others.
@@ -126,10 +127,11 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
     - For fashion purposes, people should be grouped together based on physical options/circumstances and needs/goals, not labels and pronouns that may vary within those groups.
 
 3) Dysphoria safeguarding
-    - One needs to be mindful of dysphoria whenever one is working with trans people.
+    - One must be mindful of dysphoria whenever one is working with trans people.
     - People further into medical transition will be less vulnerable than people fully pre-transition.
     - However even partway into or after medical transition, people may still feel dysphoric about aspects they haven't yet or can't change, including the very bone proportions we're trying to fit for.
-    - Those most in need of accomodation around their dysphoria should be prioritised.
+    - Presence of dysphoria is prioritised over absence thereof. 
+        - -> If you don't mind [physical thing a lot of other trans people have dysphoria about], that's great for you. Other people do, and they need to be able to feel safe and comfortable in a shared space too.
 
 4) Misgendering bad 
     - Once it is avoidable, not getting misgendered as one's birth sex is the healthiest and most dignified option for trans people.
@@ -137,12 +139,12 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
     - Gender affirming healthcare is the recommended way for trans people to relieve dysphoria, improve their quality of life, and achieve more favourable sex characteristics to help with correct gendering.
         - However medical transition has its limitations and even post-transition trans people may still struggle with risk of misgendering due to their physical androgyny.
 
-5) Passing safety and dignity
+5) Preventing misgendering and enabling dignity
     - Fashion plays a crucial role in helping physically androgynous people prevent misgendering.
     - Dignity requires appropriate clothing. This includes not only appropriate physical fit, but also assistance with appropriate gendering, notably where misgendering is a risk.
         - This may be about appropriate gendered fashion shape language, or about allowing other reasonable adjustments to uniforms and dress codes to mitigate dysphoria and misgendering. (ex. pronoun badges, choice of gendered uniforms, gender neutrality where possible)
 
-## Anthropometry study / standard sizing / ready-made
+## Standard sizing / ready-made
 
 1) Sustainable fashion
     - You should invest in clothes that will last you a long time, not in clothes highly customised to a temporary body and circumstance that won't fit you in a few years.
@@ -152,26 +154,36 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
     - In the vast majority of contexts, unisex means "works for both cis men and cis women", not that it is gender diverse inclusive/friendly or gender neutral.
     - In fashion it often relies on the person's underlying body and/or gendered styling to provide the appropriate gendered shape language which is the opposite effect of what trans people with misgendering worries need.
 
-### Priorities:
-1) Anthropometry survey context data should
-    - give a picture of the respondents' body type category and shapes to facilitate grouping them
-    - give an idea of respondents' proportion compared to (cis) standard sizing
-    - not pry more than needed for data protection, safeguarding and privacy reasons
+3) Data-informed standardisation
+    - Standardised sizing and fit should be based on actual statistical data of the group it's catering to.
+    - This includes measurement data, anatomical context, and fit/style preference data.
+    - Where this data is not readily available, it should be collected where possible rather than relying on assumptions and individual or anecdotal data.
 
-2) Trans standard sized garments should:
-    - look best on people who are (as) physically post-transition (as possible) and actively trying not to get misgendered as their birth sex.
+### Trans standard sizing (TSS)'s priorities
+
+1) Post-transitional trans bodies
+    - TSS should look best on people who are (as) physically post-transition (as possible) and actively trying not to get misgendered as their birth sex.
         - Their body won't change (more than anyone else's) anymore.
-        - They are most in need of appropriately fitting target gender fashion.
-    - expect the medical interventions people of the relevant direction usually get
+        - They are most in need of appropriately fitting target gender fashion for the rest of their life.
+    - TSS should expect the medical interventions people of the relevant direction usually do (and do not) get.
         - ex. Most transmascs (eventually) get top surgery and if they (voluntarily) forgo it it's usually because they only had a small amount of breast tissue to begin with, so transmasc sizing should suppose flat(ter) chests, same as cis-male fashion.
-    - secondarily fit better than cis-sized options on the following groups as most of our fit issues arise from bones as shaped by first puberty:
+        - ex. A lot of trans people don't get bottom surgery (or get it as one of the last things in their transition), so trans-sized pants should work for people with and without extra crotch volume present.
+
+2) Shared bone fit issues as shaped by first puberty
+    - TSS should also fit better than cis-sized options on:
         - people pre- and early-transition already
         - people on lower doses of HRT
         - relevant crossdressing cis people (ex. crossplayers)
-    - match men's and women's fashion respectively in its designs to give their wearer the best shot at not being misgendered as their birth sex
+
+3) Passing safety
+    - TSS should aim to provide the best shot at passing as something other than one's birth sex.
+        - For some people there is no such shot (yet) and no amount of fashion (on its own) can change that.
+    - TSS should match men's and women's fashion respectively in its designs and shape language to give the wearer the best shot at avoiding misgendering as their birth sex.
         - ex. Suitwear for transfemmes should strictly adhere to women's fashion shape language to assure it clearly reads as women's suitwear and does not get them misgendered as men.
-    - cater to what measurements and information are needed to draft those garments
-        - ex. Women's fashion needs more intricate chest measurements, so transfemme measurements should include those.
+    - TSS should provide the measurements and information needed to design, draft, and style those garments.
+        - ex. Women's fashion needs more intricate chest measurements, so transfemme standard measurements need to include those.
+        - ex. Guidance on what fit aspects to be mindful of to help with managing dysphoria and create flattering silhouettes.
+        - ex. Guidance on which waistline to wear clothing on, as the default waistline varies between men's and women's fashion and a lot of people are unaware of this.
 
 ## Sewing resources
 
@@ -191,7 +203,7 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
     - They should be low-budget friendly and require minimal tools, material specificity, and prior training.
     - Users will be allowed to use them for commercial purposes to empower the community to profit off this knowledge beyond their own closets.
 
-## PPE guidance
+## Work wear guidance
 1) Trans lives matter
     - Trans people deserve to be protected just as much as anyone else.
     - No other consideration about their wellbeing is more important than keeping them alive and (as) physically unharmed (as possible) in the first place.
@@ -205,21 +217,65 @@ Thank you for coming to my TED talk. You may now continue to the more project-sp
     - Industries that use PPE, like the rail industry, often offer very stable, long-term employment.
     - Trans people should not be disadvantaged in accessing stable employment or being safe at their work place by things like lack of availability of appropriate work wear.
 
+## Surveys
+1) Our surveys in general should
+    - not pry more than needed for data protection, safeguarding and privacy reasons
+    - collect information as generically as reasonably possible to still provide the insights we seek
+    - be open to as many people as they can be in light of the inquiry subject
+        - ex. we're interested in measurements as impacted by medical transition -> measurements survey requires HRT but only HRT (people who have/haven't had surgery/use nonbinary labels/are on non-standard doses can still participate)
+        - ex. everyone wears waistlines, regardless of gender, label, transition stage -> anyone can participate and provide useful data to compare to each other
+
+2) Anthropometry survey 
+    - measurement data should
+        - at a minimum cover measurements to assess proportions
+        - be as accessible as possible to measure
+        - cover measurements useful for pattern drafting
+    - context data should
+        - give a picture of the respondents' body type category and shapes to facilitate grouping them
+        - give an idea of respondents' proportion compared to (cis) standard sizing
+
+3) Waistline survey should
+    - account for standard as well as non-standard waistline heights found in contemporary men's and women's fashion
+    - account for and assure adequate cover of all gender categories
+        - ensure enough participation from both cis women and cis men
+            - it is assumed that trans people will provide adequate coverage as this project is in their direct interest and they are more likely to know and send it to other trans people
+        - ensure birth sex and physical goals are collected for nonbinary label users
+        - allow people to provide context data on things like transition stage and gnc-ity
+    - allow people to provide context data on other common causes of fit issues
+
+<!-- 4) Transmasc pant fit survey should
+    - give a good idea of which kinds of pant fits transmascs prefer
+    - give insight into whether junk volume/packing would be required to achieve that look
+    - allow people to provide context data on relevant aspects about their gender and fit
+-->
+
+<!-- 5) Work wear survey 
+[coming at some point down the line]
+-->
+
 # Scope 
 
 ## Of clothing items we want to be able to make
 
-### This project aims to address gaps in what clothing is currently available to trans people due to fit issues related to things medical transition can't change.
+### This project aims to empower DIY before all else
+This means anything that can't reasonably be DIY-ed is not covered by it.
+- ex. The average person isn't making high heels or leather boots at home.
 
-This means it excludes:
-- any fit issues caused by lack or voluntary refusal of treatment
+### This project primarily aims to address gaps in what clothing is currently available to trans people due to fit issues related to things even medical transition can't change.
+
+This means it excludes or deprioritises where reasonable to:
+- fit issues caused by lack or voluntary refusal of treatment
     - ex. related to pre-/non-op genitals, transmasc breasts, etc
+    - The project still aims to be inclusive of people waiting for surgery/living non-op where reasonably possible without impacting fit for those who do get surgery. 
+        - ex. Our data so far indicates that normal chest ease in transmasc sizing should easily be able to also accomodate those binding as the average difference between pre-op binding and post-op transmasc chest measurements is only around 2cm.
 - anything that is still available from one's birth sex aisle or can be purchased independantly of gendered aisle
     - ex. underwear for unmodified genitals not intended to reshape them
     - ex. accessories, head-, hand- and footwear
 - anything that is already commercially available or can be made using existing sewing resources
     - ex. binders, tucking & packing underwear
     - ex. masc underwear without extra junk space, femme underwear with extra junk space
+    - ex. masc shoes in smaller sizes, femme shoes in bigger sizes
+
 
 ### This project primarily concerns itself with contemporary everyday wear and clothing that will help prevent misgendering where possible.
 
@@ -233,7 +289,7 @@ This means it:
 - prioritises core styles of the respective gendered fashion over fringe styles
     - ex. Transmasc suitwear is more important to have the measurements for than say transmasc corsetry.
 
-### However the project does not prescribe what is to be drafted with the measurements it produces.
+### However the project does not prescribe what is to be designed and drafted with the measurements and resources it produces.
 - It should allow for measurements for gnc styles. (ex. collar measurements for transfemme suitwear, ex. transmasc underbust for tighter fitting garments)
 - It should allow for crossdresser use. (ex. collecting both waistlines for everyone)
     - There are good reasons why some trans people want to crossdress and get themselves misgendered for the time being, such as living out of role while unable to pass, however the author does not endorse crossdressing past the point it is absolutely necessary for the sake of your own sanity, trust me.
@@ -245,8 +301,9 @@ This means it:
 - Sharing an english speaking survey online will bias the data set towards the english speaking world not only in location, language and cultural background but also in terms of racial distribution associated with it.
     - So far it's been most shared on tumblr, which adds a strong transmasc bias as well.
     - An online survey also requires people to have access to electronics to find and fill it out on, meaning people from lower-income backgrounds may be underrepresented.
-- Any project-internal in-person data gathering will happen in the UK (or at most Europe), which will further contribute to the anglo- and euro-centric bias.
-- Any cis, no-med and pre-med gender diverse folks are excluded from the survey as unmodified bodies are already covered by existing anthropometry data sets.
+- Any project-internal in-person data gathering will happen in the UK, which will further contribute to the anglo- and euro-centric bias.
+- Any cis, no-med and pre-med gender diverse folks are excluded from the measurements survey as unmodified bodies are already covered by existing anthropometry data sets.
+    - [This includes no-HRT only-top-surgery transmascs being excluded, as explained in our FAQ.](faq.md#why-no-transmasc-respondants-who-only-got-top-surgery-and-dont-want-testosterone)
 - Some subsets of the trans community are less likely to qualify than others due to age, location, or gender complexity.
 - Some people dislike the buzz word of standard sizing or have less stake in the issue we're trying to solve and will be less likely to respond.
 
@@ -261,7 +318,7 @@ We are tracking transition direction, and aim to get a minimum of 50 responses f
 
 ## Of physical body types we record in our anthropometry data set
 
-### This project is about post-transitional trans bodies. 
+### This survey is about post-transitional trans bodies. 
 It excludes unmodified bodies as those are covered by existing anthropometry data sets.
 
 Working with (a specific subset of) post-transitional bodies means:
@@ -292,7 +349,7 @@ Its scope excludes:
             - They may not neatly fit into our categories of transmasc/transfemme, and may not be able to accurately answer all our questions if they qualify to begin with.
         - Other intersex people will be close enough to non-intersex trans body types to participate just fine.
         - Some intersex people also straight up don't know that they are intersex in the first place.
-    - We're not excluding people based on being intersex, nor tracking whether they are, due to this wide range of experiences where some qualify and some don't.
+    - We're not excluding people from the body measurements survey based on being intersex, nor tracking whether they are, due to this wide range of experiences where some qualify and some don't.
     - Even if intersex people participate and answer any of our info questions in a way that doesn't align with our assumptions (ex. have you had surgery to remove your gamedes? no -> does that mean you still have them or were you born without them?), there should be few enough of them that it won't scew the overall sample.
         - Ex. In the biggest-to-date year for the Gender Census (2024), [only about 200 out of the 48,000 respondents wrote in that they were intersex](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/write_in_intersections.png). Meanwhile [over half identified themselves as trans](https://github.com/dkettchen/gender_census_2024_data/blob/main/visualisation/charts/label_tickbox_trans_cis_pie.png). In the US Transgender Survey 2022, only 5% of respondents reported being born intersex or with a physical sex variance.
 - Anything more intricate, less standardised, and/or less easy to determine for the average respondent
@@ -304,6 +361,10 @@ Its scope excludes:
 Measuring instructions and visual guidance are provided with the [survey questions](survey_questionnaire.md).
 
 No ease is built into these measurements, as we are trying to assess people's actual bodies. The only measurements with tension instructions are transfemme bra measurements, following the instructions from [ABraThatFits](https://www.abrathatfits.org/calculator.php).
+
+Due to relying on individuals measuring themselves and the chaotic environment of measuring event attendees at prides, rather than in a controlled environment studies surveying the general population may be able to provide, we are expecting a certain level of human error and inaccuracies in the final measurements.
+
+The author aims to remove as many identifiably unrealistic measurements as possible via data cleaning, but the measurement data should still not be assumed to be 100% accurate or exact. This data set is intended to give approximate and generaliseable insights into trans proportions.
 
 # Sources
 
@@ -332,6 +393,7 @@ Bolze, A., Bruce, L., Khouri, A.N., et al. (2023) *Long-Term Regret and Satisfac
 
 <!--  
 more sources to add:
+- ... do I need to cite myself????
 - more on that gender affirming healthcare as recommended
     - check the list from finnster's anne health video
     - check the charities that have lists like that too
