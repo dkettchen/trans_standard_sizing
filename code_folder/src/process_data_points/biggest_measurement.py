@@ -1,6 +1,6 @@
 import pandas as pd
 from typing import Literal
-from code_folder.utils.lookup import processed_data_folder, gender_categories
+from code_folder.lookup import processed_data_folder, gender_categories
 
 # UTILS
 def find_biggest(row:pd.Series):

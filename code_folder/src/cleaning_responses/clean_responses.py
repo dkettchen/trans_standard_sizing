@@ -1,8 +1,8 @@
-from code_folder.src.clean_columns import run_clean_columns
-from code_folder.src.clean_values import run_clean_values
+from code_folder.src.cleaning_responses.clean_columns import run_clean_columns
+from code_folder.src.cleaning_responses.clean_values import run_clean_values
 from code_folder.utils.print_averages import print_averages
 from code_folder.utils.convert_unit import convert_unit_to
-from code_folder.utils.lookup import response_file, clean_columns_file, cm_full_file, inch_full_file
+from code_folder.lookup import response_file, clean_columns_file, cm_full_file, inch_full_file
 
 print_what_outliers_were_removed = False
 

@@ -1,5 +1,5 @@
 import pandas as pd
-from code_folder.utils.lookup import chest_meas, meas
+from code_folder.lookup import chest_meas, meas
 
 def fix_decimal_places(input_df:pd.DataFrame, print_updates:bool=True):
     """

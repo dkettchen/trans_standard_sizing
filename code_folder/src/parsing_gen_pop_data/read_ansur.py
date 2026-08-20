@@ -1,4 +1,4 @@
-from code_folder.utils.lookup import gen_pop_folder, clean_gen_pop_folder
+from code_folder.lookup import gen_pop_folder, clean_gen_pop_folder
 import pandas as pd
 from code_folder.utils.detect_encoding import detect_encoding
 from code_folder.src.parsing_gen_pop_data.column_lookup import ANSUR_I, ANSUR_II

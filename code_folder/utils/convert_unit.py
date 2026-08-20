@@ -1,7 +1,7 @@
 import pandas as pd
 from typing import Literal
 from code_folder.utils.unit_conversion import convert_measurement, opposite_unit
-from code_folder.utils.lookup import chest_meas, meas
+from code_folder.lookup import chest_meas, meas
 
 def convert_unit_to(input_df:pd.DataFrame, unit:Literal["cm", "inch"]):
     """

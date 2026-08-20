@@ -1,4 +1,4 @@
-from code_folder.utils.lookup import separated_files_folder, processed_data_folder
+from code_folder.lookup import separated_files_folder, processed_data_folder
 import pandas as pd
 
 def fit_change():

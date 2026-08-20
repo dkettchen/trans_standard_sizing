@@ -1,24 +1,21 @@
-"""run all the code in order whenever we got a new response file"""
+"""run all the vis code in order whenever we got a new response file"""
 
-from code_folder.src.clean_responses import run_cleaning
-from code_folder.src.separate_files import separate_into_files
-from code_folder.src.suggestions import parse_suggestions
-from code_folder.src.rating_height import get_heights_and_compare
-from code_folder.utils.lookup import processed_data_folder, charts_folder
-from code_folder.src.crotch_volume import crotch_volume
-from code_folder.src.fit_issues import fit_issues
-from code_folder.src.torso_proportions import torso_proportions
-from code_folder.src.biggest_measurement import biggest_measurement
-from code_folder.src.how_did_fit_change import fit_change
-from code_folder.src.transmasc_bust_comparison import bust_comparison
+from code_folder.lookup import processed_data_folder, charts_folder
+
+from code_folder.src.process_data_points.suggestions import parse_suggestions
+from code_folder.src.process_data_points.rating_height import get_heights_and_compare
+from code_folder.src.process_data_points.crotch_volume import crotch_volume
+from code_folder.src.process_data_points.fit_issues import fit_issues
+from code_folder.src.process_data_points.torso_proportions import torso_proportions
+from code_folder.src.process_data_points.biggest_measurement import biggest_measurement
+from code_folder.src.process_data_points.how_did_fit_change import fit_change
+from code_folder.src.process_data_points.transmasc_bust_comparison import bust_comparison
+from code_folder.src.process_data_points.cup_sizes import cup_sizes
+from code_folder.src.process_data_points.hip_to_waist_diff import hip_to_waist_diff
+
 from code_folder.src.visualise import visualise
 from code_folder.src.visualise_ratios import compare
 
-# ## clean and format raw data
-# # clean data
-# run_cleaning()
-# # separate into smaller files
-# separate_into_files()
 
 # ## process data into insights
 # # what garments did people request?
@@ -39,6 +36,10 @@ from code_folder.src.visualise_ratios import compare
 #     df = change[key]
 #     df.to_csv(f"{processed_data_folder}/how_did_fit_change_{key}.csv", index=False)
 # bust_comparison("cm") # prints its own files
+# cup_sizes() # TODO figure out diff cis data w underbust & bust pls
+# hip_to_waist_diff() # ditto for nat vs low waist bc this also seems strange I think the 80s data is just busted 
+                     # and the newer one doesn't have two waists smh
+
 
 # TODO
 # ✅ - how well did they fit standard sizing pre-transition vs how did they rate the change scatter
@@ -52,8 +53,7 @@ from code_folder.src.visualise_ratios import compare
         # we can just add enough ease to make sure binder chests have space enough
         # without looking weird on post-op chests
             # code to calculate it is commented out in the vis file
-# - thigh to hip ratio
-# - waist to hip ratio
+# transfemme cup sizes vs cis women's cup sizes
 
 ## visualise
 # fit_issue_fig_dict = visualise("fit_issues")

@@ -1,5 +1,5 @@
 import pandas as pd
-from code_folder.utils.lookup import (
+from code_folder.lookup import (
     cm_full_file, inch_full_file, 
     meas, chest_meas, 
     med_qs, body_qs, standard_sizing_qs, fit_issues,
@@ -65,4 +65,17 @@ def separate_into_files():
             meas_file = f"{separated_files_folder}/measurements_in_{unit}_{direction}.csv"
             meas_df.to_csv(meas_file, index=True)
 
+            if unit == "cm":
+                ratio_df = meas_df.copy()
+                for col in ratio_df.columns:
+                    if col in ["unit", "top surgery", "height (REQUIRED)"]:
+                        continue
+                    
+                    # calculate ratio to height
+                    ratio_df[col] = ratio_df[col] / ratio_df["height (REQUIRED)"]
+                
+                ratio_df.pop("unit")
+
+                ratio_file = f"{separated_files_folder}/measurement_ratio_to_height_{direction}.csv"
+                ratio_df.to_csv(ratio_file, index=True)
 

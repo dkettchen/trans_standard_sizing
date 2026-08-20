@@ -1,7 +1,7 @@
 import pandas as pd
 from code_folder.utils.standard_deviation import standard_deviation
 from code_folder.utils.unit_conversion import convert_measurement
-from code_folder.utils.lookup import chest_meas, meas
+from code_folder.lookup import chest_meas, meas
 
 def print_averages(input_df:pd.DataFrame):
     """prints averages and standard deviation of relevant measurements in input data"""

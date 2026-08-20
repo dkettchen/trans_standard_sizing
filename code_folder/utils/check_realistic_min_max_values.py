@@ -1,5 +1,5 @@
 import pandas as pd
-from code_folder.utils.lookup import (
+from code_folder.lookup import (
     chest_meas, meas, 
     smallest_measurements, 
     min_max_values, 

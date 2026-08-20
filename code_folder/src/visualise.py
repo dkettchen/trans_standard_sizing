@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from code_folder.utils.lookup import processed_data_folder, gender_categories, suffix
+from code_folder.lookup import processed_data_folder, gender_categories, suffix
 from re import sub, split
 from code_folder.utils.calculate_trendline import calculate_trendline
 import os

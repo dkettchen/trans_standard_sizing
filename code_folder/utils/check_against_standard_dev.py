@@ -1,6 +1,6 @@
 import pandas as pd
 from code_folder.utils.standard_deviation import standard_deviation
-from code_folder.utils.lookup import chest_meas, meas, torso_meas, torso_dist
+from code_folder.lookup import chest_meas, meas, torso_meas, torso_dist
 from code_folder.utils.compare_measurements import (
     compare_torso_measurements, 
     compare_torso_distances, 

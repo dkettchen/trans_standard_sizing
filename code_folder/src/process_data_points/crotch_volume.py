@@ -1,4 +1,4 @@
-from code_folder.utils.lookup import separated_files_folder
+from code_folder.lookup import separated_files_folder
 import pandas as pd
 
 def crotch_volume():

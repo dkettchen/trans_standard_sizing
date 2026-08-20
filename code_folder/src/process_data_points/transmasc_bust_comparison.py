@@ -6,7 +6,7 @@
 
 import pandas as pd
 from typing import Literal
-from code_folder.utils.lookup import separated_files_folder, processed_data_folder
+from code_folder.lookup import separated_files_folder, processed_data_folder
 
 def bust_comparison(unit:Literal["cm", "inch"]="cm"):
     """

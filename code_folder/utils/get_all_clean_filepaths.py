@@ -1,4 +1,4 @@
-from code_folder.utils.lookup import separated_files_folder, clean_gen_pop_folder
+from code_folder.lookup import separated_files_folder, clean_gen_pop_folder
 from typing import Literal
 
 def get_filepaths(which:Literal["Trans", "Cis", "Both"]="Both", unit:Literal["cm", "inch"]="cm"):

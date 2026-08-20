@@ -1,5 +1,5 @@
 import pandas as pd
-from code_folder.utils.lookup import separated_files_folder, processed_data_folder
+from code_folder.lookup import separated_files_folder, processed_data_folder
 from re import split, sub
 
 items = {
