@@ -23,8 +23,8 @@ You can follow my own socials (@dkettchen) for now, but I am also working on mak
 We'll also be tabling at various pride events this summer, where you can get measured in person
 - [List of pride events 2026](pride_events_2026.md)
 
-Our minimum goal is 50 responses per direction, we are currently at: (last updated 11 Aug 2026)
-- Transmascs &emsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII | IIIII IIIII II (62) - (38 until stretch goal of 100) |
+Our minimum goal is 50 responses per direction, we are currently at: (last updated 22 Aug 2026)
+- Transmascs &emsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII IIIII | IIIII IIIII III (63) - (37 until stretch goal of 100) |
 - Transfemmes &nbsp; IIIII IIIII IIIII IIIII IIIII IIIII IIIII I &emsp;&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;&emsp;(36) - (14 until minimum goal of 50)
 
 ### Site map
